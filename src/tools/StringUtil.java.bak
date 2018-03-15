@@ -49,14 +49,14 @@ public class StringUtil {
 	 * @param length The length to pad to.
 	 * @return The padded string.
 	 */
-    public static String getRightPaddedStr(String in, char padchar, int length) { //支持中文
-        StringBuilder builder = new StringBuilder(in);
-        for (int x = in.getBytes().length; x < length; x++) {
-            builder.append(padchar);
-        }
-        return builder.toString();
-    }  
-       
+	public static String getRightPaddedStr(String in, char padchar, int length) {
+		StringBuilder builder = new StringBuilder(in);
+		for (int x = in.length(); x < length; x++) {
+			builder.append(padchar);
+		}
+		return builder.toString();
+	}
+
 	/**
 	 * Joins an array of strings starting from string <code>start</code> with
 	 * a space.

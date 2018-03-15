@@ -61,9 +61,9 @@ public final class CreateCharHandler extends AbstractMaplePacketHandler {
 	@Override
 	public final void handlePacket(SeekableLittleEndianAccessor slea, MapleClient c) {
 		String name = slea.readMapleAsciiString();
-		if (!MapleCharacter.canCreateChar(name)) {
+		/*if (!MapleCharacter.canCreateChar(name)) {
 			return;
-		}
+		}*/
 		MapleCharacter newchar = MapleCharacter.getDefault(c);
 		newchar.setWorld(c.getWorld());
 
