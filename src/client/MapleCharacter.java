@@ -907,8 +907,8 @@ public class MapleCharacter extends AbstractAnimatedMapleMapObject {
             return FameStatus.OK;
         } else if (lastfametime >= System.currentTimeMillis() - 3600000 * 24) {
             return FameStatus.NOT_TODAY;
-        } else if (lastmonthfameids.contains(Integer.valueOf(from.getId()))) {
-            return FameStatus.NOT_THIS_MONTH;
+        //} else if (lastmonthfameids.contains(Integer.valueOf(from.getId()))) {
+            //return FameStatus.NOT_THIS_MONTH;
         } else {
             return FameStatus.OK;
         }

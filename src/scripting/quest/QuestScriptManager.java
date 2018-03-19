@@ -70,6 +70,7 @@ public class QuestScriptManager extends AbstractScriptManager {
 				engine.put("qm", qm);
 				scripts.put(c, iv);
 				c.setClickedNPC();
+                                c.getPlayer().dropMessage("正在进行" + questid + "任务。");
 				iv.invokeFunction("start", (byte) 1, (byte) 0, 0);
 			}
 		} catch (final UndeclaredThrowableException ute) {
@@ -159,6 +160,11 @@ public class QuestScriptManager extends AbstractScriptManager {
 		}
 	}
 
+        public void reloadQuestScripts() {
+        scripts.clear();
+        qms.clear();
+    }
+        
 	public QuestActionManager getQM(MapleClient c) {
 		return qms.get(c);
 	}

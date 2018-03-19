@@ -101,6 +101,8 @@ import client.inventory.MaplePet;
 import constants.ItemConstants;
 import constants.ServerConstants;
 import java.util.ArrayList;
+import scripting.quest.QuestScriptManager;
+import scripting.reactor.ReactorScriptManager;
 import server.life.SpawnPoint;
 import server.maps.FieldLimit;
 
@@ -411,7 +413,32 @@ public class Commands {
 			output += "\r\nPlease keep in mind that there are items that are in all gachapons and are not listed here.";
 			c.announce(MaplePacketCreator.getNPCTalk(9010000, (byte) 0, output, "00 00", (byte) 0));
 			break;
-                    
+                case "mapid":
+                        c.getPlayer().dropMessage(6, "你在地图 " + c.getPlayer().getMap().getId());
+			break;
+                case "reloadq":
+                        QuestScriptManager.getInstance().reloadQuestScripts();
+                        player.yellowMessage("任务脚本重载完毕" );
+			break;
+                case "reloadd":
+                        MapleMonsterInformationProvider.getInstance().clearDrops();
+                        ReactorScriptManager.getInstance().clearDrops();
+                        player.yellowMessage("掉落重载完毕" );
+			break;
+                case "reloads":
+                        MapleShopFactory.getInstance().clear();
+                        player.yellowMessage("商店重载完毕" );
+			break;
+                case "reloade":
+                        for (Channel instance : Server.getInstance().getChannelsFromWorld(player.getWorld())) {
+                            instance.reloadEventScriptManager();
+                        }
+                        player.yellowMessage("副本脚本重载完毕" );
+			break;
+                case "reloadp":
+                        PortalScriptManager.getInstance().reloadPortalScripts();
+                        player.yellowMessage("入口脚本重载完毕" );
+			break;
 		case "whatdropsfrom":
 			if (sub.length < 2) {
 				player.dropMessage(5, "Please do @whatdropsfrom <monster name>");
@@ -1558,23 +1585,6 @@ public class Commands {
 			}
 			player.message(st);
                     break;
-         
-		case "reloadevents":
-			for (Channel ch : Server.getInstance().getAllChannels()) {
-				ch.reloadEventScriptManager();
-			}
-			player.dropMessage(5, "Reloaded Events");
-                    break;
-                    
-		case "reloaddrops":
-			MapleMonsterInformationProvider.getInstance().clearDrops();
-			player.dropMessage(5, "Reloaded Drops");
-                    break;
-                    
-		case "reloadportals":
-			PortalScriptManager.getInstance().reloadPortalScripts();
-			player.dropMessage(5, "Reloaded Portals");
-                    break;
                     
                 case "reloadmap":
 			MapleMap oldMap = c.getPlayer().getMap();
@@ -2673,7 +2683,7 @@ public class Commands {
         
         public static boolean executeHeavenMsCommand(Channel cserv, Server srv, MapleClient c, String[] sub, int gmLevel) {
                 if(gmLevel == -1) {
-                        c.getPlayer().yellowMessage("Command '" + sub[0] + "' is not available. See @commands for a list of available commands.");
+                        c.getPlayer().yellowMessage("命令 '" + sub[0] + "' 无效. 请查看 @commands 里面的命令指南.");
                         return false;
                 }
                 

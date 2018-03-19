@@ -37,6 +37,11 @@ public class MapleShopFactory {
         return instance;
     }
 
+    public void clear() {
+        shops.clear();
+        npcShops.clear();
+    }
+    
     public void reloadShops() {
         shops.clear();
     }

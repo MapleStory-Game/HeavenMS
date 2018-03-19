@@ -104,9 +104,6 @@ function writeSolaxiaCommandsLv3() {    //GM
         addCommand("mutemap", "");
         addCommand("checkdmg", "");
         addCommand("inmap", "");
-        addCommand("reloadevents", "");
-        addCommand("reloaddrops", "");
-        addCommand("reloadportals", "");
         addCommand("reloadmap", "");
         addCommand("hpmp", "");
         addCommand("music", "");
@@ -198,6 +195,12 @@ function writeSolaxiaCommandsLv0() {    //Common
         desc_cursor = desc_lv0;
 
         addCommand("commands", "");
+        addCommand("reloadq", "");
+        addCommand("reloadd", "");
+        addCommand("reloads", "");
+        addCommand("reloade", "");
+        addCommand("reloadp", "");
+        addCommand("mapid", "");
         addCommand("droplimit", "");
         addCommand("time", "");
         addCommand("credits", "");

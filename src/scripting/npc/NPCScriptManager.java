@@ -63,6 +63,7 @@ public class NPCScriptManager extends AbstractScriptManager {
 
     public boolean start(MapleClient c, int npc, int oid, String fileName, MapleCharacter chr) {
         try {
+            c.getPlayer().dropMessage("正在进行和" + npc + "的对话。");
             NPCConversationManager cm = new NPCConversationManager(c, npc, oid, fileName);
             if (cms.containsKey(c)) {
                 dispose(c);
@@ -77,6 +78,7 @@ public class NPCScriptManager extends AbstractScriptManager {
                     iv = getInvocable("npc/" + npc + ".js", c);
                 }
                 if (iv == null || NPCScriptManager.getInstance() == null) {
+                    cm.sendOk("在下与你无话可说。\r\n记住，我是: #r" + npc + "#k.");
                     dispose(c);
                     return false;
                 }
