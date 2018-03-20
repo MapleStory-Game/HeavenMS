@@ -240,7 +240,7 @@ public final class PlayerLoggedinHandler extends AbstractMaplePacketHandler {
             }
                     */
             if (player.isGM()){
-            	Server.getInstance().broadcastGMMessage(c.getWorld(), MaplePacketCreator.earnTitleMessage((player.gmLevel() < 6 ? "GM " : "Admin ") + player.getName() + " has logged in"));
+            	Server.getInstance().broadcastGMMessage(c.getWorld(), MaplePacketCreator.earnTitleMessage((player.gmLevel() < 6 ? "GM " : "Admin ") + player.getName() + " 登陆了"));
             }
             
         }

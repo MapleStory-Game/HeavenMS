@@ -49,7 +49,7 @@ public final class NPCTalkHandler extends AbstractMaplePacketHandler {
         MapleMapObject obj = c.getPlayer().getMap().getMapObject(oid);
         if (obj instanceof MapleNPC) {
             MapleNPC npc = (MapleNPC) obj;
-            if(ServerConstants.USE_DEBUG == true) c.getPlayer().dropMessage(5, "Talking to NPC " + npc.getId());
+            c.getPlayer().dropMessage(5, "正在与 " + npc.getId() +" 对话 ");
             
             if (npc.getId() == 9010009) {   //is duey
                 c.getPlayer().setNpcCooldown(System.currentTimeMillis());
@@ -66,7 +66,8 @@ public final class NPCTalkHandler extends AbstractMaplePacketHandler {
                     boolean hasNpcScript = NPCScriptManager.getInstance().start(c, npc.getId(), oid, null);
                     if (!hasNpcScript) {
                         if (!npc.hasShop()) {
-                            FilePrinter.printError(FilePrinter.NPC_UNCODED, "NPC " + npc.getName() + "(" + npc.getId() + ") is not coded.\r\n");
+                            c.getPlayer().dropMessage("在下与你无话可说。\r\n记住，我是: " + npc.getId() + ".");
+                            FilePrinter.printError(FilePrinter.NPC_UNCODED, "NPC " + npc.getName() + "(" + npc.getId() + ") 没有代码.\r\n");
                             return;
                         } else if(c.getPlayer().getShop() != null) {
                             c.announce(MaplePacketCreator.enableActions());

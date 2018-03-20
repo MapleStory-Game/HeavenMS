@@ -223,34 +223,22 @@ public class MapleStorage {
     }
 
     public void sendStorage(MapleClient c, int npcId) {
-        if (c.getPlayer().getLevel() < 15){
-            c.getPlayer().dropMessage(1, "You may only use the storage once you have reached level 15.");
-            c.announce(MaplePacketCreator.enableActions());
-            return;
-        }
-        
-        lock.lock();
-        try {
-            Collections.sort(items, new Comparator<Item>() {
-                @Override
-                public int compare(Item o1, Item o2) {
-                    if (o1.getInventoryType().getType() < o2.getInventoryType().getType()) {
-                        return -1;
-                    } else if (o1.getInventoryType() == o2.getInventoryType()) {
-                        return 0;
-                    }
-                    return 1;
+        final MapleItemInformationProvider ii = MapleItemInformationProvider.getInstance();
+        Collections.sort(items, new Comparator<Item>() {
+            @Override
+            public int compare(Item o1, Item o2) {
+                if (ii.getInventoryType(o1.getItemId()).getType() < ii.getInventoryType(o2.getItemId()).getType()) {
+                    return -1;
+                } else if (ii.getInventoryType(o1.getItemId()) == ii.getInventoryType(o2.getItemId())) {
+                    return 0;
                 }
-            });
-            
-            List<Item> storageItems = getItems();
-            for (MapleInventoryType type : MapleInventoryType.values()) {
-                typeItems.put(type, new ArrayList<>(storageItems));
+                return 1;
             }
-            c.announce(MaplePacketCreator.getStorage(npcId, slots, storageItems, meso));
-        } finally {
-            lock.unlock();
+        });
+        for (MapleInventoryType type : MapleInventoryType.values()) {
+            typeItems.put(type, new ArrayList<>(items));
         }
+        c.announce(MaplePacketCreator.getStorage(npcId, slots, items, meso));
     }
 
     public void sendStored(MapleClient c, MapleInventoryType type) {

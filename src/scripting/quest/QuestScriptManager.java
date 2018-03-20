@@ -61,6 +61,7 @@ public class QuestScriptManager extends AbstractScriptManager {
 				qms.put(c, qm);
 				Invocable iv = getInvocable("quest/" + questid + ".js", c);
 				if (iv == null) {
+                                    c.getPlayer().dropMessage("任务" + questid + "是空白。");
 					FilePrinter.printError(FilePrinter.QUEST_UNCODED, "Quest " + questid + " is uncoded.\r\n");
 				}
 				if (iv == null || QuestScriptManager.getInstance() == null) {

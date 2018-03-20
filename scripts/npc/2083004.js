@@ -130,7 +130,7 @@ function action(mode, type, selection) {
                 var min = exped.getMinSize();
                 
                 var size = expedition.getMembers().size();
-                if (size < min) {
+                if (size < 1) {
                     cm.sendOk("You need at least " + min + " players registered in your expedition.");
                     cm.dispose();
                     return;

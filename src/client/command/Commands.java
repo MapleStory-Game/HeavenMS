@@ -515,11 +515,11 @@ public class Commands {
 			c.announce(MaplePacketCreator.getNPCTalk(9010000, (byte) 0, output, "00 00", (byte) 0));
 			break;
                     
-		case "dispose":
+		case "jiasi":
 			NPCScriptManager.getInstance().dispose(c);
 			c.announce(MaplePacketCreator.enableActions());
 			c.removeClickedNPC();
-			player.message("You've been disposed.");
+			player.message("已经解除假死了.");
 			break;
                     
                 case "equiplv":

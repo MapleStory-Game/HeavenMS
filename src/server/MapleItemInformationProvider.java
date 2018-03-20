@@ -1875,6 +1875,46 @@ public class MapleItemInformationProvider {
         return skillbook;
     }
 
+    public MapleInventoryType getInventoryType(int itemId) {
+        final byte type = (byte) (itemId / 1000000);
+        if (type < 1 || type > 5) {
+            return MapleInventoryType.UNDEFINED;
+        }
+        return MapleInventoryType.getByType(type);
+//        if (inventoryTypeCache.containsKey(itemId)) {
+//            return inventoryTypeCache.get(itemId);
+//        }
+//        MapleInventoryType ret;
+//        String idStr = "0" + String.valueOf(itemId);
+//        MapleDataDirectoryEntry root = itemData.getRoot();
+//        for (MapleDataDirectoryEntry topDir : root.getSubdirectories()) {
+//            for (MapleDataFileEntry iFile : topDir.getFiles()) {
+//                if (iFile.getName().equals(idStr.substring(0, 4) + ".img")) {
+//                    ret = MapleInventoryType.getByWZName(topDir.getName());
+//                    inventoryTypeCache.put(itemId, ret);
+//                    return ret;
+//                } else if (iFile.getName().equals(idStr.substring(1) + ".img")) {
+//                    ret = MapleInventoryType.getByWZName(topDir.getName());
+//                    inventoryTypeCache.put(itemId, ret);
+//                    return ret;
+//                }
+//            }
+//        }
+//        root = equipData.getRoot();
+//        for (MapleDataDirectoryEntry topDir : root.getSubdirectories()) {
+//            for (MapleDataFileEntry iFile : topDir.getFiles()) {
+//                if (iFile.getName().equals(idStr + ".img")) {
+//                    ret = MapleInventoryType.EQUIP;
+//                    inventoryTypeCache.put(itemId, ret);
+//                    return ret;
+//                }
+//            }
+//        }
+//        ret = MapleInventoryType.UNDEFINED;
+//        inventoryTypeCache.put(itemId, ret);
+//        return ret;
+    }
+
     public class scriptedItem {
 
         private boolean runOnPickup;
