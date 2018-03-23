@@ -250,7 +250,7 @@ public final class PlayerLoggedinHandler extends AbstractMaplePacketHandler {
         if (player.getMap().getHPDec() > 0) player.resetHpDecreaseTask();
         
         player.resetPlayerRates();
-        if(ServerConstants.USE_ADD_RATES_BY_LEVEL == true) player.setPlayerRates();
+        //if(ServerConstants.USE_ADD_RATES_BY_LEVEL == true) player.setPlayerRates();
         player.setWorldRates();
         player.updateCouponRates();
         

@@ -4956,7 +4956,7 @@ public class MapleCharacter extends AbstractAnimatedMapleMapObject {
             client.getWorldServer().broadcastPacket(MaplePacketCreator.serverNotice(6, String.format(LEVEL_200, names, names)));
         }
         
-        if(level % 20 == 0 && ServerConstants.USE_ADD_SLOTS_BY_LEVEL == true) {
+        /*if(level % 20 == 0 && ServerConstants.USE_ADD_SLOTS_BY_LEVEL == true) {
             if (!isGM()) {
                 for (byte i = 1; i < 5; i++) {
                     gainSlots(i, 4, true);
@@ -4969,7 +4969,7 @@ public class MapleCharacter extends AbstractAnimatedMapleMapObject {
             revertLastPlayerRates();
             setPlayerRates();
             this.yellowMessage("You managed to get level " + level + "! Getting experience and items seems a little easier now, huh?");
-        }
+        }*/
         
         levelUpMessages();
         guildUpdate();
