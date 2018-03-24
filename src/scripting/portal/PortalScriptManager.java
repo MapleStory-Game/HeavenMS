@@ -86,7 +86,7 @@ public class PortalScriptManager {
         PortalScript script = getPortalScript(portal.getScriptName());
         if (script != null) {
             try {
-                c.getPlayer().yellowMessage("正在使用" + portal.getScriptName() + "进行传送。");
+                //c.getPlayer().yellowMessage("正在使用" + portal.getScriptName() + "进行传送。");
                 System.err.println("正在使用" + portal.getScriptName() + "进行传送。");
                 return script.enter(new PortalPlayerInteraction(c, portal));
             } catch (Exception e) {

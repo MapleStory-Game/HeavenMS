@@ -10,14 +10,11 @@
 **/
 
 var menu = new Array("Victoria Island");
-var method;
-
-var hasCoupon = false;
+var duration = 60;
+var map = 200090031;
 
 function start() {
 	status = -1;
-        if(cm.haveItem(4032288)) hasCoupon = true;
-        
 	action(1, 0, 0);
 }
 
@@ -36,29 +33,33 @@ function action(mode, type, selection) {
 		}
 		status++;
 		if (status == 0) {
-                        if(!hasCoupon) {
-                                var display = "";
-                                for(var i=0; i < menu.length; i++) {
-					display += "\r\n#L"+i+"##b Victoria Island (1000 mesos)#k";
+			for(var i=0; i < menu.length; i++) {
+					var display = "\r\n#L"+i+"##b Victoria Island (1000 mesos)#k";
 				}			
 				cm.sendSimple("Eh, Hello...again. Do you want to leave Ereve and go somewhere else? If so, you've come to the right place. I operate a ferry that goes from #bEreve#k to #bVictoria Island#k, I can take you to #bVictoria Island#k if you want... You'll have to pay a fee of #b1000#k Mesos.\r\n"+display);
-                        } else {
-                                cm.sendYesNo("Hmm, hi there. I see you have been recommended by Neinheart to go to Victoria Island to improve your knightly skills. Well, just this time the ride will be free of charges. Will you embark?");
-                        }
 			
 		} else if(status == 1) {
-                        if(hasCoupon) {
-                                cm.gainItem(4032288, -1);
-				cm.warp(200090031);
-				cm.dispose();
-                        } else if(cm.getMeso() < 1000) {
+			 if(cm.getMeso() < 1000) {
 				cm.sendNext("Hmm... Are you sure you have #b1000#k Mesos? Check your Inventory and make sure you have enough. You must pay the fee or I can't let you get on...");
-				cm.dispose();
 			} else {
-				cm.gainMeso(-1000);
-				cm.warp(200090031);
-				cm.dispose();
-                        }
-                }
-	}
+            for (var i = 0; i < 10; i++) {
+     			if (cm.getPlayerCount(map) == 0) {
+                    cm.gainMeso(-1000);
+                    cm.getPlayer().setTravelTime(duration);
+                    cm.warp(map);
+					cm.setClock(cm.getClient(), duration);
+                    cm.dispose();
+                    return;
+                    }
+				if (i = 5) {
+					map = 200090051
+				}  else {	
+				    map = map + 2
+				}
+            } 
+				  cm.sendNext("Seems all ships are taken, try again in a bit.");
+                  cm.dispose();				  
+				}
+			} 
+	  }
 }

@@ -159,6 +159,8 @@ public class MapleMap {
     private final WriteLock chrWLock;
     private final ReadLock objectRLock;
     private final WriteLock objectWLock;
+    
+    private final ReentrantReadWriteLock charactersLock = new ReentrantReadWriteLock();
 
     // due to the nature of loadMapFromWz (synchronized), sole function that calls 'generateMapDropRangeCache', this lock remains optional.
     private static final Lock bndLock = new MonitoredReentrantLock(MonitoredLockType.MAP_BOUNDS, true);
@@ -2905,6 +2907,21 @@ public class MapleMap {
         }
         
         return false;
+    }
+
+    public final List<MapleCharacter> getCharactersThreadsafe() {
+        final List<MapleCharacter> chars = new ArrayList<MapleCharacter>();
+
+
+        charactersLock.readLock().lock();
+        try {
+            for (MapleCharacter mc : characters) {
+                chars.add(mc);
+            }
+        } finally {
+            charactersLock.readLock().unlock();
+        }
+        return chars;
     }
 
     private class ActivateItemReactor implements Runnable {

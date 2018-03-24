@@ -15,7 +15,7 @@ public class ServerConstants {
     
     //World And Version
     public static short VERSION = 83;
-    public static String TIMEZONE = "-GMT3";
+    public static String TIMEZONE = "GMT-8";
     public static String[] WORLD_NAMES = {"Scania", "Bera", "Broa", "Windia", "Khaini", "Bellocan", "Mardia", "Kradia", "Yellonde", "Demethos", "Galicia", "El Nido", "Zenith", "Arcenia", "Kastia", "Judis", "Plana", "Kalluna", "Stius", "Croa", "Medere"};
 
     //Login Configuration
@@ -93,7 +93,7 @@ public class ServerConstants {
     public static final int MAX_AP = 32767;                             //Max AP allotted on the auto-assigner.
     public static final int MAX_EVENT_LEVELS = 8;                       //Event has different levels of rewarding system.
     public static final long BLOCK_NPC_RACE_CONDT = (long)(0.5 * 1000); //Time the player client must wait before reopening a conversation with an NPC.
-    public static final long PET_LOOT_UPON_ATTACK = (long)(0.7 * 1000); //Time the pet must wait before trying to pick items up.
+    public static final long PET_LOOT_UPON_ATTACK = (long)(0); //Time the pet must wait before trying to pick items up.
     
     //Dangling Items/Locks Configuration
     public static final int ITEM_EXPIRE_TIME  = 3 * 60 * 1000;  //Time before items start disappearing. Recommended to be set up to 3 minutes.

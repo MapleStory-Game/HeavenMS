@@ -152,6 +152,7 @@ import constants.skills.Spearman;
 import constants.skills.SuperGM;
 import constants.skills.Swordsman;
 import constants.skills.ThunderBreaker;
+import java.util.TimeZone;
 import net.server.channel.handlers.PartyOperationHandler;
 import scripting.item.ItemScriptManager;
 import server.maps.MapleMapItem;
@@ -239,6 +240,7 @@ public class MapleCharacter extends AbstractAnimatedMapleMapObject {
     private MonsterBook monsterbook;
     private MapleRing marriageRing;
     private CashShop cashshop;
+    private long travelTime = 0; 
     private Set<NewYearCardRecord> newyears = new LinkedHashSet<>();
     private SavedLocation savedLocations[];
     private SkillMacro[] skillMacros = new SkillMacro[5];
@@ -1496,7 +1498,7 @@ public class MapleCharacter extends AbstractAnimatedMapleMapObject {
                             int nxGain = mapitem.getItemId() == 4031865 ? 100 : 250;
                             this.getCashShop().gainCash(1, nxGain);
                             
-                            showHint("You have earned #e#b" + nxGain + " NX#k#n. (" + this.getCashShop().getCash(1) + " NX)", 300);
+                            showHint("你获得了 #e#b" + nxGain + " NX#k#n. (" + this.getCashShop().getCash(1) + " NX)", 0);
                             
                             this.getMap().pickItemDrop(pickupPacket, mapitem);
                         } else if (MapleInventoryManipulator.addFromDrop(client, mapitem.getItem(), true)) {
@@ -1573,7 +1575,7 @@ public class MapleCharacter extends AbstractAnimatedMapleMapObject {
                         int nxGain = mapitem.getItemId() == 4031865 ? 100 : 250;
                         this.getCashShop().gainCash(1, nxGain);
                         
-                        showHint("You have earned #e#b" + nxGain + " NX#k#n. (" + this.getCashShop().getCash(1) + " NX)", 300);
+                        showHint("你获得了 #e#b" + nxGain + " NX#k#n. (" + this.getCashShop().getCash(1) + " NX)", 0);
                     } else if (useItem(client, mapitem.getItem().getItemId())) {
                         if (mapitem.getItem().getItemId() / 10000 == 238) {
                             this.getMonsterBook().addCard(client, mapitem.getItem().getItemId());
@@ -2279,6 +2281,31 @@ public class MapleCharacter extends AbstractAnimatedMapleMapObject {
         }
     }
 
+    public void setRates() {
+        Calendar cal = Calendar.getInstance();
+        cal.setTimeZone(TimeZone.getTimeZone("GMT-8"));
+        World worldz = Server.getInstance().getWorld(world);
+        int hr = cal.get(Calendar.HOUR_OF_DAY);
+        if ((haveItem(5360001) && hr > 6 && hr < 12) || (haveItem(5360002) && hr > 9 && hr < 15) || (haveItem(536000) && hr > 12 && hr < 18) || (haveItem(5360004) && hr > 15 && hr < 21) || (haveItem(536000) && hr > 18) || (haveItem(5360006) && hr < 5) || (haveItem(5360007) && hr > 2 && hr < 6) || (haveItem(5360008) && hr >= 6 && hr < 11)) {
+            this.dropRate = 2 * worldz.getDropRate(); //Nerfed
+            this.mesoRate = 2 * worldz.getMesoRate(); //Nerfed
+        } else {
+            this.dropRate = worldz.getDropRate();
+            this.mesoRate = worldz.getMesoRate();
+        }
+        if ((haveItem(5211000) && hr > 17 && hr < 21) || (haveItem(5211014) && hr > 6 && hr < 12) || (haveItem(5211015) && hr > 9 && hr < 15) || (haveItem(5211016) && hr > 12 && hr < 18) || (haveItem(5211017) && hr > 15 && hr < 21) || (haveItem(5211018) && hr > 14) || (haveItem(5211039) && hr < 5) || (haveItem(5211042) && hr > 2 && hr < 8) || (haveItem(5211045) && hr > 5 && hr < 11) || haveItem(5211048)) {
+            if (isBeginnerJob()) {
+                this.expRate = 1; //Nerfed
+            } else {
+                this.expRate = 2  * worldz.getExpRate(); //Nerfed
+            }
+        } else if (isBeginnerJob()) {
+            this.expRate = 1;
+        } else {
+            this.expRate = worldz.getExpRate();
+        }
+    }
+    
     public void expirationTask() {
         if (itemExpireTask == null) {
             itemExpireTask = TimerManager.getInstance().register(new Runnable() {
@@ -7238,11 +7265,11 @@ public class MapleCharacter extends AbstractAnimatedMapleMapObject {
     }
     
     public void showHint(String msg) {
-        showHint(msg, 500);
+        showHint(msg, 0);
     }
     
     public void showHint(String msg, int length) {
-        client.announceHint(msg, length);
+        client.announceHint(msg, 0);
     }
     
     public void showNote() {
@@ -8160,5 +8187,30 @@ public class MapleCharacter extends AbstractAnimatedMapleMapObject {
     
     public void removeJailExpirationTime() {
         jailExpiration = 0;
+    }
+    
+    public void setTravelTime(int duration) {
+        travelTime = System.currentTimeMillis() + duration * 1000;
+    }
+
+    public boolean isRideFinished() {
+        return travelTime < System.currentTimeMillis();
+    }
+    
+    public int partyMembersInMap() {
+        int inMap = 0;
+        if (getParty() == null) {
+            return inMap;
+        }
+        for (MapleCharacter char2 : getMap().getCharactersThreadsafe()) {
+            if (char2.getParty() != null && char2.getParty().getId() == getParty().getId()) {
+                inMap++;
+            }
+        }
+        return inMap;
+    }
+    
+    public void gainItem(int code, int amount) {
+        MapleInventoryManipulator.addById(client, code, (short) amount);
     }
 }
