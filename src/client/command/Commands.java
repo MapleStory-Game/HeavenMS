@@ -354,22 +354,6 @@ public class Commands {
                         c.getAbstractPlayerInteraction().openNpc(9201143, "commands");
                         break;
                     
-                case "droplimit":
-                        int dropCount = c.getPlayer().getMap().getDroppedItemCount();
-                        if(((float) dropCount) / ServerConstants.ITEM_LIMIT_ON_MAP < 0.75f) {
-                            c.getPlayer().showHint("Current drop count: #b" + dropCount + "#k / #e" + ServerConstants.ITEM_LIMIT_ON_MAP + "#n", 300);
-                        } else {
-                            c.getPlayer().showHint("Current drop count: #r" + dropCount + "#k / #e" + ServerConstants.ITEM_LIMIT_ON_MAP + "#n", 300);
-                        }
-                        
-                        break;
-                    
-		case "time":
-			DateFormat dateFormat = new SimpleDateFormat("HH:mm:ss");
-			dateFormat.setTimeZone(TimeZone.getTimeZone(ServerConstants.TIMEZONE));
-			player.yellowMessage("Solaxia Server Time: " + dateFormat.format(new Date()));
-			break;
-                
                 case "credits":
 		case "staff":
                         c.getAbstractPlayerInteraction().openNpc(2010007, "credits");
@@ -382,37 +366,9 @@ public class Commands {
 			int minutes = (int) ((milliseconds / (1000*60)) % 60);
 			int hours   = (int) ((milliseconds / (1000*60*60)) % 24);
 			int days    = (int) ((milliseconds / (1000*60*60*24)));
- 			player.yellowMessage("Server has been online for " + days + " days " + hours + " hours " + minutes + " minutes and " + seconds + " seconds.");
+ 			player.yellowMessage("服务器已经运行了 " + days + " 天 " + hours + " 小时 " + minutes + " 分 " + seconds + " 秒.");
 			break;
                     
-		case "gacha":
-			Gachapon gacha = null;
-			String search = joinStringFrom(sub, 1);
-			String gachaName = "";
-			String [] names = {"Henesys", "Ellinia", "Perion", "Kerning City", "Sleepywood", "Mushroom Shrine", "Showa Spa Male", "Showa Spa Female", "New Leaf City", "Nautilus Harbor"};
-			int [] ids = {9100100, 9100101, 9100102, 9100103, 9100104, 9100105, 9100106, 9100107, 9100109, 9100117};
-			for (int i = 0; i < names.length; i++){
-				if (search.equalsIgnoreCase(names[i])){
-					gachaName = names[i];
-					gacha = Gachapon.getByNpcId(ids[i]);
-				}
-			}
-			if (gacha == null){
-				player.yellowMessage("Please use @gacha <name> where name corresponds to one of the below:");
-				for (String name : names){
-					player.yellowMessage(name);
-				}
-                        break;
-			}
-			String output = "The #b" + gachaName + "#k Gachapon contains the following items.\r\n\r\n";
-			for (int i = 0; i < 2; i++){
-				for (int id : gacha.getItems(i)){
-					output += "-" + MapleItemInformationProvider.getInstance().getName(id) + "\r\n";
-				}
-			}
-			output += "\r\nPlease keep in mind that there are items that are in all gachapons and are not listed here.";
-			c.announce(MaplePacketCreator.getNPCTalk(9010000, (byte) 0, output, "00 00", (byte) 0));
-			break;
                 case "mapid":
                         c.getPlayer().dropMessage(6, "你在地图 " + c.getPlayer().getMap().getId());
 			break;
@@ -439,21 +395,21 @@ public class Commands {
                         PortalScriptManager.getInstance().reloadPortalScripts();
                         player.yellowMessage("入口脚本重载完毕" );
 			break;
-		case "whatdropsfrom":
+		case "diaoluo":
 			if (sub.length < 2) {
-				player.dropMessage(5, "Please do @whatdropsfrom <monster name>");
-                        break;
+				player.dropMessage(5, "请输入 @diaoluo <怪物名称>");
+				break;
 			}
 			String monsterName = joinStringFrom(sub, 1);
-			output = "";
-			int limit = 3;
+			String output = "";
+			int limit = 9999;
 			Iterator<Pair<Integer, String>> listIterator = MapleMonsterInformationProvider.getMobsIDsFromName(monsterName).iterator();
 			for (int i = 0; i < limit; i++) {
 				if(listIterator.hasNext()) {
 					Pair<Integer, String> data = listIterator.next();
 					int mobId = data.getLeft();
 					String mobName = data.getRight();
-					output += mobName + " drops the following items:\r\n\r\n";
+					output += mobName + " 会掉落以下物品:\r\n\r\n";
 					for (MonsterDropEntry drop : MapleMonsterInformationProvider.getInstance().retrieveDrop(mobId)){
 						try {
 							String name = MapleItemInformationProvider.getInstance().getName(drop.itemId);
@@ -463,7 +419,6 @@ public class Commands {
 							float chance = 1000000 / drop.chance / player.getDropRate();
 							output += "- " + name + " (1/" + (int) chance + ")\r\n";
 						} catch (Exception ex){
-                                                        ex.printStackTrace();
 							continue;
 						}
 					}
@@ -473,22 +428,21 @@ public class Commands {
 			c.announce(MaplePacketCreator.getNPCTalk(9010000, (byte) 0, output, "00 00", (byte) 0));
 			break;
                     
-		case "whodrops":
+		case "daoju":
 			if (sub.length < 2) {
-				player.dropMessage(5, "Please do @whodrops <item name>");
-                        break;
+				player.dropMessage(5, "请输入 @daoju <道具名称>");
+				break;
 			}
 			String searchString = joinStringFrom(sub, 1);
 			output = "";
 			listIterator = MapleItemInformationProvider.getInstance().getItemDataByName(searchString).iterator();
 			if(listIterator.hasNext()) {
 				int count = 1;
-				while(listIterator.hasNext() && count <= 3) {
+				while(listIterator.hasNext() && count <= 9999) {
 					Pair<Integer, String> data = listIterator.next();
-					output += "#b" + data.getRight() + "#k is dropped by:\r\n";
+					output += "#b" + data.getRight() + "#k 出自于:\r\n";
 					try {
-                                                Connection con = DatabaseConnection.getConnection();
-						PreparedStatement ps = con.prepareStatement("SELECT dropperid FROM drop_data WHERE itemid = ? LIMIT 50");
+						PreparedStatement ps = DatabaseConnection.getConnection().prepareStatement("SELECT * FROM drop_data WHERE itemid = ? LIMIT 50");
 						ps.setInt(1, data.getLeft());
 						ResultSet rs = ps.executeQuery();
 						while(rs.next()) {
@@ -499,18 +453,17 @@ public class Commands {
 						}
 						rs.close();
 						ps.close();
-                                                con.close();
 					} catch (Exception e) {
-						player.dropMessage(6, "There was a problem retrieving the required data. Please try again.");
+						player.dropMessage("检索出现错误，请再试一次.");
 						e.printStackTrace();
-						break;
+						return true;
 					}
 					output += "\r\n\r\n";
 					count++;
 				}
 			} else {
-				player.dropMessage(5, "The item you searched for doesn't exist.");
-                        break;
+				player.dropMessage(5, "此物品无效.");
+				break;
 			}
 			c.announce(MaplePacketCreator.getNPCTalk(9010000, (byte) 0, output, "00 00", (byte) 0));
 			break;
@@ -527,38 +480,38 @@ public class Commands {
                         break;
 
                 case "showrates":
-                        String showMsg = "#eEXP RATE#n" + "\r\n";
-                        showMsg += "Server EXP Rate: #k" + c.getWorldServer().getExpRate() + "x#k" + "\r\n";
-                        showMsg += "Player EXP Rate: #k" + player.getRawExpRate() + "x#k" + "\r\n";
+                        String showMsg = "#e经验倍率#n" + "\r\n";
+                        showMsg += "服务器: #k" + c.getWorldServer().getExpRate() + "x#k" + "\r\n";
+                        showMsg += "玩家: #k" + player.getRawExpRate() + "x#k" + "\r\n";
                         if(player.getCouponExpRate() != 1) showMsg += "Coupon EXP Rate: #k" + player.getCouponExpRate() + "x#k" + "\r\n";
-                        showMsg += "EXP Rate: #e#b" + player.getExpRate() + "x#k#n" + "\r\n";
+                        showMsg += "经验: #e#b" + player.getExpRate() + "x#k#n" + "\r\n";
                         
-                        showMsg += "\r\n" + "#eMESO RATE#n" + "\r\n";
-                        showMsg += "Server MESO Rate: #k" + c.getWorldServer().getMesoRate() + "x#k" + "\r\n";
-                        showMsg += "Player MESO Rate: #k" + player.getRawMesoRate() + "x#k" + "\r\n";
+                        showMsg += "\r\n" + "#e金币倍率#n" + "\r\n";
+                        showMsg += "服务器: #k" + c.getWorldServer().getMesoRate() + "x#k" + "\r\n";
+                        showMsg += "玩家: #k" + player.getRawMesoRate() + "x#k" + "\r\n";
                         if(player.getCouponMesoRate() != 1) showMsg += "Coupon MESO Rate: #k" + player.getCouponMesoRate() + "x#k" + "\r\n";
-                        showMsg += "MESO Rate: #e#b" + player.getMesoRate() + "x#k#n" + "\r\n";
+                        showMsg += "金币: #e#b" + player.getMesoRate() + "x#k#n" + "\r\n";
                         
-                        showMsg += "\r\n" + "#eDROP RATE#n" + "\r\n";
-                        showMsg += "Server DROP Rate: #k" + c.getWorldServer().getDropRate() + "x#k" + "\r\n";
-                        showMsg += "Player DROP Rate: #k" + player.getRawDropRate() + "x#k" + "\r\n";
+                        showMsg += "\r\n" + "#e掉落倍率#n" + "\r\n";
+                        showMsg += "服务器: #k" + c.getWorldServer().getDropRate() + "x#k" + "\r\n";
+                        showMsg += "玩家: #k" + player.getRawDropRate() + "x#k" + "\r\n";
                         if(player.getCouponDropRate() != 1) showMsg += "Coupon DROP Rate: #k" + player.getCouponDropRate() + "x#k" + "\r\n";
-                        showMsg += "DROP Rate: #e#b" + player.getDropRate() + "x#k#n" + "\r\n";
+                        showMsg += "掉落: #e#b" + player.getDropRate() + "x#k#n" + "\r\n";
                     
                         if(ServerConstants.USE_QUEST_RATE) {
-                            showMsg += "\r\n" + "#eQUEST RATE#n" + "\r\n";
-                            showMsg += "Server QUEST Rate: #e#b" + c.getWorldServer().getQuestRate() + "x#k#n" + "\r\n";
+                            showMsg += "\r\n" + "#e任务掉落倍率#n" + "\r\n";
+                            showMsg += "服务器: #e#b" + c.getWorldServer().getQuestRate() + "x#k#n" + "\r\n";
                         }
                         
                         player.showHint(showMsg, 300);
                     break;
                      
                 case "rates":
-                        String showMsg_ = "#eCHARACTER RATES#n" + "\r\n\r\n";
-                        showMsg_ += "EXP Rate: #e#b" + player.getExpRate() + "x#k#n" + "\r\n";
-                        showMsg_ += "MESO Rate: #e#b" + player.getMesoRate() + "x#k#n" + "\r\n";
-                        showMsg_ += "DROP Rate: #e#b" + player.getDropRate() + "x#k#n" + "\r\n";
-                        if(ServerConstants.USE_QUEST_RATE) showMsg_ += "QUEST Rate: #e#b" + c.getWorldServer().getQuestRate() + "x#k#n" + "\r\n";
+                        String showMsg_ = "#e服务器被驴#n" + "\r\n\r\n";
+                        showMsg_ += "经验倍率: #e#b" + player.getExpRate() + "x#k#n" + "\r\n";
+                        showMsg_ += "金币倍率: #e#b" + player.getMesoRate() + "x#k#n" + "\r\n";
+                        showMsg_ += "掉落倍率: #e#b" + player.getDropRate() + "x#k#n" + "\r\n";
+                        if(ServerConstants.USE_QUEST_RATE) showMsg_ += "任务掉落倍率: #e#b" + c.getWorldServer().getQuestRate() + "x#k#n" + "\r\n";
                         
                         player.showHint(showMsg_, 300);
                     break;
@@ -574,110 +527,20 @@ public class Commands {
 			}
 			break;
                     
-		case "gm":
-			if (sub.length < 3) { // #goodbye 'hi'
-				player.dropMessage(5, "Your message was too short. Please provide as much detail as possible.");
-				break;
-			}
-			String message = joinStringFrom(sub, 1);
-			Server.getInstance().broadcastGMMessage(c.getWorld(), MaplePacketCreator.sendYellowTip("[GM MESSAGE]:" + MapleCharacter.makeMapleReadable(player.getName()) + ": " + message));
-			Server.getInstance().broadcastGMMessage(c.getWorld(), MaplePacketCreator.serverNotice(1, message));
-			FilePrinter.printError("gm.txt", MapleCharacter.makeMapleReadable(player.getName()) + ": " + message + "\r\n");
-			player.dropMessage(5, "Your message '" + message + "' was sent to GMs.");
-			player.dropMessage(5, tips[Randomizer.nextInt(tips.length)]);
-			break;
-                    
-		case "bug":
-                    
-			if (sub.length < 2) {
-				player.dropMessage(5, "Message too short and not sent. Please do @bug <bug>");
-				break;
-			}
-			message = joinStringFrom(sub, 1);
-			Server.getInstance().broadcastGMMessage(c.getWorld(), MaplePacketCreator.sendYellowTip("[BUG]:" + MapleCharacter.makeMapleReadable(player.getName()) + ": " + message));
-			Server.getInstance().broadcastGMMessage(c.getWorld(), MaplePacketCreator.serverNotice(1, message));
-			FilePrinter.printError("bug.txt", MapleCharacter.makeMapleReadable(player.getName()) + ": " + message + "\r\n");
-			player.dropMessage(5, "Your bug '" + message + "' was submitted successfully to our developers. Thank you!");
-			break;
-		/*
-                case "points":
-			player.dropMessage(5, "You have " + c.getVotePoints() + " vote point(s).");
-			if (c.hasVotedAlready()) {
-				Date currentDate = new Date();
-				int time = (int) ((int) 86400 - ((currentDate.getTime() / 1000) - c.getVoteTime())); //ugly as fuck
-				hours = time / 3600;
-				minutes = time % 3600 / 60;
-				seconds = time % 3600 % 60;
-				player.yellowMessage("You have already voted. You can vote again in " + hours + " hours, " + minutes + " minutes, " + seconds + " seconds.");
-			} else {
-				player.yellowMessage("You are free to vote! Make sure to vote to gain a vote point!");
-			}
-			break;
-                */
-		case "joinevent":
-			if(!FieldLimit.CANNOTMIGRATE.check(player.getMap().getFieldLimit())) {
-				MapleEvent event = c.getChannelServer().getEvent();
-				if(event != null) {
-					if(event.getMapId() != player.getMapId()) {
-						if(event.getLimit() > 0) {
-							player.saveLocation("EVENT");
-
-							if(event.getMapId() == 109080000 || event.getMapId() == 109060001)
-								player.setTeam(event.getLimit() % 2);
-
-							event.minusLimit();
-
-							player.changeMap(event.getMapId());
-						} else {
-							player.dropMessage(5, "The limit of players for the event has already been reached.");
-						}
-					} else {
-						player.dropMessage(5, "You are already in the event.");
-					}
-				} else {
-					player.dropMessage(5, "There is currently no event in progress.");
-				}
-			} else {
-				player.dropMessage(5, "You are currently in a map where you can't join an event.");
-			}
-			break;
-                    
-		case "leaveevent":
-			int returnMap = player.getSavedLocation("EVENT");
-			if(returnMap != -1) {
-				if(player.getOla() != null) {
-					player.getOla().resetTimes();
-					player.setOla(null);
-				}
-				if(player.getFitness() != null) {
-					player.getFitness().resetTimes();
-					player.setFitness(null);
-				}
-				
-				player.changeMap(returnMap);
-				if(c.getChannelServer().getEvent() != null) {
-					c.getChannelServer().getEvent().addLimit();
-				}
-			} else {
-				player.dropMessage(5, "You are not currently in an event.");
-			}
-			break;
-                    
-		case "bosshp":
+                    case "mob":
 			for(MapleMonster monster : player.getMap().getMonsters()) {
-				if(monster != null && monster.isBoss() && monster.getHp() > 0) {
+				if(monster != null && monster.getHp() > 0) {
 					long percent = monster.getHp() * 100L / monster.getMaxHp();
 					String bar = "[";
 					for (int i = 0; i < 100; i++){
 						bar += i < percent ? "|" : ".";
 					}
 					bar += "]";
-					player.yellowMessage(monster.getName() + " (" + monster.getId() + ") has " + percent + "% HP left.");
+					player.yellowMessage(monster.getName() + " 剩余 " + percent + "% HP ，数值" + monster.getHp() +",代码:" + monster.getId());
 					player.yellowMessage("HP: " + bar);
 				}
 			} 
 			break;
-                    
 		case "ranks":
 			PreparedStatement ps = null;
 			ResultSet rs = null;

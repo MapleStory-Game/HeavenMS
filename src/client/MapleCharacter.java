@@ -7265,11 +7265,11 @@ public class MapleCharacter extends AbstractAnimatedMapleMapObject {
     }
     
     public void showHint(String msg) {
-        showHint(msg, 0);
+        showHint(msg, 500);
     }
     
     public void showHint(String msg, int length) {
-        client.announceHint(msg, 0);
+        client.announceHint(msg, length);
     }
     
     public void showNote() {
@@ -8024,7 +8024,7 @@ public class MapleCharacter extends AbstractAnimatedMapleMapObject {
         }
         
         if(!showMsg.isEmpty()) {
-            this.showHint("#ePLAYER EQUIPMENTS:#n\r\n\r\n" + showMsg, 400);
+            this.showHint("#e装备等级:#n\r\n\r\n" + showMsg, 400);
         }
     }
 

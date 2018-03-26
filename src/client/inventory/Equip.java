@@ -373,8 +373,8 @@ public class Equip extends Item {
         itemLevel++;
         boolean gotVicious = false, gotSlot = false;
         
-        String lvupStr = "'" + MapleItemInformationProvider.getInstance().getName(this.getItemId()) + "' is now level " + itemLevel + "! ";
-        String showStr = "#e'" + MapleItemInformationProvider.getInstance().getName(this.getItemId()) + "'#b is now #elevel #r" + itemLevel + "#k#b!";
+        String lvupStr = "'" + MapleItemInformationProvider.getInstance().getName(this.getItemId()) + "' 升级到了 " + itemLevel + "! ";
+        String showStr = "#e'" + MapleItemInformationProvider.getInstance().getName(this.getItemId()) + "'#b  #升级到了 #r" + itemLevel + "#k#b!";
         
         Integer statUp, maxStat = ServerConstants.MAX_EQUIPMNT_STAT;
         for (Pair<StatUpgrade, Integer> stat : stats) {
@@ -382,22 +382,22 @@ public class Equip extends Item {
                 case incDEX:
                     statUp = Math.min(stat.getRight(), maxStat - dex);
                     dex += statUp;
-                    lvupStr += "+" + statUp + "DEX ";
+                    lvupStr += "+" + statUp + "敏捷 ";
                     break;
                 case incSTR:
                     statUp = Math.min(stat.getRight(), maxStat - str);
                     str += statUp;
-                    lvupStr += "+" + statUp + "STR ";
+                    lvupStr += "+" + statUp + "力量 ";
                     break;
                 case incINT:
                     statUp = Math.min(stat.getRight(), maxStat - _int);
                     _int += statUp;
-                    lvupStr += "+" + statUp + "INT ";
+                    lvupStr += "+" + statUp + "智力 ";
                     break;
                 case incLUK:
                     statUp = Math.min(stat.getRight(), maxStat - luk);
                     luk += statUp;
-                    lvupStr += "+" + statUp + "LUK ";
+                    lvupStr += "+" + statUp + "运气 ";
                     break;
                 case incMHP:
                     statUp = Math.min(stat.getRight(), maxStat - hp);
@@ -412,42 +412,42 @@ public class Equip extends Item {
                 case incPAD:
                     statUp = Math.min(stat.getRight(), maxStat - watk);
                     watk += statUp;
-                    lvupStr += "+" + statUp + "WATK ";
+                    lvupStr += "+" + statUp + "物理攻击 ";
                     break;
                 case incMAD:
                     statUp = Math.min(stat.getRight(), maxStat - matk);
                     matk += statUp;
-                    lvupStr += "+" + statUp + "MATK ";
+                    lvupStr += "+" + statUp + "魔法攻击 ";
                     break;
                 case incPDD:
                     statUp = Math.min(stat.getRight(), maxStat - wdef);
                     wdef += statUp;
-                    lvupStr += "+" + statUp + "WDEF ";
+                    lvupStr += "+" + statUp + "物理防御 ";
                     break;
                 case incMDD:
                     statUp = Math.min(stat.getRight(), maxStat - mdef);
                     mdef += statUp;
-                    lvupStr += "+" + statUp + "MDEF ";
+                    lvupStr += "+" + statUp + "魔法防御 ";
                     break;
                 case incEVA:
                     statUp = Math.min(stat.getRight(), maxStat - avoid);
                     avoid += statUp;
-                    lvupStr += "+" + statUp + "AVOID ";
+                    lvupStr += "+" + statUp + "闪避 ";
                     break;
                 case incACC:
                     statUp = Math.min(stat.getRight(), maxStat - acc);
                     acc += statUp;
-                    lvupStr += "+" + statUp + "ACC ";
+                    lvupStr += "+" + statUp + "命中率 ";
                     break;
                 case incSpeed:
                     statUp = Math.min(stat.getRight(), maxStat - speed);
                     speed += statUp;
-                    lvupStr += "+" + statUp + "SPEED ";
+                    lvupStr += "+" + statUp + "移动速度 ";
                     break;
                 case incJump:
                     statUp = Math.min(stat.getRight(), maxStat - jump);
                     jump += statUp;
-                    lvupStr += "+" + statUp + "JUMP ";
+                    lvupStr += "+" + statUp + "跳跃力 ";
                     break;
                     
                 case incVicious:
@@ -467,7 +467,7 @@ public class Equip extends Item {
         }
         if(gotSlot) {
             //c.getPlayer().dropMessage(6, "A new upgrade slot has been found on the '" + MapleItemInformationProvider.getInstance().getName(getItemId()) + "'!");
-            lvupStr += "+UPGSLOT ";
+            lvupStr += "+砸卷次数 ";
         }
         
         showLevelupMessage(showStr, c); // thx to polaris devs !

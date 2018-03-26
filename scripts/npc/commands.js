@@ -29,7 +29,7 @@ var desc_lv1 = [];
 var comm_lv0 = [];
 var desc_lv0 = [];
 
-var levels = ["Common", "Donator", "JrGM", "GM", "SuperGM", "Developer", "Admin"];
+var levels = ["玩家", "Donator", "JrGM", "GM", "SuperGM", "Developer", "Admin"];
 
 var comm_cursor, desc_cursor;
 
@@ -252,7 +252,7 @@ function action(mode, type, selection) {
                         status--;
 
                 if (status == 0) {
-                        var sendStr = "There are all available commands for you:\r\n\r\n#b";
+                        var sendStr = "你想查看哪个等级的命令:\r\n\r\n#b";
                         for(var i = 0; i <= cm.getPlayer().gmLevel(); i++) {
                             sendStr += "#L" + i + "#" + levels[i] + "#l\r\n";
                         }
@@ -284,7 +284,7 @@ function action(mode, type, selection) {
                                 lvDesc = desc_lv6;
                         }
 
-                        var sendStr = "The following commands are available for #b" + levels[selection] + "#k:\r\n\r\n";
+                        var sendStr = "你的级别是 #b" + levels[selection] + "#k，下面是你能使用的命令:\r\n\r\n";
                         for(var i = 0; i < lvComm.length; i++) {
                             sendStr += "  #L" + i + "# " + lvComm[i] + " - " + lvDesc[i];
                             sendStr += "#l\r\n";
