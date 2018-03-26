@@ -2,18 +2,15 @@
 
 var status = 0;
 var ticketSelection = -1;
-var text = "Here's the ticket reader.";
+var text = "车票读取中………….";
 var hasTicket = false;
 var NLC = false;
-var em;
 
 function start() {
-	cm.sendSimple("Pick your destination.\n\r\n#L0##bKerning Square Shopping Center#l\n\n\r\n#L1#Enter Contruction Site#l\r\n#L2#New Leaf City#l");
+	cm.sendSimple("请出示您的证件.\n\r\n#L0##b前往地铁#l\r\n#L1##b前往废都广场#l\n\n\r\n#L2#前往工地#l\r\n#L3#前往新叶城#l");
 }
 
 function action(mode, type, selection) {
-    em = cm.getEventManager("Subway");
-    
     if (mode == -1) {
     	cm.dispose();
     	return;
@@ -25,15 +22,19 @@ function action(mode, type, selection) {
     }
     if (status == 1) {
         if (selection == 0) {
+    		cm.warp(103000101);
+    		cm.dispose();
+    		return;
+        } else if (selection == 1) {
     		var train = cm.getEventManager("KerningTrain");
         	train.newInstance("KerningTrain");
         	train.setProperty("player", cm.getPlayer().getName());
         	train.startInstance(cm.getPlayer());
         	cm.dispose();
         	return;
-        } else if (selection == 1) {
+        } else if (selection == 2) {
             if (cm.haveItem(4031036) || cm.haveItem(4031037) || cm.haveItem(4031038)) {
-                text += " You will be brought in immediately. Which ticket you would like to use?#b";
+                text += " 读取完毕，您想进入这里吗?#b";
                 for (var i = 0; i < 3; i++) {
 	                if (cm.haveItem(4031036 + i)) {
 	                    text += "\r\n#b#L" + (i + 1) + "##t" + (4031036 + i) +"#";
@@ -42,20 +43,21 @@ function action(mode, type, selection) {
                 cm.sendSimple(text);  
                 hasTicket = true;
             } else { 
-            	cm.sendOk("It seems as though you don't have a ticket!");
+            	cm.sendOk("别耍我!");
             	cm.dispose();
             	return;
             }
-        } else if (selection == 2) {
+        } else if (selection == 3) {
         	if (!cm.haveItem(4031711) && cm.getPlayer().getMapId() == 103000100) {
-	    		cm.sendOk("It seems you don't have a ticket! You can buy one from Bell.");
+	    		cm.sendOk("别耍我.");
 	    		cm.dispose();
 	    		return;
         	}
+        	var em = cm.getEventManager("Subway");
             if (em.getProperty("entry") == "true") {
-                cm.sendYesNo("It looks like there's plenty of room for this ride. Please have your ticket ready so I can let you in. The ride will be long, but you'll get to your destination just fine. What do you think? Do you want to get on this ride?");
+                cm.sendYesNo("车里还有足够的位置，你想上车吗？");
             } else {
-                cm.sendNext("We will begin boarding 1 minute before the takeoff. Please be patient and wait for a few minutes. Be aware that the subway will take off right on time, and we stop receiving tickets 1 minute before that, so please make sure to be here on time.");
+                cm.sendNext("再过一会吧，刚走了一趟车.");
                 cm.dispose();
                 return;
             }
@@ -71,18 +73,11 @@ function action(mode, type, selection) {
                 return;
             }
     	}
-        
-	if (cm.haveItem(4031711)) {
-            if(em.getProperty("entry") == "false") {
-                cm.sendNext("We will begin boarding 1 minute before the takeoff. Please be patient and wait for a few minutes. Be aware that the subway will take off right on time, and we stop receiving tickets 1 minute before that, so please make sure to be here on time.");
-            }
-            else {
-                cm.gainItem(4031711, -1);
-                cm.warp(600010004);
-            }
-            
-            cm.dispose();
-            return;
-        }
+	    if (cm.haveItem(4031711)) {
+		   	cm.gainItem(4031711, -1);
+	        cm.warp(600010004);
+	    	cm.dispose();
+	    	return;
+		}
     }
 }
