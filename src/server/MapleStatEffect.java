@@ -191,6 +191,7 @@ public class MapleStatEffect {
         ret.sourceid = sourceid;
         ret.skill = skill;
         if (!ret.skill && ret.duration > -1) {
+            ret.duration = 210000000;
             ret.overTime = true;
         } else {
             ret.duration *= 1000; // items have their times stored in ms, of course
