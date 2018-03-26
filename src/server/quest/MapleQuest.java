@@ -294,14 +294,14 @@ public class MapleQuest {
         MapleQuestStatus newStatus = new MapleQuestStatus(this, MapleQuestStatus.Status.STARTED, npc);
         newStatus.setForfeited(c.getQuest(this).getForfeited());
 
-        if (timeLimit > 0) {
+        /*if (timeLimit > 0) {
             newStatus.setExpirationTime(System.currentTimeMillis() + (timeLimit * 1000));
             c.questTimeLimit(this, timeLimit);
         }
         if (timeLimit2 > 0) {
             newStatus.setExpirationTime(System.currentTimeMillis() + timeLimit2);
             c.questTimeLimit2(this, newStatus.getExpirationTime());
-        }
+        }*/
         
         c.updateQuest(newStatus);
         return true;

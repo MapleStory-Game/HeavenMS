@@ -52,8 +52,10 @@ import client.inventory.MapleInventoryType;
 import client.inventory.MaplePet;
 import constants.GameConstants;
 import constants.ServerConstants;
+import java.text.SimpleDateFormat;
 import java.util.Collections;
 import java.util.Comparator;
+import java.util.Date;
 
 public final class PlayerLoggedinHandler extends AbstractMaplePacketHandler {
 
@@ -240,7 +242,9 @@ public final class PlayerLoggedinHandler extends AbstractMaplePacketHandler {
             }
                     */
             if (player.isGM()){
-            	Server.getInstance().broadcastGMMessage(c.getWorld(), MaplePacketCreator.earnTitleMessage((player.gmLevel() < 6 ? "GM " : "Admin ") + player.getName() + " 登陆了"));
+            	Server.getInstance().broadcastGMMessage(c.getWorld(), MaplePacketCreator.earnTitleMessage((player.gmLevel() < 6 ? "GM " : "Admin ") + player.getName() + " 登陆了!!"));
+            } else {
+                Server.getInstance().broadcastGMMessage(c.getWorld(), MaplePacketCreator.earnTitleMessage("【登陆公告】欢迎 " + player.getName() + " 在 "+ new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(new Date())  +" 登陆了!!"));
             }
             
         }
