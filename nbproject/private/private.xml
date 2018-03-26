@@ -5,8 +5,9 @@
         <group>
             <file>file:/F:/GitHub/sendya/HeavenMS/src/net/server/channel/handlers/BuddylistModifyHandler.java</file>
             <file>file:/F:/GitHub/sendya/HeavenMS/src/client/MapleCharacter.java</file>
-            <file>file:/F:/GitHub/sendya/HeavenMS/src/net/server/channel/handlers/PlayerLoggedinHandler.java</file>
             <file>file:/F:/GitHub/sendya/HeavenMS/src/client/BuddyList.java</file>
+            <file>file:/F:/GitHub/sendya/HeavenMS/src/tools/StringUtil.java</file>
+            <file>file:/F:/GitHub/sendya/HeavenMS/src/tools/MaplePacketCreator.java</file>
         </group>
     </open-files>
 </project-private>
