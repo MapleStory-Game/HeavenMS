@@ -76,7 +76,7 @@ public class ServerConstants {
     public static final int EXP_RATE = 1;
     public static final int MESO_RATE = 1;
     public static final int DROP_RATE = 1;
-    public static final int QUEST_RATE = 1;                         //Multiplier for Exp & Meso gains when completing a quest. Only available when USE_QUEST_RATE is true. Stacks with server Exp & Meso rates.
+    public static final int QUEST_RATE = 99;                         //Multiplier for Exp & Meso gains when completing a quest. Only available when USE_QUEST_RATE is true. Stacks with server Exp & Meso rates.
     public static final double EQUIP_EXP_RATE = 1.0;               //Rate for equipment exp gain, grows linearly. Set 1.0 for default (about 100~200 same-level range mobs killed to pass equip from level 1 to 2).
     
     public static final double PARTY_BONUS_EXP_RATE = 1.0;          //Rate for the party exp reward.
@@ -129,7 +129,7 @@ public class ServerConstants {
     public static final boolean USE_SPIKES_AVOID_BANISH = true; //Shoes equipped with spikes prevents mobs from banishing wearer.
     public static final int MAX_EQUIPMNT_LVLUP_STAT_UP = 10000; //Max stat upgrade an equipment can have on a levelup.
     public static final int MAX_EQUIPMNT_STAT = 32767;          //Max stat on an equipment by leveling up.
-    public static final int USE_EQUIPMNT_LVLUP = 255;             //All equips lvlup at max level of N, set 1 to disable.
+    public static final int USE_EQUIPMNT_LVLUP = 10000;             //All equips lvlup at max level of N, set 1 to disable.
     
     //Map-Chair Configuration
     public static final boolean USE_CHAIR_EXTRAHEAL = true;     //Enable map chairs to further recover player's HP and MP (player must have the Chair Mastery skill).
