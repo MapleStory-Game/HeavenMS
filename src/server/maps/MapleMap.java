@@ -2662,6 +2662,8 @@ public class MapleMap {
      */
     public void addMonsterSpawn(MapleMonster monster, int mobTime, int team) {
         Point newpos = calcPointBelow(monster.getPosition());
+        if(this.channel == 2)
+            mobTime = mobTime / 10;
         newpos.y -= 1;
         SpawnPoint sp = new SpawnPoint(monster, newpos, !monster.isMobile(), mobTime, mobInterval, team);
         monsterSpawn.add(sp);

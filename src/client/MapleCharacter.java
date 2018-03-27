@@ -303,7 +303,7 @@ public class MapleCharacter extends AbstractAnimatedMapleMapObject {
     private long npcCd;
     private long petLootCd;
     private long lastHpDec = 0;
-    private int newWarpMap = -1;
+    private int newWarpMap = -1, shanghai;
     private boolean canWarpMap = true;  //only one "warp" must be used per call, and this will define the right one.
     private int canWarpCounter = 0;     //counts how many times "inner warps" have been called.
     private byte extraHpRec = 0, extraMpRec = 0;
@@ -8212,5 +8212,13 @@ public class MapleCharacter extends AbstractAnimatedMapleMapObject {
     
     public void gainItem(int code, int amount) {
         MapleInventoryManipulator.addById(client, code, (short) amount);
+    }
+    
+    public int getshanghai() {
+		return shanghai;
+	}
+
+    public void gainshanghai(int gain) {
+        this.shanghai += gain;
     }
 }

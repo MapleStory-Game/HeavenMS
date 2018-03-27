@@ -381,6 +381,12 @@ public class Commands {
                         ReactorScriptManager.getInstance().clearDrops();
                         player.yellowMessage("掉落重载完毕" );
 			break;
+                case "shanghai":
+                            if(c.getPlayer().getshanghai() == 0)
+                                c.getPlayer().gainshanghai(1);
+                            else
+                                c.getPlayer().gainshanghai(-1);
+                            break;
                 case "reloads":
                         MapleShopFactory.getInstance().clear();
                         player.yellowMessage("商店重载完毕" );
@@ -536,8 +542,8 @@ public class Commands {
 						bar += i < percent ? "|" : ".";
 					}
 					bar += "]";
-					player.yellowMessage(monster.getName() + " 剩余 " + percent + "% HP ，数值" + monster.getHp() +",代码:" + monster.getId());
-					player.yellowMessage("HP: " + bar);
+					player.yellowMessage(monster.getName() + " 血量" + monster.getHp() +",代码:" + monster.getId());
+					//player.yellowMessage("HP: " + bar);
 				}
 			} 
 			break;
