@@ -35,17 +35,14 @@ public class ChangeableStats extends OverrideMonsterStats {
     }
 
     public ChangeableStats(MapleMonsterStats stats, int newLevel, boolean pqMob) { // here we go i think
-        final double mod = (double) newLevel / (double) stats.getLevel();
-        final double hpRatio = (double) stats.getHp() / (double) stats.getExp();
-        final double pqMod = (pqMob ? 1.5 : 1.0); // god damn
-        hp = (int) Math.round((!stats.isBoss() ? GameConstants.getMonsterHP(newLevel) : (stats.getHp() * mod)) * pqMod); // right here lol
-        exp = (int) Math.round((!stats.isBoss() ? (GameConstants.getMonsterHP(newLevel) / hpRatio) : (stats.getExp())) * pqMod);
-        mp = (int) Math.round(stats.getMp() * mod * pqMod);
+        final double mod = (double) newLevel;
+        hp = (int) Math.round(stats.getHp() * mod); // right here lol
+        exp = (int) Math.round(stats.getExp() * mod);
+        mp = (int) Math.round(stats.getMp() * mod);
         watk = (int) Math.round(stats.getPADamage() * mod);
         matk = (int) Math.round(stats.getMADamage() * mod);
         wdef = Math.min(stats.isBoss() ? 30 : 20, (int) Math.round(stats.getPDDamage() * mod));
         mdef = Math.min(stats.isBoss() ? 30 : 20, (int) Math.round(stats.getMDDamage() * mod));
-        level = newLevel;
     }
 
     public ChangeableStats(MapleMonsterStats stats, float statModifier, boolean pqMob) {

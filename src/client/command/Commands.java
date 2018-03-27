@@ -475,7 +475,7 @@ public class Commands {
 			player.message("已经解除假死了.");
 			break;
                     
-                case "equiplv":
+                case "elv":
                         player.showAllEquipFeatures();
                         break;
 

@@ -1662,6 +1662,10 @@ public class MapleMap {
         
         monster.changeDifficulty(difficulty, isPq);
         
+        if (channel == 2) {//自行更改你要的頻道
+                monster.changeLevel1(10,false);
+        }
+        
         monster.setMap(this);
         if(getEventInstance() != null) getEventInstance().registerMonster(monster);
 

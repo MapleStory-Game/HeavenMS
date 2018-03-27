@@ -66,6 +66,7 @@ import tools.Randomizer;
 import tools.locks.MonitoredLockType;
 
 public class MapleMonster extends AbstractLoadedMapleLife {
+    private MapleMonsterStats overrideStats;
     private ChangeableStats ostats = null;  //unused, v83 WZs offers no support for changeable stats.
     private MapleMonsterStats stats;
     private AtomicInteger hp = new AtomicInteger(1);
@@ -95,7 +96,7 @@ public class MapleMonster extends AbstractLoadedMapleLife {
         super(id);
         initWithStats(stats);
     }
-
+    
     public MapleMonster(MapleMonster monster) {
         super(monster);
         initWithStats(monster.stats);
@@ -1289,8 +1290,16 @@ public class MapleMonster extends AbstractLoadedMapleLife {
         this.mp = ostats.getMp();
     }
     
+    
+    public final void changeLevel1(final int newLevel, boolean pqMob) {
+        this.ostats = new ChangeableStats(stats, newLevel, pqMob);
+        this.hp.set(ostats.getHp());
+        this.mp = ostats.getMp();
+    }
+    
     private float getDifficultyRate(final int difficulty) {
         switch(difficulty) {
+            case 10: return(10f);
             case 6: return(7.7f);
             case 5: return(5.6f);
             case 4: return(3.2f);
