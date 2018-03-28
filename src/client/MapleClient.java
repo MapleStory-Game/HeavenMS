@@ -965,9 +965,9 @@ public class MapleClient {
 		return Server.getInstance().getChannel(world, channel);
 	}
 
-	public boolean deleteCharacter(int cid) {
+        public boolean deleteCharacter(int cid, int senderAccId) {
                 try {
-                        return MapleCharacter.deleteCharFromDB(MapleCharacter.loadCharFromDB(cid, this, false));
+                        return MapleCharacter.deleteCharFromDB(MapleCharacter.loadCharFromDB(cid, this, false), senderAccId);
                 } catch(SQLException ex) {
                         ex.printStackTrace();
                         return false;

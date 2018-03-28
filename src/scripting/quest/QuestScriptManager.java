@@ -169,4 +169,9 @@ public class QuestScriptManager extends AbstractScriptManager {
 	public QuestActionManager getQM(MapleClient c) {
 		return qms.get(c);
 	}
+        
+        public void reloadQuestScripts() {
+                scripts.clear();
+                qms.clear();
+        }
 }

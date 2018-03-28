@@ -41,9 +41,10 @@ public class MapleShopFactory {
         shops.clear();
         npcShops.clear();
     }
-    
+
     public void reloadShops() {
         shops.clear();
+        npcShops.clear();
     }
     
     private MapleShop loadShop(int id, boolean isShopId) {
@@ -72,4 +73,5 @@ public class MapleShopFactory {
         }
         return loadShop(npcId, false);
     }
+
 }
