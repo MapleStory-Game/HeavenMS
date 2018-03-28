@@ -162,7 +162,7 @@ public abstract class AbstractDealDamageHandler extends AbstractMaplePacketHandl
                     if (player.isAlive()) {
                         if(attack.skill == NightWalker.POISON_BOMB) { // Poison Bomb
                             attackEffect.applyTo(player, new Point(attack.position.x, attack.position.y));
-                        } else if(attack.skill != Aran.BODY_PRESSURE) // prevent BP refreshing
+                        } else if(attack.skill != Aran.BODY_PRESSURE) { // prevent BP refreshing
                             attackEffect.applyTo(player);
                         }
                     } else {
@@ -185,6 +185,7 @@ public abstract class AbstractDealDamageHandler extends AbstractMaplePacketHandl
                     return;
                 }
             }
+
             if (!player.isAlive()) {
                 return;
             }
