@@ -605,7 +605,7 @@
         </imgdir>
         <imgdir name="acc">
             <imgdir name="0">
-                <canvas name="0" width="195" height="99">
+                <canvas name="0" width="166" height="118">
                     <vector name="origin" x="97" y="68"/>
                     <int name="z" value="0"/>
                 </canvas>

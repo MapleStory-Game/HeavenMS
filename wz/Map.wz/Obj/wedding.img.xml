@@ -5,11 +5,35 @@
             <imgdir name="0">
                 <canvas name="0" width="1" height="1">
                     <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                    <extended name="foothold">
+                        <vector name="foothold" x="-78" y="-18"/>
+                        <vector name="foothold" x="-54" y="-11"/>
+                        <vector name="foothold" x="-21" y="-18"/>
+                        <vector name="foothold" x="3" y="-42"/>
+                        <vector name="foothold" x="34" y="-46"/>
+                        <vector name="foothold" x="56" y="-37"/>
+                        <vector name="foothold" x="72" y="-36"/>
+                    </extended>
                 </canvas>
             </imgdir>
             <imgdir name="1">
                 <canvas name="0" width="1" height="1">
                     <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                    <extended name="foothold">
+                        <vector name="foothold" x="-131" y="-7"/>
+                        <vector name="foothold" x="-116" y="-5"/>
+                        <vector name="foothold" x="-100" y="-16"/>
+                        <vector name="foothold" x="-68" y="-24"/>
+                        <vector name="foothold" x="-26" y="-22"/>
+                        <vector name="foothold" x="2" y="-16"/>
+                        <vector name="foothold" x="43" y="-10"/>
+                        <vector name="foothold" x="83" y="-13"/>
+                        <vector name="foothold" x="103" y="-11"/>
+                        <vector name="foothold" x="120" y="-12"/>
+                        <vector name="foothold" x="130" y="-18"/>
+                    </extended>
                 </canvas>
             </imgdir>
             <imgdir name="2">
@@ -75,6 +99,17 @@
             <imgdir name="4">
                 <canvas name="0" width="1" height="1">
                     <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                    <extended name="foothold">
+                        <vector name="foothold" x="-67" y="-13"/>
+                        <vector name="foothold" x="-47" y="-9"/>
+                        <vector name="foothold" x="-19" y="-13"/>
+                        <vector name="foothold" x="6" y="-14"/>
+                        <vector name="foothold" x="28" y="-9"/>
+                        <vector name="foothold" x="49" y="-8"/>
+                        <vector name="foothold" x="62" y="-3"/>
+                        <vector name="foothold" x="71" y="-4"/>
+                    </extended>
                 </canvas>
             </imgdir>
             <imgdir name="5">
@@ -117,6 +152,11 @@
             <imgdir name="1">
                 <canvas name="0" width="1" height="1">
                     <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                    <extended name="rope">
+                        <vector name="rope" x="-1" y="-28"/>
+                        <vector name="rope" x="-1" y="28"/>
+                    </extended>
                 </canvas>
             </imgdir>
             <imgdir name="2">
@@ -226,6 +266,7 @@
             <imgdir name="5">
                 <canvas name="0" width="1" height="1">
                     <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
                 </canvas>
             </imgdir>
             <imgdir name="6">
@@ -246,6 +287,12 @@
                     <int name="z" value="0"/>
                 </canvas>
             </imgdir>
+            <imgdir name="9">
+                <canvas name="0" width="696" height="98">
+                    <vector name="origin" x="348" y="49"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
         </imgdir>
         <imgdir name="seat">
             <imgdir name="0">
@@ -261,11 +308,13 @@
             <imgdir name="1">
                 <canvas name="0" width="1" height="1">
                     <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
                 </canvas>
             </imgdir>
             <imgdir name="2">
                 <canvas name="0" width="1" height="1">
                     <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
                 </canvas>
                 <imgdir name="seat">
                     <vector name="0" x="-30" y="13"/>
@@ -275,6 +324,7 @@
             <imgdir name="3">
                 <canvas name="0" width="1" height="1">
                     <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
                 </canvas>
             </imgdir>
         </imgdir>
@@ -392,6 +442,12 @@
                     <int name="z" value="0"/>
                 </canvas>
             </imgdir>
+            <imgdir name="11">
+                <canvas name="0" width="217" height="241">
+                    <vector name="origin" x="26" y="20"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
         </imgdir>
         <imgdir name="nature">
             <imgdir name="0">
@@ -415,6 +471,7 @@
             <imgdir name="3">
                 <canvas name="0" width="1" height="1">
                     <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
                 </canvas>
             </imgdir>
             <imgdir name="4">
@@ -438,6 +495,7 @@
             <imgdir name="7">
                 <canvas name="0" width="1" height="1">
                     <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
                 </canvas>
             </imgdir>
             <imgdir name="8">
@@ -449,6 +507,7 @@
             <imgdir name="9">
                 <canvas name="0" width="1" height="1">
                     <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
                 </canvas>
             </imgdir>
             <imgdir name="10">
@@ -600,6 +659,18 @@
             <imgdir name="0">
                 <canvas name="0" width="1" height="1">
                     <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                    <extended name="foothold">
+                        <vector name="foothold" x="-386" y="-13"/>
+                        <vector name="foothold" x="-369" y="-13"/>
+                        <vector name="foothold" x="-355" y="-21"/>
+                        <vector name="foothold" x="-333" y="-19"/>
+                        <vector name="foothold" x="-218" y="-20"/>
+                        <vector name="foothold" x="-188" y="-52"/>
+                        <vector name="foothold" x="312" y="-52"/>
+                        <vector name="foothold" x="336" y="-20"/>
+                        <vector name="foothold" x="386" y="-20"/>
+                    </extended>
                 </canvas>
             </imgdir>
             <imgdir name="1">
@@ -622,6 +693,168 @@
             <imgdir name="2">
                 <canvas name="0" width="771" height="114">
                     <vector name="origin" x="385" y="57"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+        </imgdir>
+        <imgdir name="signBoard">
+            <imgdir name="0">
+                <canvas name="0" width="67" height="169">
+                    <vector name="origin" x="33" y="84"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="1">
+                <canvas name="0" width="102" height="89">
+                    <vector name="origin" x="51" y="44"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="2">
+                <canvas name="0" width="102" height="89">
+                    <vector name="origin" x="51" y="44"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="3">
+                <canvas name="0" width="129" height="51">
+                    <vector name="origin" x="64" y="25"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="4">
+                <canvas name="0" width="126" height="51">
+                    <vector name="origin" x="63" y="25"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="5">
+                <canvas name="0" width="90" height="101">
+                    <vector name="origin" x="45" y="50"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="6">
+                <canvas name="0" width="89" height="102">
+                    <vector name="origin" x="44" y="51"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+        </imgdir>
+        <imgdir name="ani">
+            <imgdir name="0">
+                <canvas name="0" width="23" height="16">
+                    <vector name="origin" x="11" y="8"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="1" width="31" height="19">
+                    <vector name="origin" x="15" y="15"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="2" width="34" height="22">
+                    <vector name="origin" x="16" y="22"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="3" width="41" height="28">
+                    <vector name="origin" x="19" y="29"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="4" width="61" height="37">
+                    <vector name="origin" x="30" y="42"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="5" width="70" height="43">
+                    <vector name="origin" x="34" y="47"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="6" width="79" height="45">
+                    <vector name="origin" x="37" y="55"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="7" width="93" height="54">
+                    <vector name="origin" x="43" y="57"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="8" width="106" height="62">
+                    <vector name="origin" x="44" y="57"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="9" width="116" height="67">
+                    <vector name="origin" x="45" y="57"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="1">
+                <canvas name="0" width="150" height="112">
+                    <vector name="origin" x="71" y="110"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="1" width="150" height="108">
+                    <vector name="origin" x="71" y="106"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="2" width="150" height="112">
+                    <vector name="origin" x="71" y="110"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="3" width="150" height="108">
+                    <vector name="origin" x="71" y="106"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="2">
+                <canvas name="0" width="123" height="163">
+                    <vector name="origin" x="59" y="161"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="1" width="123" height="163">
+                    <vector name="origin" x="59" y="161"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="2" width="123" height="163">
+                    <vector name="origin" x="59" y="161"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="3">
+                <canvas name="0" width="123" height="163">
+                    <vector name="origin" x="59" y="161"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="1" width="123" height="163">
+                    <vector name="origin" x="59" y="161"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="2" width="123" height="163">
+                    <vector name="origin" x="59" y="161"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="4">
+                <canvas name="0" width="88" height="120">
+                    <vector name="origin" x="59" y="161"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="1" width="88" height="120">
+                    <vector name="origin" x="59" y="161"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="2" width="88" height="120">
+                    <vector name="origin" x="59" y="161"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="5">
+                <canvas name="0" width="100" height="133">
+                    <vector name="origin" x="59" y="161"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="1" width="100" height="133">
+                    <vector name="origin" x="59" y="161"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="2" width="100" height="133">
+                    <vector name="origin" x="59" y="161"/>
                     <int name="z" value="0"/>
                 </canvas>
             </imgdir>
@@ -1430,6 +1663,445 @@
                 <canvas name="0" width="60" height="600">
                     <vector name="origin" x="30" y="300"/>
                     <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+        </imgdir>
+        <imgdir name="candle">
+            <imgdir name="0">
+                <canvas name="0" width="550" height="392">
+                    <vector name="origin" x="286" y="191"/>
+                    <int name="z" value="0"/>
+                    <imgdir name="foothold">
+                        <extended name="0">
+                            <vector name="0" x="-280" y="-139"/>
+                            <vector name="0" x="-233" y="-139"/>
+                        </extended>
+                        <extended name="1">
+                            <vector name="1" x="-221" y="-139"/>
+                            <vector name="1" x="-174" y="-139"/>
+                        </extended>
+                        <extended name="2">
+                            <vector name="2" x="-162" y="-139"/>
+                            <vector name="2" x="-115" y="-139"/>
+                        </extended>
+                        <extended name="3">
+                            <vector name="3" x="-103" y="-139"/>
+                            <vector name="3" x="-56" y="-139"/>
+                        </extended>
+                        <extended name="4">
+                            <vector name="4" x="-38" y="-190"/>
+                            <vector name="4" x="9" y="-190"/>
+                        </extended>
+                        <extended name="5">
+                            <vector name="5" x="26" y="-139"/>
+                            <vector name="5" x="73" y="-139"/>
+                        </extended>
+                        <extended name="6">
+                            <vector name="6" x="88" y="-139"/>
+                            <vector name="6" x="135" y="-139"/>
+                        </extended>
+                        <extended name="7">
+                            <vector name="7" x="150" y="-139"/>
+                            <vector name="7" x="197" y="-139"/>
+                        </extended>
+                        <extended name="8">
+                            <vector name="8" x="212" y="-139"/>
+                            <vector name="8" x="259" y="-139"/>
+                        </extended>
+                    </imgdir>
+                </canvas>
+            </imgdir>
+            <imgdir name="1">
+                <canvas name="0" width="240" height="171">
+                    <vector name="origin" x="120" y="85"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="weddingVilligeHouse">
+        <imgdir name="house0">
+            <imgdir name="0">
+                <canvas name="0" width="441" height="431">
+                    <vector name="origin" x="242" y="240"/>
+                    <int name="z" value="0"/>
+                    <extended name="foothold">
+                        <vector name="foothold" x="-79" y="176"/>
+                        <vector name="foothold" x="-34" y="176"/>
+                    </extended>
+                </canvas>
+            </imgdir>
+            <imgdir name="1">
+                <canvas name="0" width="800" height="600">
+                    <vector name="origin" x="400" y="300"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="2">
+                <canvas name="0" width="800" height="858">
+                    <vector name="origin" x="400" y="300"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="3">
+                <canvas name="0" width="800" height="541">
+                    <vector name="origin" x="400" y="256"/>
+                    <int name="z" value="0"/>
+                    <imgdir name="foothold">
+                        <extended name="5">
+                            <vector name="5" x="-323" y="20"/>
+                            <vector name="5" x="-240" y="20"/>
+                        </extended>
+                        <extended name="6">
+                            <vector name="6" x="-232" y="21"/>
+                            <vector name="6" x="-138" y="21"/>
+                        </extended>
+                        <extended name="4">
+                            <vector name="4" x="-392" y="-63"/>
+                            <vector name="4" x="-264" y="-63"/>
+                        </extended>
+                        <extended name="3">
+                            <vector name="3" x="-270" y="233"/>
+                            <vector name="3" x="-198" y="233"/>
+                        </extended>
+                        <extended name="2">
+                            <vector name="2" x="-178" y="237"/>
+                            <vector name="2" x="-50" y="237"/>
+                        </extended>
+                        <extended name="0">
+                            <vector name="0" x="229" y="240"/>
+                            <vector name="0" x="326" y="240"/>
+                            <vector name="0" x="326" y="216"/>
+                        </extended>
+                        <extended name="1">
+                            <vector name="1" x="253" y="221"/>
+                            <vector name="1" x="331" y="221"/>
+                            <vector name="1" x="331" y="204"/>
+                        </extended>
+                        <extended name="7">
+                            <vector name="7" x="280" y="202"/>
+                            <vector name="7" x="348" y="202"/>
+                            <vector name="7" x="348" y="184"/>
+                        </extended>
+                    </imgdir>
+                </canvas>
+            </imgdir>
+            <imgdir name="4">
+                <canvas name="0" width="800" height="600">
+                    <vector name="origin" x="400" y="266"/>
+                    <int name="z" value="0"/>
+                    <imgdir name="foothold">
+                        <extended name="0">
+                            <vector name="0" x="-364" y="54"/>
+                            <vector name="0" x="-364" y="249"/>
+                            <vector name="0" x="362" y="249"/>
+                            <vector name="0" x="362" y="54"/>
+                        </extended>
+                        <extended name="1">
+                            <vector name="1" x="-386" y="-152"/>
+                            <vector name="1" x="-386" y="37"/>
+                            <vector name="1" x="386" y="37"/>
+                            <vector name="1" x="386" y="-155"/>
+                        </extended>
+                    </imgdir>
+                </canvas>
+            </imgdir>
+            <imgdir name="5">
+                <canvas name="0" width="175" height="145">
+                    <vector name="origin" x="400" y="266"/>
+                    <int name="z" value="0"/>
+                    <extended name="foothold">
+                        <vector name="foothold" x="-384" y="-170"/>
+                        <vector name="foothold" x="-256" y="-170"/>
+                    </extended>
+                </canvas>
+            </imgdir>
+            <imgdir name="6">
+                <canvas name="0" width="315" height="245">
+                    <vector name="origin" x="400" y="266"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+        </imgdir>
+        <imgdir name="house1">
+            <imgdir name="0">
+                <canvas name="0" width="670" height="358">
+                    <vector name="origin" x="383" y="227"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="1">
+                <canvas name="0" width="800" height="600">
+                    <vector name="origin" x="400" y="300"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="2">
+                <canvas name="0" width="845" height="600">
+                    <vector name="origin" x="381" y="247"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="3">
+                <canvas name="0" width="544" height="208">
+                    <vector name="origin" x="400" y="300"/>
+                    <int name="z" value="0"/>
+                    <imgdir name="foothold">
+                        <extended name="0">
+                            <vector name="0" x="-397" y="-299"/>
+                            <vector name="0" x="-20" y="-299"/>
+                        </extended>
+                    </imgdir>
+                </canvas>
+            </imgdir>
+            <imgdir name="4">
+                <canvas name="0" width="170" height="216">
+                    <vector name="origin" x="400" y="300"/>
+                    <int name="z" value="0"/>
+                    <imgdir name="foothold">
+                        <extended name="1">
+                            <vector name="1" x="-372" y="-217"/>
+                            <vector name="1" x="-372" y="-178"/>
+                            <vector name="1" x="-306" y="-178"/>
+                        </extended>
+                        <extended name="0">
+                            <vector name="0" x="-350" y="-200"/>
+                            <vector name="0" x="-282" y="-200"/>
+                        </extended>
+                        <extended name="2">
+                            <vector name="2" x="-327" y="-223"/>
+                            <vector name="2" x="-258" y="-223"/>
+                        </extended>
+                        <extended name="3">
+                            <vector name="3" x="-304" y="-246"/>
+                            <vector name="3" x="-264" y="-246"/>
+                        </extended>
+                    </imgdir>
+                </canvas>
+            </imgdir>
+            <imgdir name="5">
+                <canvas name="0" width="186" height="72">
+                    <vector name="origin" x="400" y="300"/>
+                    <int name="z" value="0"/>
+                    <imgdir name="foothold">
+                        <extended name="1">
+                            <vector name="1" x="-369" y="-399"/>
+                            <vector name="1" x="-369" y="-298"/>
+                            <vector name="1" x="-262" y="-298"/>
+                        </extended>
+                        <extended name="2">
+                            <vector name="2" x="-306" y="-289"/>
+                            <vector name="2" x="-306" y="-275"/>
+                            <vector name="2" x="-240" y="-275"/>
+                        </extended>
+                        <extended name="0">
+                            <vector name="0" x="-284" y="-266"/>
+                            <vector name="0" x="-284" y="-252"/>
+                            <vector name="0" x="-216" y="-252"/>
+                        </extended>
+                    </imgdir>
+                </canvas>
+            </imgdir>
+            <imgdir name="6">
+                <canvas name="0" width="100" height="83">
+                    <vector name="origin" x="400" y="300"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="7">
+                <canvas name="0" width="58" height="59">
+                    <vector name="origin" x="400" y="300"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="8">
+                <canvas name="0" width="168" height="145">
+                    <vector name="origin" x="400" y="300"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="9">
+                <canvas name="0" width="740" height="127">
+                    <vector name="origin" x="400" y="300"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="10">
+                <canvas name="0" width="800" height="20">
+                    <vector name="origin" x="400" y="300"/>
+                    <int name="z" value="0"/>
+                    <imgdir name="foothold">
+                        <extended name="0">
+                            <vector name="0" x="-398" y="-300"/>
+                            <vector name="0" x="397" y="-300"/>
+                        </extended>
+                    </imgdir>
+                </canvas>
+            </imgdir>
+        </imgdir>
+        <imgdir name="house2">
+            <imgdir name="0">
+                <canvas name="0" width="572" height="382">
+                    <vector name="origin" x="286" y="191"/>
+                    <int name="z" value="0"/>
+                    <imgdir name="foothold">
+                        <extended name="0">
+                            <vector name="0" x="-200" y="170"/>
+                            <vector name="0" x="-53" y="170"/>
+                        </extended>
+                    </imgdir>
+                </canvas>
+            </imgdir>
+            <imgdir name="1">
+                <canvas name="0" width="800" height="600">
+                    <vector name="origin" x="400" y="300"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="2">
+                <canvas name="0" width="800" height="600">
+                    <vector name="origin" x="400" y="300"/>
+                    <int name="z" value="0"/>
+                    <imgdir name="foothold">
+                        <extended name="0">
+                            <vector name="0" x="-380" y="162"/>
+                            <vector name="0" x="-329" y="163"/>
+                        </extended>
+                        <extended name="1">
+                            <vector name="1" x="-344" y="197"/>
+                            <vector name="1" x="-249" y="197"/>
+                        </extended>
+                        <extended name="2">
+                            <vector name="2" x="235" y="172"/>
+                            <vector name="2" x="381" y="172"/>
+                        </extended>
+                        <extended name="3">
+                            <vector name="3" x="-99" y="158"/>
+                            <vector name="3" x="-62" y="158"/>
+                        </extended>
+                        <extended name="4">
+                            <vector name="4" x="-387" y="-80"/>
+                            <vector name="4" x="-258" y="-80"/>
+                        </extended>
+                        <extended name="5">
+                            <vector name="5" x="-370" y="-121"/>
+                            <vector name="5" x="-342" y="-121"/>
+                        </extended>
+                        <extended name="6">
+                            <vector name="6" x="-387" y="-162"/>
+                            <vector name="6" x="-334" y="-162"/>
+                        </extended>
+                    </imgdir>
+                </canvas>
+            </imgdir>
+            <imgdir name="3">
+                <canvas name="0" width="800" height="600">
+                    <vector name="origin" x="400" y="300"/>
+                    <int name="z" value="0"/>
+                    <imgdir name="foothold">
+                        <extended name="0">
+                            <vector name="0" x="-382" y="-22"/>
+                            <vector name="0" x="-382" y="214"/>
+                            <vector name="0" x="380" y="214"/>
+                            <vector name="0" x="380" y="-22"/>
+                        </extended>
+                        <extended name="1">
+                            <vector name="1" x="-381" y="-282"/>
+                            <vector name="1" x="-381" y="-46"/>
+                            <vector name="1" x="-201" y="-46"/>
+                        </extended>
+                        <extended name="2">
+                            <vector name="2" x="-179" y="-46"/>
+                            <vector name="2" x="381" y="-46"/>
+                            <vector name="2" x="381" y="-282"/>
+                        </extended>
+                    </imgdir>
+                </canvas>
+            </imgdir>
+            <imgdir name="4">
+                <canvas name="0" width="95" height="221">
+                    <vector name="origin" x="47" y="110"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="5">
+                <canvas name="0" width="40" height="240">
+                    <vector name="origin" x="20" y="120"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="6">
+                <canvas name="0" width="141" height="208">
+                    <vector name="origin" x="70" y="104"/>
+                    <int name="z" value="0"/>
+                    <imgdir name="foothold">
+                        <extended name="0">
+                            <vector name="0" x="-1" y="71"/>
+                            <vector name="0" x="-1" y="86"/>
+                            <vector name="0" x="66" y="86"/>
+                        </extended>
+                        <extended name="1">
+                            <vector name="1" x="-13" y="54"/>
+                            <vector name="1" x="-13" y="69"/>
+                            <vector name="1" x="49" y="69"/>
+                        </extended>
+                        <extended name="2">
+                            <vector name="2" x="-18" y="37"/>
+                            <vector name="2" x="-18" y="52"/>
+                            <vector name="2" x="33" y="52"/>
+                        </extended>
+                        <extended name="3">
+                            <vector name="3" x="-18" y="21"/>
+                            <vector name="3" x="-18" y="35"/>
+                            <vector name="3" x="17" y="35"/>
+                        </extended>
+                        <extended name="4">
+                            <vector name="4" x="-18" y="4"/>
+                            <vector name="4" x="-18" y="19"/>
+                            <vector name="4" x="7" y="19"/>
+                        </extended>
+                        <extended name="5">
+                            <vector name="5" x="-29" y="-14"/>
+                            <vector name="5" x="-29" y="1"/>
+                            <vector name="5" x="-5" y="1"/>
+                        </extended>
+                        <extended name="6">
+                            <vector name="6" x="-35" y="-31"/>
+                            <vector name="6" x="-35" y="-16"/>
+                            <vector name="6" x="-15" y="-16"/>
+                        </extended>
+                        <extended name="7">
+                            <vector name="7" x="-48" y="-49"/>
+                            <vector name="7" x="-48" y="-33"/>
+                            <vector name="7" x="-15" y="-33"/>
+                        </extended>
+                        <extended name="8">
+                            <vector name="8" x="-62" y="-150"/>
+                            <vector name="8" x="-62" y="-51"/>
+                            <vector name="8" x="-15" y="-51"/>
+                        </extended>
+                        <extended name="9">
+                            <vector name="9" x="-61" y="-68"/>
+                            <vector name="9" x="-15" y="-68"/>
+                        </extended>
+                        <extended name="10">
+                            <vector name="10" x="-55" y="-85"/>
+                            <vector name="10" x="-15" y="-85"/>
+                        </extended>
+                        <extended name="11">
+                            <vector name="11" x="-45" y="-102"/>
+                            <vector name="11" x="-10" y="-102"/>
+                        </extended>
+                        <extended name="12">
+                            <vector name="12" x="-27" y="-119"/>
+                            <vector name="12" x="-10" y="-119"/>
+                        </extended>
+                        <extended name="13">
+                            <vector name="13" x="-10" y="-136"/>
+                            <vector name="13" x="7" y="-136"/>
+                            <vector name="13" x="7" y="-156"/>
+                        </extended>
+                    </imgdir>
                 </canvas>
             </imgdir>
         </imgdir>

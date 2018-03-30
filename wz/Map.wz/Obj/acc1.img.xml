@@ -1208,7 +1208,7 @@
                 </canvas>
             </imgdir>
             <imgdir name="51">
-                <canvas name="0" width="331" height="323">
+                <canvas name="0" width="320" height="332">
                     <vector name="origin" x="165" y="161"/>
                     <int name="z" value="0"/>
                 </canvas>
@@ -4391,6 +4391,10 @@
                             <vector name="7" x="61" y="207"/>
                         </extended>
                     </imgdir>
+                    <extended name="foothold">
+                        <vector name="foothold" x="-22" y="68"/>
+                        <vector name="foothold" x="30" y="68"/>
+                    </extended>
                 </canvas>
             </imgdir>
             <imgdir name="2">

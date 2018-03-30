@@ -3,7 +3,7 @@
     <imgdir name="house0">
         <imgdir name="basic">
             <imgdir name="0">
-                <canvas name="0" width="346" height="279">
+                <canvas name="0" width="346" height="264">
                     <vector name="origin" x="173" y="189"/>
                     <int name="z" value="0"/>
                     <extended name="foothold">

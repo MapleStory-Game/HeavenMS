@@ -163,6 +163,7 @@
         <imgdir name="21">
             <vector name="spot" x="-187" y="0"/>
             <int name="type" value="1"/>
+            <string name="title" value="通天塔8层~20层"/>
             <imgdir name="mapNo">
                 <int name="0" value="200080200"/>
                 <int name="1" value="200080300"/>
@@ -178,7 +179,6 @@
                 <int name="11" value="200081300"/>
                 <int name="12" value="200081400"/>
             </imgdir>
-            <string name="title" value="Orbis Tower 8th Floor - 20th Floor"/>
         </imgdir>
         <imgdir name="22">
             <vector name="spot" x="-188" y="126"/>
@@ -262,7 +262,7 @@
         <imgdir name="33">
             <vector name="spot" x="245" y="95"/>
             <int name="type" value="2"/>
-            <string name="title" value="El Nath Dungeon"/>
+            <string name="title" value="冰峰雪域"/>
             <imgdir name="mapNo">
                 <int name="0" value="211040300"/>
                 <int name="1" value="211040400"/>
@@ -292,6 +292,7 @@
         <imgdir name="34">
             <vector name="spot" x="-187" y="61"/>
             <int name="type" value="1"/>
+            <string name="title" value="通天塔1层~7层"/>
             <imgdir name="mapNo">
                 <int name="0" value="200081500"/>
                 <int name="1" value="200081600"/>
@@ -301,7 +302,6 @@
                 <int name="5" value="200082000"/>
                 <int name="6" value="200082100"/>
             </imgdir>
-            <string name="title" value="Orbis Tower 1st Floor - 7nd Floor"/>
         </imgdir>
         <imgdir name="35">
             <vector name="spot" x="-148" y="-177"/>
@@ -361,7 +361,7 @@
                 </canvas>
                 <string name="linkMap" value="WorldMap021"/>
             </imgdir>
-            <string name="toolTip" value="Dead Mine"/>
+            <string name="toolTip" value="废矿区"/>
         </imgdir>
     </imgdir>
 </imgdir>

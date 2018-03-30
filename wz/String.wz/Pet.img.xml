@@ -1467,4 +1467,9 @@
         <string name="desc" value="#cAttribute: Perfumed Miho (Purple)#\nA kind little Spirit Miho. \nEquip to receive #ca buff from the Spirit Miho pet#, and transform to get additional buff skills. The #cSpirit Miho Pet Boost# skill and the buff cast by an evolved Lv. 30 action pet will not stack with themselves. \n"/>
         <string name="descD" value="Your Spirit Miho pet has turned into a doll. You can revive it with the Water of Life."/>
     </imgdir>
+    <imgdir name="5000061">
+        <string name="name" value="皮卡啾"/>
+        <string name="desc" value="一隻經由女神鏡子召喚而來的寵物，矮矮胖胖卻喜怒無常。\n#c技能：撿取楓幣、撿取道具、撿取無所有權的道具和楓幣、範圍自動撿起、擴大移動範圍、自動補HP藥水。#"/>
+        <string name="descD" value="那是一隻可愛的皮卡啾，但是當生命乾枯時，它就會變回一個玩偶。使用魔法道具&quot; 生命水&quot;可以使它恢復生機。"/>
+    </imgdir>
 </imgdir>

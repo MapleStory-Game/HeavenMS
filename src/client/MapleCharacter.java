@@ -2298,7 +2298,7 @@ public class MapleCharacter extends AbstractAnimatedMapleMapObject {
         cal.setTimeZone(TimeZone.getTimeZone("GMT-8"));
         World worldz = Server.getInstance().getWorld(world);
         int hr = cal.get(Calendar.HOUR_OF_DAY);
-        if ((haveItem(5360001) && hr > 6 && hr < 12) || (haveItem(5360002) && hr > 9 && hr < 15) || (haveItem(536000) && hr > 12 && hr < 18) || (haveItem(5360004) && hr > 15 && hr < 21) || (haveItem(536000) && hr > 18) || (haveItem(5360006) && hr < 5) || (haveItem(5360007) && hr > 2 && hr < 6) || (haveItem(5360008) && hr >= 6 && hr < 11)) {
+        if (haveItem(5360042) || (haveItem(5360001) && hr > 6 && hr < 12) || (haveItem(5360002) && hr > 9 && hr < 15) || (haveItem(536000) && hr > 12 && hr < 18) || (haveItem(5360004) && hr > 15 && hr < 21) || (haveItem(536000) && hr > 18) || (haveItem(5360006) && hr < 5) || (haveItem(5360007) && hr > 2 && hr < 6) || (haveItem(5360008) && hr >= 6 && hr < 11)) {
             this.dropRate = 2 * worldz.getDropRate(); //Nerfed
             this.mesoRate = 2 * worldz.getMesoRate(); //Nerfed
         } else {
@@ -5010,7 +5010,7 @@ public class MapleCharacter extends AbstractAnimatedMapleMapObject {
             this.yellowMessage("You managed to get level " + level + "! Getting experience and items seems a little easier now, huh?");
         }*/
         
-        levelUpMessages();
+        //levelUpMessages();
         guildUpdate();
         List<MapleMapObject> monsters = getMap().getMapObjectsInRange(getPosition(), Double.POSITIVE_INFINITY, Arrays.asList(MapleMapObjectType.MONSTER));
 	MapleMap map = getMap();

@@ -10,6 +10,7 @@
             </canvas>
             <int name="price" value="600"/>
             <int name="slotMax" value="8"/>
+            <int name="tradeBlock" value="1"/>
         </imgdir>
         <imgdir name="spec">
             <int name="pdd" value="30"/>
@@ -26,6 +27,7 @@
             </canvas>
             <int name="price" value="600"/>
             <int name="slotMax" value="3"/>
+            <int name="tradeBlock" value="1"/>
         </imgdir>
     </imgdir>
     <imgdir name="02410002">
@@ -38,6 +40,7 @@
             </canvas>
             <int name="price" value="600"/>
             <int name="slotMax" value="3"/>
+            <int name="tradeBlock" value="1"/>
         </imgdir>
     </imgdir>
     <imgdir name="02410003">
@@ -50,6 +53,7 @@
             </canvas>
             <int name="price" value="600"/>
             <int name="slotMax" value="3"/>
+            <int name="tradeBlock" value="1"/>
         </imgdir>
     </imgdir>
     <imgdir name="02410004">
@@ -62,6 +66,7 @@
             </canvas>
             <int name="price" value="600"/>
             <int name="slotMax" value="3"/>
+            <int name="tradeBlock" value="1"/>
         </imgdir>
     </imgdir>
 </imgdir>

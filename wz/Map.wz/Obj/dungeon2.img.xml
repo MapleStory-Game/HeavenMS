@@ -519,10 +519,24 @@
                 <canvas name="0" width="1" height="1">
                     <vector name="origin" x="0" y="0"/>
                 </canvas>
+                <canvas name="1" width="77" height="77">
+                    <vector name="origin" x="38" y="38"/>
+                    <int name="z" value="0"/>
+                    <int name="a0" value="255"/>
+                    <int name="a1" value="50"/>
+                    <int name="delay" value="4000"/>
+                </canvas>
             </imgdir>
             <imgdir name="3">
                 <canvas name="0" width="1" height="1">
                     <vector name="origin" x="0" y="0"/>
+                </canvas>
+                <canvas name="1" width="77" height="77">
+                    <vector name="origin" x="38" y="38"/>
+                    <int name="z" value="0"/>
+                    <int name="a0" value="255"/>
+                    <int name="a1" value="100"/>
+                    <int name="delay" value="4000"/>
                 </canvas>
             </imgdir>
             <imgdir name="4">

@@ -847,6 +847,10 @@
                         <vector name="ladder" x="-3" y="-35"/>
                         <vector name="ladder" x="-3" y="48"/>
                     </extended>
+                    <extended name="rope">
+                        <vector name="rope" x="-3" y="-35"/>
+                        <vector name="rope" x="-3" y="48"/>
+                    </extended>
                 </canvas>
             </imgdir>
             <imgdir name="14">

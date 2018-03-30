@@ -365,6 +365,7 @@
                     <int name="0" value="4031838"/>
                     <int name="1" value="100"/>
                 </imgdir>
+                <int name="0" value="4031838"/>
             </imgdir>
         </imgdir>
     </imgdir>
@@ -398,6 +399,7 @@
                     <int name="0" value="4031896"/>
                     <int name="1" value="100"/>
                 </imgdir>
+                <int name="0" value="4031896"/>
             </imgdir>
         </imgdir>
     </imgdir>
@@ -433,6 +435,7 @@
                     <int name="0" value="4001167"/>
                     <int name="1" value="100"/>
                 </imgdir>
+                <int name="0" value="4001167"/>
             </imgdir>
         </imgdir>
     </imgdir>
@@ -465,6 +468,7 @@
                     <int name="0" value="4031992"/>
                     <int name="1" value="100"/>
                 </imgdir>
+                <int name="0" value="4031992"/>
             </imgdir>
         </imgdir>
     </imgdir>
@@ -503,6 +507,8 @@
                     <int name="0" value="4032044"/>
                     <int name="1" value="100"/>
                 </imgdir>
+                <string name="consumeCountMessage" value="aaa。"/>
+                <int name="consumeCount" value="3"/>
             </imgdir>
             <int name="timeLimited" value="1"/>
         </imgdir>
@@ -604,6 +610,7 @@
                 <imgdir name="0">
                     <int name="0" value="4032135"/>
                     <int name="1" value="1"/>
+                    <string name="consumeCountMessage" value="#t4032135# 要每天涂，且要涂5天噢。"/>
                 </imgdir>
                 <int name="consumeCount" value="5"/>
                 <string name="consumeCountMessage" value="You must sprinkle growth powder for 5 days straight."/>
@@ -2275,6 +2282,18 @@
                 <int name="0" value="4032196"/>
                 <int name="1" value="4032197"/>
                 <int name="2" value="4032198"/>
+                <imgdir name="2">
+                    <int name="0" value="4032198"/>
+                    <int name="1" value="100"/>
+                </imgdir>
+                <imgdir name="1">
+                    <int name="0" value="4032197"/>
+                    <int name="1" value="100"/>
+                </imgdir>
+                <imgdir name="0">
+                    <int name="0" value="4032196"/>
+                    <int name="1" value="100"/>
+                </imgdir>
             </imgdir>
         </imgdir>
     </imgdir>
@@ -2426,6 +2445,9 @@
                     <int name="0" value="4032304"/>
                     <int name="1" value="100"/>
                 </imgdir>
+                <int name="2" value="4032304"/>
+                <int name="1" value="4032303"/>
+                <int name="0" value="4032302"/>
             </imgdir>
         </imgdir>
     </imgdir>
@@ -2467,6 +2489,9 @@
                     <int name="0" value="4032304"/>
                     <int name="1" value="100"/>
                 </imgdir>
+                <int name="2" value="4032304"/>
+                <int name="1" value="4032303"/>
+                <int name="0" value="4032302"/>
             </imgdir>
         </imgdir>
     </imgdir>
@@ -2508,6 +2533,9 @@
                     <int name="0" value="4032304"/>
                     <int name="1" value="100"/>
                 </imgdir>
+                <int name="2" value="4032304"/>
+                <int name="1" value="4032303"/>
+                <int name="0" value="4032302"/>
             </imgdir>
         </imgdir>
     </imgdir>
@@ -2652,6 +2680,574 @@
                 <int name="5" value="4001330"/>
                 <int name="6" value="4001331"/>
                 <int name="7" value="4001332"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04220144">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="30">
+                <vector name="origin" x="0" y="30"/>
+            </canvas>
+            <canvas name="iconRaw" width="29" height="30">
+                <vector name="origin" x="0" y="30"/>
+            </canvas>
+            <int name="only" value="1"/>
+            <int name="questId" value="4716"/>
+            <string name="name" value="海盗的冒险之心"/>
+            <int name="exp" value="1000"/>
+            <int name="notSale" value="1"/>
+            <string name="uiData" value="UI/UIWindow/raise/17"/>
+            <int name="price" value="100"/>
+            <int name="slotMax" value="1"/>
+            <int name="quest" value="1"/>
+            <int name="grade" value="3"/>
+            <int name="timeLimited" value="1"/>
+            <imgdir name="message">
+                <string name="0" value="没有镶嵌自由之心"/>
+                <string name="1" value="镶嵌了一个自由之心，封印的冒险之心项链发出了微微的光芒。"/>
+                <string name="2" value="镶嵌了两个自由之心，苏醒的冒险之心项链发出了闪亮的光芒。"/>
+                <string name="3" value="镶嵌了三个自由之心，觉醒的冒险之心项链发出了耀眼的光芒。"/>
+            </imgdir>
+            <imgdir name="consumeItem">
+                <imgdir name="0">
+                    <int name="0" value="4001230"/>
+                    <int name="1" value="1000"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04220143">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="30">
+                <vector name="origin" x="0" y="30"/>
+            </canvas>
+            <canvas name="iconRaw" width="29" height="30">
+                <vector name="origin" x="0" y="30"/>
+            </canvas>
+            <int name="only" value="1"/>
+            <int name="questId" value="4716"/>
+            <string name="name" value="飞侠的冒险之心"/>
+            <int name="exp" value="1000"/>
+            <int name="notSale" value="1"/>
+            <string name="uiData" value="UI/UIWindow/raise/16"/>
+            <int name="price" value="100"/>
+            <int name="slotMax" value="1"/>
+            <int name="quest" value="1"/>
+            <int name="grade" value="3"/>
+            <int name="timeLimited" value="1"/>
+            <imgdir name="message">
+                <string name="0" value="没有镶嵌敏捷之心"/>
+                <string name="1" value="镶嵌了一个敏捷之心，封印的冒险之心项链发出了微微的光芒。"/>
+                <string name="2" value="镶嵌了两个敏捷之心，苏醒的冒险之心项链发出了闪亮的光芒。"/>
+                <string name="3" value="镶嵌了三个敏捷之心，觉醒的冒险之心项链发出了耀眼的光芒。"/>
+            </imgdir>
+            <imgdir name="consumeItem">
+                <imgdir name="0">
+                    <int name="0" value="4001229"/>
+                    <int name="1" value="1000"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04220142">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="30">
+                <vector name="origin" x="0" y="30"/>
+            </canvas>
+            <canvas name="iconRaw" width="29" height="30">
+                <vector name="origin" x="0" y="30"/>
+            </canvas>
+            <int name="only" value="1"/>
+            <int name="questId" value="4716"/>
+            <string name="name" value="射手的冒险之心"/>
+            <int name="exp" value="1000"/>
+            <int name="notSale" value="1"/>
+            <string name="uiData" value="UI/UIWindow/raise/15"/>
+            <int name="price" value="100"/>
+            <int name="slotMax" value="1"/>
+            <int name="quest" value="1"/>
+            <int name="grade" value="3"/>
+            <int name="timeLimited" value="1"/>
+            <imgdir name="message">
+                <string name="0" value="没有镶嵌精准之心"/>
+                <string name="1" value="镶嵌了一个精准之心，封印的冒险之心项链发出了微微的光芒。"/>
+                <string name="2" value="镶嵌了两个精准之心，苏醒的冒险之心项链发出了闪亮的光芒。"/>
+                <string name="3" value="镶嵌了三个精准之心，觉醒的冒险之心项链发出了耀眼的光芒。"/>
+            </imgdir>
+            <imgdir name="consumeItem">
+                <imgdir name="0">
+                    <int name="0" value="4001228"/>
+                    <int name="1" value="1000"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04220141">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="30">
+                <vector name="origin" x="0" y="30"/>
+            </canvas>
+            <canvas name="iconRaw" width="29" height="30">
+                <vector name="origin" x="0" y="30"/>
+            </canvas>
+            <int name="only" value="1"/>
+            <int name="questId" value="4716"/>
+            <string name="name" value="法师的冒险之心"/>
+            <int name="exp" value="1000"/>
+            <int name="notSale" value="1"/>
+            <string name="uiData" value="UI/UIWindow/raise/14"/>
+            <int name="price" value="100"/>
+            <int name="slotMax" value="1"/>
+            <int name="quest" value="1"/>
+            <int name="grade" value="3"/>
+            <int name="timeLimited" value="1"/>
+            <imgdir name="message">
+                <string name="0" value="没有镶嵌智慧之心"/>
+                <string name="1" value="镶嵌了一个智慧之心，封印的冒险之心项链发出了微微的光芒。"/>
+                <string name="2" value="镶嵌了两个智慧之心，苏醒的冒险之心项链发出了闪亮的光芒。"/>
+                <string name="3" value="镶嵌了三个智慧之心，觉醒的冒险之心项链发出了耀眼的光芒。"/>
+            </imgdir>
+            <imgdir name="consumeItem">
+                <imgdir name="0">
+                    <int name="0" value="4001227"/>
+                    <int name="1" value="1000"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04220140">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="30">
+                <vector name="origin" x="0" y="30"/>
+            </canvas>
+            <canvas name="iconRaw" width="29" height="30">
+                <vector name="origin" x="0" y="30"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="quest" value="1"/>
+            <int name="only" value="1"/>
+            <int name="exp" value="1000"/>
+            <int name="slotMax" value="1"/>
+            <string name="questId" value="4716"/>
+            <int name="timeLimited" value="1"/>
+            <int name="grade" value="3"/>
+            <string name="uiData" value="UI/UIWindow/raise/13"/>
+            <string name="name" value="战士的冒险之心"/>
+            <imgdir name="message">
+                <string name="0" value="没有镶嵌勇气之心"/>
+                <string name="1" value="镶嵌了一个勇气之心，封印的冒险之心项链发出了微微的光芒。"/>
+                <string name="2" value="镶嵌了两个勇气之心，苏醒的冒险之心项链发出了闪亮的光芒。"/>
+                <string name="3" value="镶嵌了三个勇气之心，觉醒的冒险之心项链发出了耀眼的光芒。"/>
+            </imgdir>
+            <imgdir name="consumeItem">
+                <imgdir name="0">
+                    <int name="0" value="4001226"/>
+                    <int name="1" value="1000"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04220088">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="27">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <canvas name="iconRaw" width="31" height="23">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="quest" value="1"/>
+            <int name="only" value="1"/>
+            <int name="exp" value="1000"/>
+            <int name="slotMax" value="1"/>
+            <int name="timeLimited" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04220087">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="27">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <canvas name="iconRaw" width="31" height="23">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="quest" value="1"/>
+            <int name="only" value="1"/>
+            <int name="exp" value="2000000"/>
+            <int name="slotMax" value="1"/>
+            <int name="timeLimited" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04220086">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="27">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <canvas name="iconRaw" width="31" height="23">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="quest" value="1"/>
+            <int name="only" value="1"/>
+            <int name="exp" value="1200000"/>
+            <int name="slotMax" value="1"/>
+            <int name="timeLimited" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04220085">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="27">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <canvas name="iconRaw" width="31" height="23">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="quest" value="1"/>
+            <int name="only" value="1"/>
+            <int name="exp" value="910000"/>
+            <int name="slotMax" value="1"/>
+            <int name="timeLimited" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04220084">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="27">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <canvas name="iconRaw" width="31" height="23">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="quest" value="1"/>
+            <int name="only" value="1"/>
+            <int name="exp" value="700000"/>
+            <int name="slotMax" value="1"/>
+            <int name="timeLimited" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04220083">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="27">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <canvas name="iconRaw" width="31" height="23">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="quest" value="1"/>
+            <int name="only" value="1"/>
+            <int name="exp" value="530000"/>
+            <int name="slotMax" value="1"/>
+            <int name="timeLimited" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04220082">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="27">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <canvas name="iconRaw" width="31" height="23">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="quest" value="1"/>
+            <int name="only" value="1"/>
+            <int name="exp" value="410000"/>
+            <int name="slotMax" value="1"/>
+            <int name="timeLimited" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04220081">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="27">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <canvas name="iconRaw" width="31" height="23">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="quest" value="1"/>
+            <int name="only" value="1"/>
+            <int name="exp" value="310000"/>
+            <int name="slotMax" value="1"/>
+            <int name="timeLimited" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04220080">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="27">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <canvas name="iconRaw" width="31" height="23">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="quest" value="1"/>
+            <int name="only" value="1"/>
+            <int name="exp" value="240000"/>
+            <int name="slotMax" value="1"/>
+            <int name="timeLimited" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04220079">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="27">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <canvas name="iconRaw" width="31" height="23">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="quest" value="1"/>
+            <int name="only" value="1"/>
+            <int name="exp" value="185000"/>
+            <int name="slotMax" value="1"/>
+            <int name="timeLimited" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04220078">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="27">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <canvas name="iconRaw" width="31" height="23">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="quest" value="1"/>
+            <int name="only" value="1"/>
+            <int name="exp" value="140000"/>
+            <int name="slotMax" value="1"/>
+            <int name="timeLimited" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04220077">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="27">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <canvas name="iconRaw" width="31" height="23">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="quest" value="1"/>
+            <int name="only" value="1"/>
+            <int name="exp" value="100000"/>
+            <int name="slotMax" value="1"/>
+            <int name="timeLimited" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04220076">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="27">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <canvas name="iconRaw" width="31" height="23">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="quest" value="1"/>
+            <int name="only" value="1"/>
+            <int name="exp" value="83000"/>
+            <int name="slotMax" value="1"/>
+            <int name="timeLimited" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04220075">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="27">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <canvas name="iconRaw" width="31" height="23">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="quest" value="1"/>
+            <int name="only" value="1"/>
+            <int name="exp" value="60000"/>
+            <int name="slotMax" value="1"/>
+            <int name="timeLimited" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04220073">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="27">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <canvas name="iconRaw" width="31" height="23">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="quest" value="1"/>
+            <int name="only" value="1"/>
+            <int name="exp" value="25000"/>
+            <int name="slotMax" value="1"/>
+            <int name="timeLimited" value="1"/>
+            <int name="grade" value="7"/>
+            <int name="questId" value="8593"/>
+            <string name="name" value="我的鱼缸"/>
+            <string name="uiData" value="UI/UIWindow/raise/8"/>
+            <imgdir name="message">
+                <string name="0" value="鱼缸里没有任何变化。"/>
+                <string name="1" value="小鱼从鱼卵里孵化出来了。"/>
+                <string name="2" value="小鱼睁开了眼睛眨了一下。"/>
+                <string name="3" value="小鱼开始长出了粉红色的鱼鳞。"/>
+                <string name="4" value="小鱼开始长出了鱼鳍和小小的嘴巴。"/>
+                <string name="5" value="小鱼的开始长出了尾巴鳍，大眼睛一眨一眨地。"/>
+                <string name="6" value="小鱼快乐的游来游去，双鳍都长出来了。"/>
+                <string name="7" value="哇！好一条可爱的大金鱼。"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04220072">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="27">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <canvas name="iconRaw" width="31" height="23">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="quest" value="1"/>
+            <int name="only" value="1"/>
+            <int name="exp" value="20000"/>
+            <int name="slotMax" value="1"/>
+            <int name="timeLimited" value="1"/>
+            <int name="grade" value="7"/>
+            <int name="questId" value="8592"/>
+            <string name="name" value="我的鱼缸"/>
+            <string name="uiData" value="UI/UIWindow/raise/8"/>
+            <imgdir name="message">
+                <string name="0" value="鱼缸里没有任何变化。"/>
+                <string name="1" value="小鱼从鱼卵里孵化出来了。"/>
+                <string name="2" value="小鱼睁开了眼睛眨了一下。"/>
+                <string name="3" value="小鱼开始长出了粉红色的鱼鳞。"/>
+                <string name="4" value="小鱼开始长出了鱼鳍和小小的嘴巴。"/>
+                <string name="5" value="小鱼的开始长出了尾巴鳍，大眼睛一眨一眨地。"/>
+                <string name="6" value="小鱼快乐的游来游去，双鳍都长出来了。"/>
+                <string name="7" value="哇！好一条可爱的大金鱼。"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04220071">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="27">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <canvas name="iconRaw" width="31" height="23">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="quest" value="1"/>
+            <int name="only" value="1"/>
+            <int name="exp" value="10000"/>
+            <int name="slotMax" value="1"/>
+            <int name="timeLimited" value="1"/>
+            <int name="grade" value="7"/>
+            <int name="questId" value="8591"/>
+            <string name="name" value="我的鱼缸"/>
+            <string name="uiData" value="UI/UIWindow/raise/8"/>
+            <imgdir name="message">
+                <string name="0" value="鱼缸里没有任何变化。"/>
+                <string name="1" value="小鱼从鱼卵里孵化出来了。"/>
+                <string name="2" value="小鱼睁开了眼睛眨了一下。"/>
+                <string name="3" value="小鱼开始长出了粉红色的鱼鳞。"/>
+                <string name="4" value="小鱼开始长出了鱼鳍和小小的嘴巴。"/>
+                <string name="5" value="小鱼的开始长出了尾巴鳍，大眼睛一眨一眨地。"/>
+                <string name="6" value="小鱼快乐的游来游去，双鳍都长出来了。"/>
+                <string name="7" value="哇！好一条可爱的大金鱼。"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04220070">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="27">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <canvas name="iconRaw" width="31" height="23">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="quest" value="1"/>
+            <int name="only" value="1"/>
+            <int name="exp" value="5000"/>
+            <int name="slotMax" value="1"/>
+            <int name="timeLimited" value="1"/>
+            <int name="grade" value="7"/>
+            <int name="questId" value="8590"/>
+            <string name="name" value="我的鱼缸"/>
+            <string name="uiData" value="UI/UIWindow/raise/8"/>
+            <imgdir name="message">
+                <string name="0" value="鱼缸里没有任何变化。"/>
+                <string name="1" value="小鱼从鱼卵里孵化出来了。"/>
+                <string name="2" value="小鱼睁开了眼睛眨了一下。"/>
+                <string name="3" value="小鱼开始长出了粉红色的鱼鳞。"/>
+                <string name="4" value="小鱼开始长出了鱼鳍和小小的嘴巴。"/>
+                <string name="5" value="小鱼的开始长出了尾巴鳍，大眼睛一眨一眨地。"/>
+                <string name="6" value="小鱼快乐的游来游去，双鳍都长出来了。"/>
+                <string name="7" value="哇！好一条可爱的大金鱼。"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04220069">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="27">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <canvas name="iconRaw" width="31" height="23">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="quest" value="1"/>
+            <int name="only" value="1"/>
+            <int name="exp" value="3000"/>
+            <int name="slotMax" value="1"/>
+            <int name="timeLimited" value="1"/>
+            <int name="grade" value="7"/>
+            <int name="questId" value="8589"/>
+            <string name="name" value="我的鱼缸"/>
+            <string name="uiData" value="UI/UIWindow/raise/8"/>
+            <imgdir name="message">
+                <string name="0" value="鱼缸里没有任何变化。"/>
+                <string name="1" value="小鱼从鱼卵里孵化出来了。"/>
+                <string name="2" value="小鱼睁开了眼睛眨了一下。"/>
+                <string name="3" value="小鱼开始长出了粉红色的鱼鳞。"/>
+                <string name="4" value="小鱼开始长出了鱼鳍和小小的嘴巴。"/>
+                <string name="5" value="小鱼的开始长出了尾巴鳍，大眼睛一眨一眨地。"/>
+                <string name="6" value="小鱼快乐的游来游去，双鳍都长出来了。"/>
+                <string name="7" value="哇！好一条可爱的大金鱼。"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04220068">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="27">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <canvas name="iconRaw" width="31" height="23">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="quest" value="1"/>
+            <int name="only" value="1"/>
+            <int name="exp" value="1000"/>
+            <int name="slotMax" value="1"/>
+            <int name="timeLimited" value="1"/>
+            <int name="grade" value="7"/>
+            <int name="questId" value="8588"/>
+            <string name="name" value="我的鱼缸"/>
+            <string name="uiData" value="UI/UIWindow/raise/8"/>
+            <imgdir name="message">
+                <string name="0" value="鱼缸里没有任何变化。"/>
+                <string name="1" value="小鱼从鱼卵里孵化出来了。"/>
+                <string name="2" value="小鱼睁开了眼睛眨了一下。"/>
+                <string name="3" value="小鱼开始长出了粉红色的鱼鳞。"/>
+                <string name="4" value="小鱼开始长出了鱼鳍和小小的嘴巴。"/>
+                <string name="5" value="小鱼的开始长出了尾巴鳍，大眼睛一眨一眨地。"/>
+                <string name="6" value="小鱼快乐的游来游去，双鳍都长出来了。"/>
+                <string name="7" value="哇！好一条可爱的大金鱼。"/>
             </imgdir>
         </imgdir>
     </imgdir>

@@ -18,6 +18,7 @@
         <int name="life" value="90"/>
         <int name="chatBalloon" value="4"/>
         <int name="nameTag" value="6"/>
+        <int name="pickupItem" value="1"/>
     </imgdir>
     <imgdir name="interact">
         <imgdir name="0">
@@ -586,6 +587,8 @@
                     <string name="act" value="love"/>
                     <string name="0" value="c24_s1"/>
                     <string name="1" value="c24_s2"/>
+                    <string name="3" value="c24_s4"/>
+                    <string name="2" value="c24_s3"/>
                 </imgdir>
             </imgdir>
             <imgdir name="fail">
@@ -593,6 +596,8 @@
                     <string name="act" value="rest0"/>
                     <string name="0" value="c24_f1"/>
                     <string name="1" value="c24_f2"/>
+                    <string name="3" value="c24_f4"/>
+                    <string name="2" value="c24_f3"/>
                 </imgdir>
             </imgdir>
         </imgdir>
@@ -757,6 +762,8 @@
                     <string name="act" value="christmas"/>
                     <string name="0" value="c31_s1"/>
                     <string name="1" value="c31_s2"/>
+                    <string name="3" value="c31_s4"/>
+                    <string name="2" value="c31_s3"/>
                 </imgdir>
             </imgdir>
             <imgdir name="fail">
@@ -764,6 +771,8 @@
                     <string name="act" value="rest0"/>
                     <string name="0" value="c31_f1"/>
                     <string name="1" value="c31_f2"/>
+                    <string name="3" value="c31_f4"/>
+                    <string name="2" value="c31_f3"/>
                 </imgdir>
             </imgdir>
         </imgdir>
@@ -1212,6 +1221,7 @@
             <vector name="origin" x="20" y="45"/>
             <vector name="lt" x="-20" y="-45"/>
             <vector name="rb" x="16" y="0"/>
+            <int name="delay" value="400"/>
         </canvas>
         <canvas name="2" width="36" height="45">
             <vector name="origin" x="20" y="45"/>
@@ -1225,6 +1235,14 @@
             <vector name="rb" x="16" y="0"/>
             <int name="delay" value="200"/>
         </canvas>
+        <uol name="9" value="1"/>
+        <uol name="8" value="0"/>
+        <uol name="7" value="3"/>
+        <uol name="6" value="2"/>
+        <uol name="5" value="1"/>
+        <uol name="4" value="0"/>
+        <uol name="11" value="3"/>
+        <uol name="10" value="2"/>
     </imgdir>
     <imgdir name="hang">
         <canvas name="0" width="35" height="50">
@@ -1350,6 +1368,12 @@
         <uol name="21" value="9"/>
         <uol name="22" value="10"/>
         <uol name="23" value="11"/>
+        <canvas name="17" width="75" height="45">
+            <vector name="origin" x="20" y="45"/>
+            <vector name="lt" x="-20" y="-45"/>
+            <vector name="rb" x="55" y="0"/>
+            <int name="delay" value="100"/>
+        </canvas>
     </imgdir>
     <imgdir name="christmas">
         <canvas name="0" width="58" height="45">

@@ -24,6 +24,13 @@
         <int name="evolNo" value="1"/>
         <int name="life" value="90"/>
         <int name="evolProb1" value="1000"/>
+        <int name="sweepForDrop" value="1"/>
+        <int name="pickupItem" value="1"/>
+        <int name="pickupAll" value="1"/>
+        <int name="longRange" value="1"/>
+        <int name="consumeMP" value="1"/>
+        <int name="consumeHP" value="1"/>
+        <int name="autoReact" value="1"/>
     </imgdir>
     <imgdir name="stand0">
         <canvas name="0" width="29" height="26">

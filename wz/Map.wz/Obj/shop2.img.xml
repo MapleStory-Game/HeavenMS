@@ -309,6 +309,27 @@
                             <vector name="4" x="-155" y="-286"/>
                         </extended>
                     </imgdir>
+                    <extended name="4">
+                        <vector name="4" x="-286" y="-153"/>
+                        <vector name="4" x="-155" y="-153"/>
+                        <vector name="4" x="-155" y="-286"/>
+                    </extended>
+                    <extended name="3">
+                        <vector name="3" x="-314" y="-123"/>
+                        <vector name="3" x="-191" y="-123"/>
+                    </extended>
+                    <extended name="2">
+                        <vector name="2" x="-343" y="-93"/>
+                        <vector name="2" x="-220" y="-93"/>
+                    </extended>
+                    <extended name="1">
+                        <vector name="1" x="-369" y="-63"/>
+                        <vector name="1" x="-246" y="-63"/>
+                    </extended>
+                    <extended name="0">
+                        <vector name="0" x="-399" y="-33"/>
+                        <vector name="0" x="-290" y="-33"/>
+                    </extended>
                 </canvas>
             </imgdir>
         </imgdir>
@@ -1547,6 +1568,12 @@
             <imgdir name="5">
                 <canvas name="0" width="1" height="1">
                     <vector name="origin" x="0" y="0"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="6">
+                <canvas name="0" width="194" height="281">
+                    <vector name="origin" x="97" y="140"/>
+                    <int name="z" value="0"/>
                 </canvas>
             </imgdir>
         </imgdir>

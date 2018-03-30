@@ -150,12 +150,12 @@
         <imgdir name="18">
             <vector name="spot" x="48" y="-138"/>
             <int name="type" value="1"/>
-            <string name="title" value="Sahel Desert II"/>
-            <string name="desc" value="A dungeon where you can hunt alone or with your party members. There is a portal that leads to the #cHill of Sandstorms#."/>
+            <string name="title" value="沙哈地带2"/>
+            <string name="desc" value="个人或组队成员可以随心随意打猎的迷你副本地图, 有通往#c沙尘暴山丘#的传送口。"/>
             <imgdir name="mapNo">
                 <int name="0" value="260020600"/>
             </imgdir>
-            <canvas name="path" width="80" height="37">
+            <canvas name="path" width="84" height="37">
                 <vector name="origin" x="-51" y="182"/>
                 <int name="z" value="2"/>
             </canvas>
@@ -274,12 +274,12 @@
         <imgdir name="34">
             <vector name="spot" x="161" y="45"/>
             <int name="type" value="1"/>
-            <string name="title" value="Lab Area C-1"/>
-            <string name="desc" value="A dungeon where you can hunt alone or with your party members. There is a portal that leads to the #cFatal Error#."/>
+            <string name="title" value="研究所C-1 地区"/>
+            <string name="desc" value="个人或组队成员可以随心随意打猎的迷你副本地图, 有通往#c致命的错误#的传送口。"/>
             <imgdir name="mapNo">
                 <int name="0" value="261020300"/>
             </imgdir>
-            <canvas name="path" width="80" height="40">
+            <canvas name="path" width="84" height="40">
                 <vector name="origin" x="-163" y="3"/>
                 <int name="z" value="2"/>
             </canvas>
@@ -310,6 +310,13 @@
             <int name="type" value="1"/>
             <imgdir name="mapNo">
                 <int name="0" value="261020700"/>
+            </imgdir>
+        </imgdir>
+        <imgdir name="39">
+            <vector name="spot" x="-11" y="-45"/>
+            <int name="type" value="1"/>
+            <imgdir name="mapNo">
+                <int name="0" value="926010000"/>
             </imgdir>
         </imgdir>
     </imgdir>

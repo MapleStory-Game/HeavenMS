@@ -127,22 +127,27 @@
             <canvas name="0" width="289" height="390">
                 <vector name="origin" x="144" y="195"/>
                 <int name="z" value="0"/>
+                <int name="delay" value="40000"/>
             </canvas>
             <canvas name="1" width="405" height="437">
                 <vector name="origin" x="202" y="218"/>
                 <int name="z" value="0"/>
+                <int name="delay" value="40000"/>
             </canvas>
             <canvas name="2" width="315" height="322">
                 <vector name="origin" x="157" y="161"/>
                 <int name="z" value="0"/>
+                <int name="delay" value="40000"/>
             </canvas>
             <canvas name="3" width="463" height="388">
                 <vector name="origin" x="231" y="194"/>
                 <int name="z" value="0"/>
+                <int name="delay" value="40000"/>
             </canvas>
             <canvas name="4" width="94" height="108">
                 <vector name="origin" x="47" y="54"/>
                 <int name="z" value="0"/>
+                <int name="delay" value="40000"/>
             </canvas>
         </imgdir>
     </imgdir>

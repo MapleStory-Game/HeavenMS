@@ -33,6 +33,12 @@
         <int name="evolNo" value="5"/>
         <int name="evolReqItemID" value="5380000"/>
         <int name="evolReqPetLvl" value="15"/>
+        <int name="sweepForDrop" value="1"/>
+        <int name="pickupItem" value="1"/>
+        <int name="pickupAll" value="1"/>
+        <int name="longRange" value="1"/>
+        <int name="consumeMP" value="1"/>
+        <int name="consumeHP" value="1"/>
     </imgdir>
     <imgdir name="interact">
         <imgdir name="0">
@@ -1576,6 +1582,44 @@
             <int name="delay" value="125"/>
         </canvas>
         <canvas name="5" width="47" height="45">
+            <vector name="origin" x="21" y="42"/>
+            <vector name="lt" x="-21" y="-42"/>
+            <vector name="rb" x="26" y="3"/>
+            <int name="delay" value="125"/>
+        </canvas>
+    </imgdir>
+    <imgdir name="attack">
+        <canvas name="0_2" width="45" height="33">
+            <vector name="origin" x="28" y="32"/>
+            <vector name="lt" x="-28" y="-32"/>
+            <vector name="rb" x="17" y="1"/>
+            <int name="delay" value="125"/>
+        </canvas>
+        <canvas name="1_3" width="57" height="45">
+            <vector name="origin" x="33" y="42"/>
+            <vector name="lt" x="-33" y="-42"/>
+            <vector name="rb" x="24" y="3"/>
+            <int name="delay" value="125"/>
+        </canvas>
+        <canvas name="2_4" width="49" height="48">
+            <vector name="origin" x="26" y="47"/>
+            <vector name="lt" x="-26" y="-47"/>
+            <vector name="rb" x="23" y="1"/>
+            <int name="delay" value="125"/>
+        </canvas>
+        <canvas name="3_5" width="50" height="43">
+            <vector name="origin" x="28" y="42"/>
+            <vector name="lt" x="-28" y="-42"/>
+            <vector name="rb" x="22" y="1"/>
+            <int name="delay" value="125"/>
+        </canvas>
+        <canvas name="4_16" width="57" height="48">
+            <vector name="origin" x="32" y="46"/>
+            <vector name="lt" x="-32" y="-46"/>
+            <vector name="rb" x="23" y="2"/>
+            <int name="delay" value="125"/>
+        </canvas>
+        <canvas name="5_17" width="47" height="45">
             <vector name="origin" x="21" y="42"/>
             <vector name="lt" x="-21" y="-42"/>
             <vector name="rb" x="26" y="3"/>

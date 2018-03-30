@@ -18,6 +18,7 @@
         <int name="life" value="90"/>
         <int name="chatBalloon" value="24"/>
         <int name="nameTag" value="26"/>
+        <int name="consumeHP" value="1"/>
     </imgdir>
     <imgdir name="interact">
         <imgdir name="0">

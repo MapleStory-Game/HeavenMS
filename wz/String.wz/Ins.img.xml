@@ -1043,10 +1043,18 @@
     <imgdir name="3994062">
         <string name="name" value="字母D"/>
         <string name="desc" value="英语村专用英文字母。"/>
+        <imgdir name="3010043">
+            <string name="name" value="綠色五環椅"/>
+            <string name="desc" value="綠色環狀座椅。"/>
+        </imgdir>
     </imgdir>
     <imgdir name="3994063">
         <string name="name" value="字母E"/>
         <string name="desc" value="英语村专用英文字母。"/>
+        <imgdir name="3010046">
+            <string name="name" value="字母B"/>
+            <string name="desc" value="英文村專用英文字母。"/>
+        </imgdir>
     </imgdir>
     <imgdir name="3994064">
         <string name="name" value="字母F"/>
@@ -1079,10 +1087,22 @@
     <imgdir name="3994071">
         <string name="name" value="字母M"/>
         <string name="desc" value="英语村专用英文字母。"/>
+        <imgdir name="3010030">
+            <string name="name" value="休閒椅"/>
+            <string name="desc" value="坐在休閒椅上，每10秒可恢復HP 50。\n#c無法進行交換或交易#。"/>
+        </imgdir>
     </imgdir>
     <imgdir name="3994072">
         <string name="name" value="字母N"/>
         <string name="desc" value="英语村专用英文字母。"/>
+        <imgdir name="3994072">
+            <string name="name" value="字母N"/>
+            <string name="desc" value="英文村專用英文字母。"/>
+        </imgdir>
+        <imgdir name="3010032">
+            <string name="name" value="休閒椅"/>
+            <string name="desc" value="坐在休閒椅上，每10秒可恢復HP 50。\n#c無法進行交換或交易#。"/>
+        </imgdir>
     </imgdir>
     <imgdir name="3994073">
         <string name="name" value="字母O"/>
@@ -1321,6 +1341,7 @@
     </imgdir>
     <imgdir name="3994015">
         <string name="name" value="Wooden Alphabet C"/>
+        <string name="desc" value="用餅乾作成的字母 C，據說有特別的用途。"/>
     </imgdir>
     <imgdir name="3992041">
         <string name="name" value="Crimsonwood Keystone"/>
@@ -2633,5 +2654,188 @@
     <imgdir name="3019909">
         <string name="name" value="枫叶岛"/>
         <string name="desc" value="可以成为微型枫叶岛主人的椅子。"/>
+    </imgdir>
+    <imgdir name="3994178">
+        <string name="name" value="賓果蓋章"/>
+    </imgdir>
+    <imgdir name="3994177">
+        <string name="name" value="賓果盤6-6"/>
+    </imgdir>
+    <imgdir name="3994176">
+        <string name="name" value="賓果盤6-5"/>
+    </imgdir>
+    <imgdir name="3994175">
+        <string name="name" value="賓果盤6-4"/>
+    </imgdir>
+    <imgdir name="3994174">
+        <string name="name" value="賓果盤6-3"/>
+    </imgdir>
+    <imgdir name="3994173">
+        <string name="name" value="賓果盤6-2"/>
+    </imgdir>
+    <imgdir name="3994172">
+        <string name="name" value="賓果盤6-1"/>
+    </imgdir>
+    <imgdir name="3994171">
+        <string name="name" value="賓果盤5-6"/>
+    </imgdir>
+    <imgdir name="3994170">
+        <string name="name" value="賓果盤5-5"/>
+    </imgdir>
+    <imgdir name="3994169">
+        <string name="name" value="賓果盤5-4"/>
+    </imgdir>
+    <imgdir name="3994168">
+        <string name="name" value="賓果盤5-3"/>
+    </imgdir>
+    <imgdir name="3994167">
+        <string name="name" value="賓果盤5-2"/>
+    </imgdir>
+    <imgdir name="3994166">
+        <string name="name" value="賓果盤5-1"/>
+    </imgdir>
+    <imgdir name="3994165">
+        <string name="name" value="賓果盤4-6"/>
+    </imgdir>
+    <imgdir name="3994164">
+        <string name="name" value="賓果盤4-5"/>
+    </imgdir>
+    <imgdir name="3994163">
+        <string name="name" value="賓果盤4-4"/>
+    </imgdir>
+    <imgdir name="3994162">
+        <string name="name" value="賓果盤4-3"/>
+    </imgdir>
+    <imgdir name="3994161">
+        <string name="name" value="賓果盤4-2"/>
+    </imgdir>
+    <imgdir name="3994160">
+        <string name="name" value="賓果盤4-1"/>
+    </imgdir>
+    <imgdir name="3994159">
+        <string name="name" value="賓果盤3-6"/>
+    </imgdir>
+    <imgdir name="3994158">
+        <string name="name" value="賓果盤3-5"/>
+    </imgdir>
+    <imgdir name="3994157">
+        <string name="name" value="賓果盤3-4"/>
+    </imgdir>
+    <imgdir name="3994156">
+        <string name="name" value="賓果盤3-3"/>
+    </imgdir>
+    <imgdir name="3994155">
+        <string name="name" value="賓果盤3-2"/>
+    </imgdir>
+    <imgdir name="3994154">
+        <string name="name" value="賓果盤3-1"/>
+    </imgdir>
+    <imgdir name="3994153">
+        <string name="name" value="賓果盤2-6"/>
+    </imgdir>
+    <imgdir name="3994152">
+        <string name="name" value="賓果盤2-5"/>
+    </imgdir>
+    <imgdir name="3994151">
+        <string name="name" value="賓果盤2-4"/>
+    </imgdir>
+    <imgdir name="3994150">
+        <string name="name" value="賓果盤2-3"/>
+    </imgdir>
+    <imgdir name="3994149">
+        <string name="name" value="賓果盤2-2"/>
+    </imgdir>
+    <imgdir name="3994148">
+        <string name="name" value="賓果盤2-1"/>
+    </imgdir>
+    <imgdir name="3994147">
+        <string name="name" value="賓果盤1-6"/>
+    </imgdir>
+    <imgdir name="3994146">
+        <string name="name" value="賓果盤1-5"/>
+    </imgdir>
+    <imgdir name="3994145">
+        <string name="name" value="賓果盤1-4"/>
+    </imgdir>
+    <imgdir name="3994144">
+        <string name="name" value="賓果盤1-3"/>
+    </imgdir>
+    <imgdir name="3994143">
+        <string name="name" value="賓果盤1-2"/>
+    </imgdir>
+    <imgdir name="3994142">
+        <string name="name" value="賓果盤1-1"/>
+    </imgdir>
+    <imgdir name="3994058">
+        <string name="name" value="餅乾字母 V"/>
+        <string name="desc" value="用餅乾作成的字母 V，據說有特別的用途。"/>
+    </imgdir>
+    <imgdir name="3994057">
+        <string name="name" value="餅乾字母 U"/>
+        <string name="desc" value="用餅乾作成的字母 U，據說有特別的用途。"/>
+    </imgdir>
+    <imgdir name="3994056">
+        <string name="name" value="餅乾字母 Q"/>
+        <string name="desc" value="用餅乾作成的字母 Q，據說有特別的用途。"/>
+    </imgdir>
+    <imgdir name="3994055">
+        <string name="name" value="餅乾字母 K"/>
+        <string name="desc" value="用餅乾作成的字母 K，據說有特別的用途。"/>
+    </imgdir>
+    <imgdir name="3994054">
+        <string name="name" value="餅乾字母 H"/>
+        <string name="desc" value="用餅乾作成的字母 H，據說有特別的用途。"/>
+    </imgdir>
+    <imgdir name="3994053">
+        <string name="name" value="餅乾字母 J"/>
+        <string name="desc" value="用餅乾作成的字母 J，據說有特別的用途。"/>
+    </imgdir>
+    <imgdir name="3994052">
+        <string name="name" value="餅乾字母 F"/>
+        <string name="desc" value="用餅乾作成的字母 F，據說有特別的用途。"/>
+    </imgdir>
+    <imgdir name="3994051">
+        <string name="name" value="餅乾字母 D"/>
+        <string name="desc" value="用餅乾作成的字母 D，據說有特別的用途。"/>
+    </imgdir>
+    <imgdir name="3994050">
+        <string name="name" value="餅乾字母 B"/>
+        <string name="desc" value="用餅乾作成的字母 B，據說有特別的用途。"/>
+    </imgdir>
+    <imgdir name="3994025">
+        <string name="name" value="餅乾字母 G"/>
+        <string name="desc" value="用餅乾作成的字母 G，據說有特別的用途。"/>
+    </imgdir>
+    <imgdir name="3020007">
+        <string name="name" value="狂狼經驗值座椅"/>
+        <string name="desc" value="可儲存打獵經驗值5%的狂狼經驗值座椅(不包含組隊額外經驗值，任務補償經驗值)。沒有MP、HP恢復功能。坐在椅子上，便可獲得椅子上所累積的經驗值。將滑鼠移過去，便可確認已獲得的經驗值%。玩家使用滑鼠右鍵來指定所要累積經驗值的椅子，而選定的椅子周圍，會出現紅色框框以作區分。椅子內所累積的經驗值，會在玩家登出後48小時後自動消失。"/>
+    </imgdir>
+    <imgdir name="3020005">
+        <string name="name" value="恐龍化石經驗值寶座"/>
+        <string name="desc" value="可儲存打獵經驗值5%的恐龍化石經驗值寶座(不包含組隊額外經驗值，任務補償經驗值)。沒有MP、HP恢復功能。坐在椅子上，便可獲得椅子上所累積的經驗值。將滑鼠移過去，便可確認已獲得的經驗值%。玩家使用滑鼠右鍵來指定所要累積經驗值的椅子，而選定的椅子周圍，會出現紅色框框以作區分。椅子內所累積的經驗值，會在玩家登出後48小時後自動消失。"/>
+    </imgdir>
+    <imgdir name="3020004">
+        <string name="name" value="石巨人經驗值座椅"/>
+        <string name="desc" value="可儲存打獵經驗值4%的巨石人座椅(不包含組隊額外經驗值，任務補償經驗值)。沒有MP、HP恢復功能。坐在椅子上，便可獲得椅子上所累積的經驗值。將滑鼠移過去，便可確認已獲得的經驗值%。玩家使用滑鼠右鍵來指定所要累積經驗值的椅子，而選定的椅子周圍，會出現紅色框框以作區分。椅子內所累積的經驗值，會在玩家登出後48小時後自動消失。"/>
+    </imgdir>
+    <imgdir name="3020003">
+        <string name="name" value="緞帶肥肥經驗值椅"/>
+        <string name="desc" value="可儲存打獵經驗值3%的緞帶肥肥經驗值椅(不包含組隊額外經驗值，任務補償經驗值)。沒有MP、HP恢復功能。坐在椅子上，便可獲得椅子上所累積的經驗值。將滑鼠移過去，便可確認已獲得的經驗值%。玩家使用滑鼠右鍵來指定所要累積經驗值的椅子，而選定的椅子周圍，會出現紅色框框以作區分。椅子內所累積的經驗值，會在玩家登出後48小時後自動消失。"/>
+    </imgdir>
+    <imgdir name="3020002">
+        <string name="name" value="受詛咒的椅子"/>
+        <string name="desc" value="可儲存打獵經驗值5%的詛咒的椅子(不包含組隊額外經驗值，任務補償經驗值)。沒有MP、HP恢復功能。坐在椅子上，便可獲得椅子上所累積的經驗值。將滑鼠移過去，便可確認已獲得的經驗值%。玩家使用滑鼠右鍵來指定所要累積經驗值的椅子，而選定的椅子周圍，會出現紅色框框以作區分。椅子內所累積的經驗值，會在玩家登出後48小時後自動消失。"/>
+    </imgdir>
+    <imgdir name="3012004">
+        <string name="name" value="戀人之心"/>
+        <string name="desc" value="紀念情人節所設計的情侶椅。兩人面對面坐著時就會出現特效，坐在上面每10秒 HP+40、MP+30。"/>
+    </imgdir>
+    <imgdir name="3010086">
+        <string name="name" value="夢境沙發"/>
+        <string name="desc" value="坐在 夢境沙發上，每10秒HP和MP恢復 50。"/>
+    </imgdir>
+    <imgdir name="3010074">
+        <string name="name" value="露營帳篷"/>
+        <string name="desc" value="坐在露營帳篷前，每10秒HP和MP恢復 50。"/>
     </imgdir>
 </imgdir>

@@ -33,6 +33,24 @@
                             <vector name="0" x="211" y="-100"/>
                             <vector name="0" x="276" y="-98"/>
                         </extended>
+                        <extended name="3">
+                            <vector name="3" x="444" y="122"/>
+                            <vector name="3" x="537" y="122"/>
+                        </extended>
+                        <extended name="2">
+                            <vector name="2" x="-531" y="123"/>
+                            <vector name="2" x="-227" y="123"/>
+                            <vector name="2" x="-222" y="126"/>
+                            <vector name="2" x="179" y="123"/>
+                            <vector name="2" x="224" y="130"/>
+                        </extended>
+                        <extended name="1">
+                            <vector name="1" x="-366" y="83"/>
+                            <vector name="1" x="71" y="83"/>
+                            <vector name="1" x="107" y="87"/>
+                            <vector name="1" x="156" y="111"/>
+                            <vector name="1" x="200" y="96"/>
+                        </extended>
                     </imgdir>
                 </canvas>
             </imgdir>

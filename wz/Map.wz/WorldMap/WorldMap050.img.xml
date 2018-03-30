@@ -6,7 +6,7 @@
     <imgdir name="BaseImg">
         <canvas name="0" width="640" height="470">
             <vector name="origin" x="320" y="235"/>
-            <int name="z" value="-1"/>
+            <int name="z" value="0"/>
         </canvas>
     </imgdir>
     <imgdir name="MapList">
@@ -90,7 +90,7 @@
             </imgdir>
         </imgdir>
         <imgdir name="10">
-            <vector name="spot" x="265" y="-69"/>
+            <vector name="spot" x="261" y="-77"/>
             <int name="type" value="1"/>
             <imgdir name="mapNo">
                 <int name="0" value="240010900"/>
@@ -157,12 +157,12 @@
         <imgdir name="19">
             <vector name="spot" x="134" y="-80"/>
             <int name="type" value="1"/>
-            <string name="title" value="Battlefield of Fire and Water"/>
-            <string name="desc" value="A mini dungeon where you can hunt alone or with your party members. There is a portal that leads to the #cRound Table of Kentaurus#."/>
+            <string name="title" value="冰火战场"/>
+            <string name="desc" value="迷你战斗地图可支持个体或者组队打猎，这里有通往#c半人马的隐身处#的传送口。"/>
             <imgdir name="mapNo">
                 <int name="0" value="240020500"/>
             </imgdir>
-            <canvas name="path" width="80" height="40">
+            <canvas name="path" width="84" height="40">
                 <vector name="origin" x="-136" y="128"/>
                 <int name="z" value="2"/>
             </canvas>
@@ -263,12 +263,12 @@
         <imgdir name="33">
             <vector name="spot" x="-148" y="-68"/>
             <int name="type" value="1"/>
-            <string name="title" value="The Dragon Nest Left Behind"/>
-            <string name="desc" value="A mini dungeon where you can hunt alone or with your party members. There is a portal that leads to the #cRevivifying Memory#."/>
+            <string name="title" value="被遗忘的龙之巢穴"/>
+            <string name="desc" value="个人或组队成员可以随心随意打猎的迷你副本地图, 有通往#c复活的记忆#的传送口。"/>
             <imgdir name="mapNo">
                 <int name="0" value="240040511"/>
             </imgdir>
-            <canvas name="path" width="80" height="33">
+            <canvas name="path" width="84" height="33">
                 <vector name="origin" x="146" y="108"/>
                 <int name="z" value="2"/>
             </canvas>
@@ -276,12 +276,12 @@
         <imgdir name="34">
             <vector name="spot" x="-183" y="49"/>
             <int name="type" value="1"/>
-            <string name="title" value="Destroyed Dragon Nest"/>
-            <string name="desc" value="A dungeon where you can hunt alone or with your party members. There is a portal that leads to the #cNewtie Conservation Area#."/>
+            <string name="title" value="遭破坏的龙之巢穴"/>
+            <string name="desc" value="个人或组队成员可以随心随意打猎的迷你副本地图, 有通往#c小蜥蜴保护区域#的传送口。"/>
             <imgdir name="mapNo">
                 <int name="0" value="240040520"/>
             </imgdir>
-            <canvas name="path" width="80" height="35">
+            <canvas name="path" width="84" height="35">
                 <vector name="origin" x="180" y="-6"/>
                 <int name="z" value="2"/>
             </canvas>
@@ -309,7 +309,7 @@
         </imgdir>
         <imgdir name="38">
             <vector name="spot" x="-53" y="-69"/>
-            <string name="title" value="Cave of Life"/>
+            <string name="title" value="生命之穴"/>
             <int name="type" value="2"/>
             <imgdir name="mapNo">
                 <int name="0" value="240050000"/>

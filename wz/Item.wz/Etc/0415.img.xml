@@ -10,6 +10,7 @@
             </canvas>
             <int name="slotMax" value="200"/>
             <int name="price" value="1"/>
+            <string name="tradeBlock" value="1"/>
         </imgdir>
         <int name="tradeBlock" value="1"/>
     </imgdir>

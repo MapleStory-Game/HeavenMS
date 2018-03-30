@@ -1973,6 +1973,19 @@
             <imgdir name="8">
                 <canvas name="0" width="1" height="1">
                     <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                    <imgdir name="foothold">
+                        <extended name="0">
+                            <vector name="0" x="-104" y="-15"/>
+                            <vector name="0" x="84" y="-7"/>
+                        </extended>
+                        <extended name="1">
+                            <vector name="1" x="-167" y="167"/>
+                            <vector name="1" x="-120" y="157"/>
+                            <vector name="1" x="-96" y="156"/>
+                            <vector name="1" x="-56" y="161"/>
+                        </extended>
+                    </imgdir>
                 </canvas>
             </imgdir>
             <imgdir name="9">

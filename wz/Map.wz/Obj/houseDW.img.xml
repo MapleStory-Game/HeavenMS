@@ -170,7 +170,7 @@
                 </canvas>
             </imgdir>
             <imgdir name="1">
-                <canvas name="0" width="158" height="103">
+                <canvas name="0" width="158" height="89">
                     <vector name="origin" x="384" y="175"/>
                     <int name="z" value="0"/>
                 </canvas>

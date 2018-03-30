@@ -79,9 +79,9 @@
             <imgdir name="mapNo">
                 <int name="0" value="105040304"/>
             </imgdir>
-            <string name="title" value="Sleepy Dungeon IV"/>
-            <string name="desc" value="A mini dungeon where you can hunt alone or with your party members. There is a portal that leads to the #cGolem&apos;s Castle Ruins#."/>
-            <canvas name="path" width="80" height="37">
+            <string name="title" value="森林迷宫IV"/>
+            <string name="desc" value="迷你战斗地图可支持个体或者组队打猎，这里有通往#c倒塌石人的圣地#的传送口。"/>
+            <canvas name="path" width="84" height="37">
                 <vector name="origin" x="226" y="-22"/>
                 <int name="z" value="2"/>
             </canvas>
@@ -103,12 +103,12 @@
         <imgdir name="12">
             <vector name="spot" x="-86" y="19"/>
             <int name="type" value="1"/>
-            <string name="title" value="Ant Tunnel II"/>
-            <string name="desc" value="A mini dungeon where you can hunt alone or with your party members. There is a portal that leads to the #cCave of Mushrooms#."/>
+            <string name="title" value="蚂蚁洞Ⅱ"/>
+            <string name="desc" value="迷你战斗地图可支持个体或者组队打猎,这里有通往#c蘑菇洞#的传送口。"/>
             <imgdir name="mapNo">
                 <int name="0" value="105050100"/>
             </imgdir>
-            <canvas name="path" width="80" height="34">
+            <canvas name="path" width="84" height="34">
                 <vector name="origin" x="86" y="22"/>
                 <int name="z" value="2"/>
             </canvas>
@@ -242,12 +242,12 @@
         <imgdir name="31">
             <vector name="spot" x="170" y="18"/>
             <int name="type" value="1"/>
-            <string name="title" value="Drake&apos;s Blue Cave"/>
-            <string name="desc" value="A mini dungeon where you can hunt alone or with your party members. There is a portal that leads to the #cDrake&apos;s Blue Cave#."/>
             <imgdir name="mapNo">
                 <int name="0" value="105090311"/>
             </imgdir>
-            <canvas name="path" width="81" height="36">
+            <string name="title" value="冰冷的摇篮"/>
+            <string name="desc" value="可以单独或和组队成员一起打猎的迷你迷宫，有通往#c青龙的蓝色洞穴#的传送点。"/>
+            <canvas name="path" width="84" height="36">
                 <vector name="origin" x="-169" y="17"/>
                 <int name="z" value="2"/>
             </canvas>

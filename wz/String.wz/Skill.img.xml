@@ -4519,7 +4519,7 @@
     </imgdir>
     <imgdir name="4111006">
         <string name="name" value="二段跳"/>
-        <string name="desc" value="[最高等级:20]\n跳跃后在空中使用的话，能再一次跳跃。技能点上升跳跃力也会上升。\n必需技能 : #c多重飞镖等级5以上#"/>
+        <string name="desc" value="[最高等级:20]\n跳跃后在空中使用的话，能再一次跳跃。技能点上升跳跃力也会上升。\n必需技能 : #c多重飞镖等级5以上#\n冷却时间：1秒"/>
         <string name="h1" value="MP - 60, Jumps a certain distance"/>
         <string name="h2" value="MP - 57, Jumps a certain distance"/>
         <string name="h3" value="MP - 54, Jumps a certain distance"/>
@@ -8290,6 +8290,7 @@
         <string name="h38" value="Once triggered, sustained for 49 sec., Accuracy +19, Avoidability +19, Weapon att. +19"/>
         <string name="h39" value="Once triggered, sustained for 50 sec., Accuracy +20, Avoidability +20, Weapon att. +19"/>
         <string name="h40" value="Once triggered, sustained for 50 sec., Accuracy +20, Avoidability +20, Weapon att. +20"/>
+        <string name="h34" value="發動時持續時間為47秒，命中率與迴避率增加17，物理攻擊力增加18"/>
     </imgdir>
     <imgdir name="5111002">
         <string name="name" value="能量爆破"/>
@@ -8839,6 +8840,10 @@
         <string name="name" value="勇士的意志"/>
         <string name="desc" value="从异常状态中恢复. 随着等级的上升,冷却时间逐渐缩短.\n#c冷却时间 : 10 分.#"/>
         <string name="h1" value="MP -30, cured from the state of being seduced"/>
+        <string name="h5" value="消耗MP 30 解除迷惑異常狀態，再次使用等待時間  6分鐘 。"/>
+        <string name="h4" value="消耗MP 30 解除迷惑異常狀態，。再次使用等待時間  7分鐘 。"/>
+        <string name="h3" value="消耗MP 30 解除迷惑異常狀態，再次使用等待時間  8分鐘 。"/>
+        <string name="h2" value="消耗MP 30 解除迷惑異常狀態，再次使用等待時間  9分鐘 。"/>
     </imgdir>
     <imgdir name="5121009">
         <string name="name" value="极速领域"/>
@@ -9171,6 +9176,10 @@
         <string name="desc" value="从异常状态中恢复。随着等级的上升，冷却时间逐渐缩短。"/>
         <string name="h1" value="MP -30, cured from the state of being seduced."/>
         <string name="h25" value="MP -75, waiting time until next use: 25 min."/>
+        <string name="h5" value="消耗MP 30 解除迷惑異常狀態，再次使用等待時間  6分鐘 。"/>
+        <string name="h4" value="消耗MP 30 解除迷惑異常狀態，。再次使用等待時間  7分鐘 。"/>
+        <string name="h3" value="消耗MP 30 解除迷惑異常狀態，再次使用等待時間  8分鐘 。"/>
+        <string name="h2" value="消耗MP 30 解除迷惑異常狀態，再次使用等待時間  9分鐘 。"/>
     </imgdir>
     <imgdir name="5220011">
         <string name="name" value="导航辅助"/>
@@ -10401,7 +10410,7 @@
     </imgdir>
     <imgdir name="14101004">
         <string name="name" value="二段跳"/>
-        <string name="desc" value="[最高等级：20]\n跳跃到空中时使用，可以向前再跳跃一次。技能等级越高，跳跃的距离越长。"/>
+        <string name="desc" value="[最高等级：20]\n跳跃到空中时使用，可以向前再跳跃一次。技能等级越高，跳跃的距离越长。\n冷却时间：1秒"/>
         <string name="h1" value="MP - 60, Jumps a pre-established distance"/>
         <string name="h2" value="MP - 57, Jumps a pre-established distance"/>
         <string name="h3" value="MP - 54, Jumps a pre-established distance"/>
@@ -12708,5 +12717,72 @@
         <string name="name" value="蝙蝠怪"/>
         <string name="desc" value="[最高等级：1]\n可以骑着蝙蝠怪移动。\n"/>
         <string name="h1" value="Consumes 10 MP, Weapon and Magic Defense +10, Speed 120, Jump 120"/>
+    </imgdir>
+    <imgdir name="5001007">
+        <string name="name" value="終極瞬移"/>
+        <string name="desc" value="[最終等級:1]使用方向鍵可以向各個方向做瞬間移動。"/>
+        <string name="h1" value="空間移動，移動距離150"/>
+    </imgdir>
+    <imgdir name="5001006">
+        <string name="name" value="終極龍咆哮"/>
+        <string name="desc" value="[最終等級:1]用巨大的龍的咆哮，攻擊15個以下的敵人。"/>
+        <string name="h1" value="攻擊力1000%，攻擊範圍全屏"/>
+    </imgdir>
+    <imgdir name="5001004">
+        <string name="name" value="終極隱藏"/>
+        <string name="desc" value="[最終等級:1]能隱藏自己，以免被別人看見。"/>
+        <string name="h1" value="變成隱身狀態"/>
+    </imgdir>
+    <imgdir name="5001000">
+        <string name="name" value="終極祝福"/>
+        <string name="desc" value="[最終等級:1]怪物的魔法效果無效，恢復包括自身在內周邊所有角色的狀態異常和HP。"/>
+        <string name="h1" value="周邊角色狀態異常恢復，且HP恢復"/>
+    </imgdir>
+    <imgdir name="20001041">
+        <string name="name" value="低等級怪物騎乘"/>
+        <string name="desc" value="[最高等級 : 1]擁有低等級騎寵時，可以進行低等級寵物的騎乘。"/>
+    </imgdir>
+    <imgdir name="1121009">
+        <string name="name" value="降魔斬"/>
+        <string name="desc" value="用閃光的斧頭砍敵人3次。最多能用於3隻怪物身上。"/>
+        <string name="h1" value="消耗MP 22，傷害72%"/>
+        <string name="h2" value="消耗MP 24，傷害74%"/>
+        <string name="h3" value="消耗MP 26，傷害76%"/>
+        <string name="h4" value="消耗MP 28，傷害78%"/>
+        <string name="h5" value="消耗MP 30，傷害80%"/>
+        <string name="h6" value="消耗MP 32，傷害82%"/>
+        <string name="h7" value="消耗MP 34，傷害84%"/>
+        <string name="h8" value="消耗MP 36，傷害86%"/>
+        <string name="h9" value="消耗MP 38，傷害88%"/>
+        <string name="h10" value="消耗MP 40，傷害90%"/>
+        <string name="h11" value="消耗MP 42，傷害92%"/>
+        <string name="h12" value="消耗MP 44，傷害94%"/>
+        <string name="h13" value="消耗MP 46，傷害96%"/>
+        <string name="h14" value="消耗MP 48，傷害98%"/>
+        <string name="h15" value="消耗MP 50，傷害100%"/>
+        <string name="h16" value="消耗MP 52，傷害102%"/>
+        <string name="h17" value="消耗MP 54，傷害104%"/>
+        <string name="h18" value="消耗MP 56，傷害106%"/>
+        <string name="h19" value="消耗MP 58，傷害108%"/>
+        <string name="h20" value="消耗MP 60，傷害110%"/>
+        <string name="h21" value="消耗MP 59，傷害112%"/>
+        <string name="h22" value="消耗MP 58，傷害114%"/>
+        <string name="h23" value="消耗MP 57，傷害116%"/>
+        <string name="h24" value="消耗MP 56，傷害118%"/>
+        <string name="h25" value="消耗MP 55，傷害120%"/>
+        <string name="h26" value="消耗MP 54，傷害122%"/>
+        <string name="h27" value="消耗MP 53，傷害124%"/>
+        <string name="h28" value="消耗MP 52，傷害126%"/>
+        <string name="h29" value="消耗MP 51，傷害128%"/>
+        <string name="h30" value="消耗MP 50，傷害130%"/>
+    </imgdir>
+    <imgdir name="10001017">
+        <string name="name" value="低等級怪物騎乘"/>
+        <string name="desc" value="[最高等級 : 1]擁有低等級騎寵時，可以進行低等級寵物的騎乘。"/>
+    </imgdir>
+    <imgdir name="0001016">
+        <string name="name" value="低等級怪物騎乘"/>
+        <string name="desc" value="[最高等級 : 1]擁有低等級騎寵時，可以進行低等級寵物的騎乘。"/>
+        <string name="h1" value="30秒内伤害增加100%"/>
     </imgdir>
 </imgdir>

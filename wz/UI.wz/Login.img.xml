@@ -1864,25 +1864,25 @@
         </imgdir>
         <imgdir name="BtQuit">
             <imgdir name="normal">
-                <canvas name="0" width="84" height="38">
+                <canvas name="0" width="81" height="40">
                     <vector name="origin" x="0" y="0"/>
                     <int name="z" value="0"/>
                 </canvas>
             </imgdir>
             <imgdir name="mouseOver">
-                <canvas name="0" width="84" height="38">
+                <canvas name="0" width="81" height="40">
                     <vector name="origin" x="0" y="0"/>
                     <int name="z" value="0"/>
                 </canvas>
             </imgdir>
             <imgdir name="pressed">
-                <canvas name="0" width="84" height="38">
+                <canvas name="0" width="81" height="40">
                     <vector name="origin" x="0" y="0"/>
                     <int name="z" value="0"/>
                 </canvas>
             </imgdir>
             <imgdir name="disabled">
-                <canvas name="0" width="84" height="38">
+                <canvas name="0" width="81" height="40">
                     <vector name="origin" x="0" y="0"/>
                     <int name="z" value="0"/>
                 </canvas>
@@ -2106,17 +2106,17 @@
     <imgdir name="WorldSelect">
         <imgdir name="scroll">
             <imgdir name="0">
-                <canvas name="0" width="513" height="152">
+                <canvas name="0" width="1" height="1">
                     <vector name="origin" x="0" y="0"/>
                     <int name="z" value="0"/>
                     <int name="delay" value="250"/>
                 </canvas>
-                <canvas name="1" width="513" height="421">
+                <canvas name="1" width="1" height="1">
                     <vector name="origin" x="0" y="0"/>
                     <int name="z" value="0"/>
                     <int name="delay" value="50"/>
                 </canvas>
-                <canvas name="2" width="513" height="422">
+                <canvas name="2" width="1" height="1">
                     <vector name="origin" x="0" y="0"/>
                     <int name="z" value="0"/>
                     <int name="delay" value="50"/>
@@ -2127,22 +2127,22 @@
                 </canvas>
             </imgdir>
             <imgdir name="1">
-                <canvas name="0" width="513" height="417">
+                <canvas name="0" width="1" height="1">
                     <int name="z" value="0"/>
                     <int name="delay" value="150"/>
                     <vector name="origin" x="0" y="0"/>
                 </canvas>
-                <canvas name="1" width="513" height="422">
+                <canvas name="1" width="1" height="1">
                     <vector name="origin" x="0" y="0"/>
                     <int name="z" value="0"/>
                     <int name="delay" value="50"/>
                 </canvas>
-                <canvas name="2" width="513" height="421">
+                <canvas name="2" width="1" height="1">
                     <vector name="origin" x="0" y="0"/>
                     <int name="z" value="0"/>
                     <int name="delay" value="50"/>
                 </canvas>
-                <canvas name="3" width="513" height="152">
+                <canvas name="3" width="1" height="1">
                     <vector name="origin" x="0" y="0"/>
                     <int name="z" value="0"/>
                 </canvas>
@@ -2155,18 +2155,18 @@
             </canvas>
             <imgdir name="0">
                 <imgdir name="normal">
-                    <canvas name="0" width="26" height="95">
+                    <canvas name="0" width="26" height="99">
                         <vector name="origin" x="0" y="0"/>
                         <int name="z" value="0"/>
                     </canvas>
                 </imgdir>
                 <imgdir name="mouseOver">
-                    <canvas name="0" width="26" height="97">
+                    <canvas name="0" width="26" height="99">
                         <vector name="origin" x="0" y="0"/>
                         <int name="z" value="0"/>
                         <int name="delay" value="40"/>
                     </canvas>
-                    <canvas name="1" width="26" height="100">
+                    <canvas name="1" width="26" height="99">
                         <vector name="origin" x="0" y="0"/>
                         <int name="z" value="0"/>
                         <int name="delay" value="40"/>
@@ -2190,7 +2190,7 @@
                     </canvas>
                 </imgdir>
                 <imgdir name="keyFocused">
-                    <canvas name="0" width="30" height="99">
+                    <canvas name="0" width="26" height="99">
                         <vector name="origin" x="2" y="2"/>
                         <int name="z" value="0"/>
                         <int name="delay" value="100"/>
@@ -3016,31 +3016,31 @@
             </imgdir>
             <imgdir name="e">
                 <imgdir name="normal">
-                    <canvas name="0" width="26" height="95">
+                    <canvas name="0" width="1" height="1">
                         <vector name="origin" x="0" y="0"/>
                         <int name="z" value="0"/>
                     </canvas>
                 </imgdir>
                 <imgdir name="mouseOver">
-                    <canvas name="0" width="26" height="95">
+                    <canvas name="0" width="1" height="1">
                         <vector name="origin" x="0" y="0"/>
                         <int name="z" value="0"/>
                     </canvas>
                 </imgdir>
                 <imgdir name="pressed">
-                    <canvas name="0" width="26" height="95">
+                    <canvas name="0" width="1" height="1">
                         <vector name="origin" x="0" y="0"/>
                         <int name="z" value="0"/>
                     </canvas>
                 </imgdir>
                 <imgdir name="disabled">
-                    <canvas name="0" width="26" height="95">
+                    <canvas name="0" width="1" height="1">
                         <vector name="origin" x="0" y="0"/>
                         <int name="z" value="0"/>
                     </canvas>
                 </imgdir>
                 <imgdir name="keyFocused">
-                    <canvas name="0" width="30" height="99">
+                    <canvas name="0" width="1" height="1">
                         <vector name="origin" x="2" y="2"/>
                         <int name="z" value="0"/>
                         <int name="delay" value="100"/>
@@ -3222,48 +3222,48 @@
         </imgdir>
         <imgdir name="BtGoworld">
             <imgdir name="normal">
-                <canvas name="0" width="140" height="41">
+                <canvas name="0" width="118" height="23">
                     <vector name="origin" x="0" y="0"/>
                     <int name="z" value="0"/>
                     <int name="delay" value="80"/>
                 </canvas>
-                <canvas name="1" width="140" height="41">
+                <canvas name="1" width="118" height="23">
                     <vector name="origin" x="0" y="0"/>
                     <int name="z" value="0"/>
                     <int name="delay" value="100"/>
                 </canvas>
-                <canvas name="2" width="140" height="41">
+                <canvas name="2" width="118" height="23">
                     <vector name="origin" x="0" y="0"/>
                     <int name="z" value="0"/>
                     <int name="delay" value="100"/>
                 </canvas>
-                <canvas name="3" width="140" height="41">
+                <canvas name="3" width="118" height="23">
                     <vector name="origin" x="0" y="0"/>
                     <int name="z" value="0"/>
                     <int name="delay" value="2000"/>
                 </canvas>
             </imgdir>
             <imgdir name="mouseOver">
-                <canvas name="0" width="140" height="41">
+                <canvas name="0" width="118" height="23">
                     <vector name="origin" x="0" y="0"/>
                     <int name="z" value="0"/>
                 </canvas>
             </imgdir>
             <imgdir name="pressed">
-                <canvas name="0" width="140" height="41">
+                <canvas name="0" width="118" height="23">
                     <vector name="origin" x="0" y="0"/>
                     <int name="z" value="0"/>
                 </canvas>
             </imgdir>
             <imgdir name="disabled">
-                <canvas name="0" width="140" height="41">
+                <canvas name="0" width="118" height="23">
                     <vector name="origin" x="0" y="0"/>
                     <int name="z" value="0"/>
                 </canvas>
             </imgdir>
         </imgdir>
         <imgdir name="world">
-            <canvas name="0" width="134" height="49">
+            <canvas name="0" width="135" height="49">
                 <vector name="origin" x="0" y="0"/>
             </canvas>
             <canvas name="1" width="101" height="47">
@@ -3558,7 +3558,7 @@
                     <int name="z" value="0"/>
                 </canvas>
             </imgdir>
-            <canvas name="chgauge" width="73" height="9">
+            <canvas name="chgauge" width="56" height="6">
                 <vector name="origin" x="36" y="4"/>
                 <int name="z" value="0"/>
             </canvas>
@@ -4823,13 +4823,13 @@
             </canvas>
             <int name="clr" value="-16777216"/>
         </imgdir>
-        <canvas name="1" width="30" height="34">
+        <canvas name="1" width="19" height="24">
             <vector name="origin" x="0" y="0"/>
         </canvas>
-        <canvas name="2" width="30" height="34">
+        <canvas name="2" width="19" height="24">
             <vector name="origin" x="0" y="0"/>
         </canvas>
-        <canvas name="3" width="30" height="34">
+        <canvas name="3" width="19" height="24">
             <vector name="origin" x="0" y="0"/>
         </canvas>
         <imgdir name="Populated">

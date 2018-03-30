@@ -4971,6 +4971,11 @@
             <imgdir name="0">
                 <canvas name="0" width="1" height="1">
                     <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                    <extended name="rope">
+                        <vector name="rope" x="0" y="-51"/>
+                        <vector name="rope" x="0" y="116"/>
+                    </extended>
                 </canvas>
             </imgdir>
         </imgdir>
@@ -4978,6 +4983,11 @@
             <imgdir name="0">
                 <canvas name="0" width="1" height="1">
                     <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                    <extended name="rope">
+                        <vector name="rope" x="-1" y="-88"/>
+                        <vector name="rope" x="-1" y="51"/>
+                    </extended>
                 </canvas>
             </imgdir>
         </imgdir>
@@ -4985,6 +4995,11 @@
             <imgdir name="0">
                 <canvas name="0" width="1" height="1">
                     <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                    <extended name="rope">
+                        <vector name="rope" x="1" y="-79"/>
+                        <vector name="rope" x="1" y="90"/>
+                    </extended>
                 </canvas>
             </imgdir>
         </imgdir>

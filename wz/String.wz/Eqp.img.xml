@@ -305,7 +305,6 @@
             </imgdir>
             <imgdir name="1012134">
                 <string name="name" value="泪滴"/>
-                <string name="desc" value="Express your soft side with this teary-eyed Tattoo!"/>
             </imgdir>
             <imgdir name="1012137">
                 <string name="name" value="星之印"/>
@@ -315,6 +314,7 @@
             </imgdir>
             <imgdir name="1012147">
                 <string name="name" value="恐吓面具"/>
+                <string name="desc" value="臉飾，帶上後讓你有著日本道統藝術-般若鬼面的面孔。"/>
             </imgdir>
             <imgdir name="1012160">
                 <string name="name" value="烈焰红唇"/>
@@ -547,12 +547,6 @@
             </imgdir>
             <imgdir name="1022066">
                 <string name="name" value="蓝海星眼镜"/>
-                <imgdir name="1022066">
-                    <string name="name" value="Star Spectacles"/>
-                    <imgdir name="1022066">
-                        <string name="name" value="Star Spectacles"/>
-                    </imgdir>
-                </imgdir>
             </imgdir>
             <imgdir name="1022068">
                 <string name="name" value="百叶窗眼镜"/>
@@ -733,7 +727,6 @@
             </imgdir>
             <imgdir name="1032024">
                 <string name="name" value="透明耳环"/>
-                <string name="desc" value="Use these Earrings if you want to make your Earrings transparent while still using all of the stats your Earrings possess."/>
             </imgdir>
             <imgdir name="1032025">
                 <string name="name" value="叶子耳环"/>
@@ -884,63 +877,83 @@
             </imgdir>
             <imgdir name="1122019">
                 <string name="name" value="初代冒险之心"/>
+                <string name="desc" value="為人們帶來幸運與希望的楓葉之心。"/>
             </imgdir>
             <imgdir name="1122020">
                 <string name="name" value="初代冒险之心"/>
+                <string name="desc" value="為人們帶來幸運與希望的楓葉之心。"/>
             </imgdir>
             <imgdir name="1122021">
                 <string name="name" value="初代冒险之心"/>
+                <string name="desc" value="為人們帶來幸運與希望的楓葉之心。"/>
             </imgdir>
             <imgdir name="1122022">
                 <string name="name" value="初代冒险之心"/>
+                <string name="desc" value="為人們帶來幸運與希望的楓葉之心。"/>
             </imgdir>
             <imgdir name="1122023">
                 <string name="name" value="初代冒险之心"/>
+                <string name="desc" value="為人們帶來幸運與希望的楓葉之心。"/>
             </imgdir>
             <imgdir name="1122024">
                 <string name="name" value="封印的初代冒险之心"/>
+                <string name="desc" value="封印的楓葉之心。"/>
             </imgdir>
             <imgdir name="1122025">
                 <string name="name" value="封印的初代冒险之心"/>
+                <string name="desc" value="封印的楓葉之心。"/>
             </imgdir>
             <imgdir name="1122026">
                 <string name="name" value="封印的初代冒险之心"/>
+                <string name="desc" value="封印的楓葉之心。"/>
             </imgdir>
             <imgdir name="1122027">
                 <string name="name" value="封印的初代冒险之心"/>
+                <string name="desc" value="封印的楓葉之心。"/>
             </imgdir>
             <imgdir name="1122028">
                 <string name="name" value="封印的初代冒险之心"/>
+                <string name="desc" value="封印的楓葉之心。"/>
             </imgdir>
             <imgdir name="1122029">
                 <string name="name" value="苏醒的初代冒险之心"/>
+                <string name="desc" value="甦醒的楓葉之心。"/>
             </imgdir>
             <imgdir name="1122030">
                 <string name="name" value="苏醒的初代冒险之心"/>
+                <string name="desc" value="甦醒的楓葉之心。"/>
             </imgdir>
             <imgdir name="1122031">
                 <string name="name" value="苏醒的初代冒险之心"/>
+                <string name="desc" value="甦醒的楓葉之心。"/>
             </imgdir>
             <imgdir name="1122032">
                 <string name="name" value="苏醒的初代冒险之心"/>
+                <string name="desc" value="甦醒的楓葉之心。"/>
             </imgdir>
             <imgdir name="1122033">
                 <string name="name" value="苏醒的初代冒险之心"/>
+                <string name="desc" value="甦醒的楓葉之心。"/>
             </imgdir>
             <imgdir name="1122034">
                 <string name="name" value="觉醒的初代冒险之心"/>
+                <string name="desc" value="具有開創新世界的無窮力量的楓葉之心。"/>
             </imgdir>
             <imgdir name="1122035">
                 <string name="name" value="觉醒的初代冒险之心"/>
+                <string name="desc" value="具有開創新世界的無窮力量的楓葉之心。"/>
             </imgdir>
             <imgdir name="1122036">
                 <string name="name" value="觉醒的初代冒险之心"/>
+                <string name="desc" value="具有開創新世界的無窮力量的楓葉之心。"/>
             </imgdir>
             <imgdir name="1122037">
                 <string name="name" value="觉醒的初代冒险之心"/>
+                <string name="desc" value="具有開創新世界的無窮力量的楓葉之心。"/>
             </imgdir>
             <imgdir name="1122038">
                 <string name="name" value="觉醒的初代冒险之心"/>
+                <string name="desc" value="具有開創新世界的無窮力量的楓葉之心。"/>
             </imgdir>
             <imgdir name="1122058">
                 <string name="name" value="休彼德蔓的混沌项链"/>
@@ -1536,6 +1549,7 @@
             </imgdir>
             <imgdir name="1122007">
                 <string name="name" value="休彼德蔓的项链"/>
+                <string name="desc" value="馬戲團休菲凱曼的項鍊，看起來十分的稀有。"/>
             </imgdir>
             <imgdir name="1122073">
                 <string name="name" value="猫头鹰吊坠"/>
@@ -5635,6 +5649,124 @@
                 <string name="name" value="Uesugi Kenshin Totem"/>
                 <string name="desc" value="Totem containing the soul of the battlefield beauty, Uesugi Kenshin."/>
             </imgdir>
+            <imgdir name="1142181">
+                <string name="name" value="雪橇大賽達人"/>
+            </imgdir>
+            <imgdir name="1142180">
+                <string name="name" value="雪橇大賽勇士"/>
+            </imgdir>
+            <imgdir name="1142103">
+                <string name="name" value="東京救世主"/>
+            </imgdir>
+            <imgdir name="1132035">
+                <string name="name" value="出席腰帶14"/>
+            </imgdir>
+            <imgdir name="1132034">
+                <string name="name" value="出席腰帶13"/>
+            </imgdir>
+            <imgdir name="1132033">
+                <string name="name" value="出席腰帶12"/>
+            </imgdir>
+            <imgdir name="1132032">
+                <string name="name" value="出席腰帶11"/>
+            </imgdir>
+            <imgdir name="1132031">
+                <string name="name" value="出席腰帶10"/>
+            </imgdir>
+            <imgdir name="1132030">
+                <string name="name" value="出席腰帶9"/>
+            </imgdir>
+            <imgdir name="1132029">
+                <string name="name" value="出席腰帶8"/>
+            </imgdir>
+            <imgdir name="1132028">
+                <string name="name" value="出席腰帶7"/>
+            </imgdir>
+            <imgdir name="1132027">
+                <string name="name" value="出席腰帶6"/>
+            </imgdir>
+            <imgdir name="1132026">
+                <string name="name" value="出席腰帶5"/>
+            </imgdir>
+            <imgdir name="1132025">
+                <string name="name" value="出席腰帶4"/>
+            </imgdir>
+            <imgdir name="1132024">
+                <string name="name" value="出席腰帶3"/>
+            </imgdir>
+            <imgdir name="1132023">
+                <string name="name" value="出席腰帶2"/>
+            </imgdir>
+            <imgdir name="1132022">
+                <string name="name" value="出席腰帶1"/>
+            </imgdir>
+            <imgdir name="1122008">
+                <string name="name" value="電吉他項鍊"/>
+            </imgdir>
+            <imgdir name="1022080">
+                <string name="name" value="嘉年華面具"/>
+            </imgdir>
+            <imgdir name="1012169">
+                <string name="name" value="鬼娃恰吉的傷口"/>
+            </imgdir>
+            <imgdir name="1012168">
+                <string name="name" value="鬼娃恰吉的傷口"/>
+            </imgdir>
+            <imgdir name="1012167">
+                <string name="name" value="鬼娃恰吉的傷口"/>
+            </imgdir>
+            <imgdir name="1012164">
+                <string name="name" value="鬼娃恰吉的傷口"/>
+            </imgdir>
+            <imgdir name="1012162">
+                <string name="name" value="雙十節紀念喇叭"/>
+                <string name="desc" value="可以演奏出雙十節國慶音樂的紀念喇叭	"/>
+            </imgdir>
+            <imgdir name="1012156">
+                <string name="name" value="真實的短鼻子"/>
+            </imgdir>
+            <imgdir name="1012155">
+                <string name="name" value="真實的短鼻子"/>
+            </imgdir>
+            <imgdir name="1012154">
+                <string name="name" value="真實的短鼻子"/>
+            </imgdir>
+            <imgdir name="1012153">
+                <string name="name" value="真實的短鼻子"/>
+            </imgdir>
+            <imgdir name="1012152">
+                <string name="name" value="謊言的鼻子"/>
+            </imgdir>
+            <imgdir name="1012151">
+                <string name="name" value="謊言的鼻子"/>
+            </imgdir>
+            <imgdir name="1012150">
+                <string name="name" value="謊言的鼻子"/>
+            </imgdir>
+            <imgdir name="1012149">
+                <string name="name" value="謊言的鼻子"/>
+            </imgdir>
+            <imgdir name="1012145">
+                <string name="name" value="皮諾丘的鼻子"/>
+            </imgdir>
+            <imgdir name="1012144">
+                <string name="name" value="皮諾丘的鼻子"/>
+            </imgdir>
+            <imgdir name="1012143">
+                <string name="name" value="皮諾丘的鼻子"/>
+            </imgdir>
+            <imgdir name="1012142">
+                <string name="name" value="皮諾丘的鼻子"/>
+            </imgdir>
+            <imgdir name="1012089">
+                <string name="name" value="皮諾丘的鼻子"/>
+            </imgdir>
+            <imgdir name="1011005">
+                <string name="name" value="SF忍者口罩*30天"/>
+            </imgdir>
+            <imgdir name="1011004">
+                <string name="name" value="女生忍者口罩*30天"/>
+            </imgdir>
         </imgdir>
         <imgdir name="Cap">
             <imgdir name="1000000">
@@ -5846,7 +5978,6 @@
             </imgdir>
             <imgdir name="1001029">
                 <string name="name" value="新娘面纱"/>
-                <string name="desc" value="Flowing veil that brides wear on their Wedding Day. "/>
             </imgdir>
             <imgdir name="1001030">
                 <string name="name" value="貂蝉巾"/>
@@ -5886,11 +6017,9 @@
             </imgdir>
             <imgdir name="1001042">
                 <string name="name" value="紫环头纱"/>
-                <string name="desc" value="Flowing veil that brides wear on their Wedding Day. "/>
             </imgdir>
             <imgdir name="1001043">
                 <string name="name" value="粉色王冠"/>
-                <string name="desc" value="Hand crafted Tiara that brides wear on their Wedding Day"/>
             </imgdir>
             <imgdir name="1001045">
                 <string name="name" value="夏其尔的假发-女款"/>
@@ -5909,6 +6038,7 @@
             </imgdir>
             <imgdir name="1001055">
                 <string name="name" value="草莓牛奶褶皱软帽"/>
+                <string name="desc" value="蕾絲邊的粉紅帽，最適合甜心般的女孩。"/>
             </imgdir>
             <imgdir name="1001056">
                 <string name="name" value="结婚帽"/>
@@ -6651,7 +6781,6 @@
             </imgdir>
             <imgdir name="1002239">
                 <string name="name" value="便便帽子"/>
-                <string name="desc" value="While the character chats, the quote bubble is in gold. If combined with the Golden Fly Ring, the fly effect takes place."/>
             </imgdir>
             <imgdir name="1002240">
                 <string name="name" value="日式民用斗笠"/>
@@ -7350,13 +7479,16 @@
                 <string name="name" value="猎手帽子"/>
             </imgdir>
             <imgdir name="1002472">
-                <string name="name" value="Cabbage Patch Hat"/>
+                <string name="name" value="Kratong hat(Yellow)"/>
             </imgdir>
             <imgdir name="1002473">
+                <string name="name" value="Kratong hat(Orange)"/>
             </imgdir>
             <imgdir name="1002474">
+                <string name="name" value="Kratong hat(Indigo)"/>
             </imgdir>
             <imgdir name="1002475">
+                <string name="name" value="父親節帽子"/>
             </imgdir>
             <imgdir name="1002476">
                 <string name="name" value="黄格纹帽"/>
@@ -7689,6 +7821,7 @@
             </imgdir>
             <imgdir name="1002653">
                 <string name="name" value="课本帽"/>
+                <string name="desc" value="牛頓就是戴這頂帽子發現地心引力!!最適合充滿智慧與好奇心的朋友。"/>
             </imgdir>
             <imgdir name="1002654">
                 <string name="name" value="花蘑菇头"/>
@@ -7923,7 +8056,7 @@
             </imgdir>
             <imgdir name="1002785">
                 <string name="name" value="炫彩阳光帽"/>
-                <string name="desc" value="Hat that #cChanges its color depending on a day of the week#"/>
+                <string name="desc" value="#c根據星期而顏色會變化#的帽子。"/>
             </imgdir>
             <imgdir name="1002788">
                 <string name="name" value="褐色猫咪耳"/>
@@ -8000,11 +8133,9 @@
             </imgdir>
             <imgdir name="1002823">
                 <string name="name" value="巫毒头套"/>
-                <string name="desc" value="A well-worn mask that&apos;s perfect for scaring friends!"/>
             </imgdir>
             <imgdir name="1002824">
                 <string name="name" value="苹果纪念帽"/>
-                <string name="desc" value="From the early days of Maple Island!  Relive the past with this authentic Noob hat!"/>
             </imgdir>
             <imgdir name="1002825">
                 <string name="name" value="水瓶座发夹"/>
@@ -8044,7 +8175,6 @@
             </imgdir>
             <imgdir name="1002837">
                 <string name="name" value="赤鬼面具"/>
-                <string name="desc" value="A mask inspired by the nefarious Black Crow. "/>
             </imgdir>
             <imgdir name="1002843">
                 <string name="name" value="骄傲的银狐狸"/>
@@ -8058,18 +8188,23 @@
             </imgdir>
             <imgdir name="1002842">
                 <string name="name" value="开朗的金狐狸"/>
+                <string name="desc" value="毛絨絨的狐狸耳朵~摸起來好舒服!!"/>
             </imgdir>
             <imgdir name="1002845">
                 <string name="name" value="粉红兔耳帽"/>
+                <string name="desc" value="兔子造型的遮陽帽，戴起來超卡哇依!!"/>
             </imgdir>
             <imgdir name="1002846">
                 <string name="name" value="华尔兹丝带贝雷帽"/>
+                <string name="desc" value="手工精緻的貝雷帽，戴起來超有氣質!!"/>
             </imgdir>
             <imgdir name="1002847">
                 <string name="name" value="青蛙帽子"/>
+                <string name="desc" value="青蛙就是靠這頂帽子成為王子!!"/>
             </imgdir>
             <imgdir name="1002848">
                 <string name="name" value="章鱼丸子帽"/>
+                <string name="desc" value="超KUSO~獨特章魚燒造型的帽子!!"/>
             </imgdir>
             <imgdir name="1002849">
                 <string name="name" value="熊猫宝贝帽"/>
@@ -8133,9 +8268,11 @@
             </imgdir>
             <imgdir name="1002888">
                 <string name="name" value="丝带发箍（红色）"/>
+                <string name="desc" value="心情髮箍!熱情的你戴上它,對朋友展現無比熱情"/>
             </imgdir>
             <imgdir name="1002890">
                 <string name="name" value="丝带发箍（蓝色）"/>
+                <string name="desc" value="心情髮箍!戴上清爽藍髮箍,擺脫所有煩悶"/>
             </imgdir>
             <imgdir name="1002894">
                 <string name="name" value="粉色编织发带"/>
@@ -8176,6 +8313,7 @@
             </imgdir>
             <imgdir name="1002913">
                 <string name="name" value="米兰达丝带"/>
+                <string name="desc" value="法國米蘭原裝進口蝴蝶結髮箍。"/>
             </imgdir>
             <imgdir name="1002914">
                 <string name="name" value="盖福克斯的帽子(力量)"/>
@@ -8230,15 +8368,19 @@
             </imgdir>
             <imgdir name="1002950">
                 <string name="name" value="维纳斯女神(浪漫粉)"/>
+                <string name="desc" value="頭飾帽子，南洋風情的花朵頭飾，穿戴在頭上更能襯托出可愛的造型"/>
             </imgdir>
             <imgdir name="1002951">
                 <string name="name" value="维纳斯女神(瑰丽金)"/>
+                <string name="desc" value="頭飾帽子，日本風情的花朵頭飾，穿戴在頭上更能襯托出時尚的造型"/>
             </imgdir>
             <imgdir name="1002952">
                 <string name="name" value="维纳斯女神(罗兰紫)"/>
+                <string name="desc" value="頭飾帽子，高貴的花朵頭飾，穿戴在頭上更能襯托出整體優雅的造型"/>
             </imgdir>
             <imgdir name="1002953">
                 <string name="name" value="浪漫节日帽"/>
+                <string name="desc" value="帽子，許淳美最愛的帽子造型，穿戴上一定讓你更受矚目"/>
             </imgdir>
             <imgdir name="1002957">
                 <string name="name" value="品克缤帽子"/>
@@ -8284,7 +8426,7 @@
             </imgdir>
             <imgdir name="1002979">
                 <string name="name" value="冲锋者头盔"/>
-                <string name="desc" value="Put this on and you&apos;ll feel as if you&apos;re already riding down the boulevard on your bike! "/>
+                <string name="desc" value="帽子，老師說～騎機車要帶安全帽唷！"/>
             </imgdir>
             <imgdir name="1002980">
                 <string name="name" value="考古学家帽子"/>
@@ -8471,7 +8613,6 @@
             </imgdir>
             <imgdir name="1001044">
                 <string name="name" value="绿色婚纱头纱"/>
-                <string name="desc" value="Flowing veil that brides wear on their Wedding Day. "/>
             </imgdir>
             <imgdir name="1002517">
                 <string name="name" value="红色枫叶头巾"/>
@@ -8502,6 +8643,7 @@
             </imgdir>
             <imgdir name="1002870">
                 <string name="name" value=""/>
+                <string name="desc" value="白色兔子髮飾，戴起來超可愛~"/>
             </imgdir>
             <imgdir name="1002919">
                 <string name="name" value="勇敢的小羊帽子"/>
@@ -10016,12 +10158,15 @@
             </imgdir>
             <imgdir name="1002887">
                 <string name="name" value="Pink Ribbon Hairband"/>
+                <string name="desc" value="心情髮箍!戴上淘氣粉紅髮箍,祝你今天約會大成功"/>
             </imgdir>
             <imgdir name="1002889">
                 <string name="name" value="Purple Ribbon Hairband"/>
+                <string name="desc" value="心情髮箍!戴上神秘紫髮箍,全身充滿神秘魅力~"/>
             </imgdir>
             <imgdir name="1002891">
                 <string name="name" value="Green Ribbon Hairband"/>
+                <string name="desc" value="心情髮箍!保持好心情,戴上俏麗綠髮箍幸運一整天~"/>
             </imgdir>
             <imgdir name="1002937">
                 <string name="name" value="Felt Hat"/>
@@ -10649,6 +10794,132 @@
                 <string name="name" value="Sitting Colossal Titan"/>
                 <string name="desc" value="Hang out with the terrifying lil&apos; Colossal Titan from Attack on Titan!"/>
             </imgdir>
+            <imgdir name="1022067">
+                <string name="name" value="黑狐狸猴"/>
+            </imgdir>
+            <imgdir name="1003055">
+                <string name="name" value="小魚髮夾"/>
+            </imgdir>
+            <imgdir name="1003054">
+                <string name="name" value="白色軟毛帽"/>
+            </imgdir>
+            <imgdir name="1002936">
+                <string name="name" value="黑色邪惡綿羊帽　"/>
+                <string name="desc" value="裝備後在聊天視窗輸入#c飛起來#，就會出現特效。"/>
+            </imgdir>
+            <imgdir name="1002935">
+                <string name="name" value="德國香腸"/>
+            </imgdir>
+            <imgdir name="1002934">
+                <string name="name" value="蕃茄帽子(幸運)"/>
+            </imgdir>
+            <imgdir name="1002933">
+                <string name="name" value="蕃茄帽子(智力)"/>
+            </imgdir>
+            <imgdir name="1002932">
+                <string name="name" value="蕃茄帽子(敏捷)"/>
+            </imgdir>
+            <imgdir name="1002931">
+                <string name="name" value="蕃茄帽子(力量)"/>
+            </imgdir>
+            <imgdir name="1002906">
+                <string name="name" value="娃娃獅王帽子"/>
+            </imgdir>
+            <imgdir name="1002905">
+                <string name="name" value="泰勒熊帽子"/>
+            </imgdir>
+            <imgdir name="1002893">
+                <string name="name" value="高貴黑髮箍"/>
+                <string name="desc" value="心情髮箍!想當貴婦嗎？戴上高貴黑髮箍,展現貴婦氣質~"/>
+            </imgdir>
+            <imgdir name="1002892">
+                <string name="name" value="氣質白髮箍"/>
+                <string name="desc" value="心情髮箍!戴上氣質白髮箍,氣質100分! 優雅100分!"/>
+            </imgdir>
+            <imgdir name="1002874">
+                <string name="name" value="麋鹿角"/>
+            </imgdir>
+            <imgdir name="1002873">
+                <string name="name" value="麋鹿角"/>
+            </imgdir>
+            <imgdir name="1002872">
+                <string name="name" value="麋鹿角"/>
+            </imgdir>
+            <imgdir name="1002871">
+                <string name="name" value="麋鹿角"/>
+            </imgdir>
+            <imgdir name="1002787">
+                <string name="name" value="黑色利堤帽"/>
+            </imgdir>
+            <imgdir name="1002733">
+                <string name="name" value="日本鬼頭飾*30天"/>
+            </imgdir>
+            <imgdir name="1002690">
+                <string name="name" value="菇菇寶貝帽子(期限：30天)"/>
+            </imgdir>
+            <imgdir name="1002689">
+                <string name="name" value="三眼章魚帽子(期限：30天)"/>
+            </imgdir>
+            <imgdir name="1002688">
+                <string name="name" value="貍貓帽(期限：30天)"/>
+            </imgdir>
+            <imgdir name="1002687">
+                <string name="name" value="猴子帽(期限：30天)"/>
+            </imgdir>
+            <imgdir name="1002686">
+                <string name="name" value="廚師高帽(期限：30天)"/>
+            </imgdir>
+            <imgdir name="1002685">
+                <string name="name" value="草莓帽子(期限：30天)"/>
+            </imgdir>
+            <imgdir name="1002684">
+                <string name="name" value="熊帽子(期限：30天)"/>
+            </imgdir>
+            <imgdir name="1002683">
+                <string name="name" value="小姐帽子(期限：30天)"/>
+            </imgdir>
+            <imgdir name="1002682">
+                <string name="name" value="大和女性假髮(期限：30天)"/>
+            </imgdir>
+            <imgdir name="1002681">
+                <string name="name" value="白色護士帽(期限：30天)"/>
+            </imgdir>
+            <imgdir name="1002680">
+                <string name="name" value="大和男性假髮(期限：30天)"/>
+            </imgdir>
+            <imgdir name="1002671">
+                <string name="name" value="德國香腸"/>
+            </imgdir>
+            <imgdir name="1002670">
+                <string name="name" value="六手邪神頭盔(III)"/>
+            </imgdir>
+            <imgdir name="1002669">
+                <string name="name" value="六手邪神頭盔(II)"/>
+            </imgdir>
+            <imgdir name="1002651">
+                <string name="name" value="白星紅頭巾"/>
+            </imgdir>
+            <imgdir name="1002588">
+                <string name="name" value="幼紫獨角獅帽子"/>
+            </imgdir>
+            <imgdir name="1002581">
+                <string name="name" value="六手邪神頭盔(I)"/>
+            </imgdir>
+            <imgdir name="1001053">
+                <string name="name" value="醫女帽*30天"/>
+            </imgdir>
+            <imgdir name="1001052">
+                <string name="name" value="宮中侍女帽*30天"/>
+            </imgdir>
+            <imgdir name="1001051">
+                <string name="name" value="SF忍者帽*30天"/>
+            </imgdir>
+            <imgdir name="1001050">
+                <string name="name" value="女生忍者帽*30天"/>
+            </imgdir>
+            <imgdir name="1000033">
+                <string name="name" value="韓國武官帽*30天"/>
+            </imgdir>
         </imgdir>
         <imgdir name="Cape">
             <imgdir name="1100001">
@@ -10946,7 +11217,6 @@
             </imgdir>
             <imgdir name="1102109">
                 <string name="name" value="破棉花披肩"/>
-                <string name="desc" value="This is a magical cape made by Alcaster. When you put it on, you aren&apos;t affected by Elnas&apos;s chill. It doesn&apos;t look good as Magician made it. "/>
             </imgdir>
             <imgdir name="1102110">
                 <string name="name" value="松鼠尾巴"/>
@@ -11072,15 +11342,18 @@
             </imgdir>
             <imgdir name="1102187">
                 <string name="name" value="金色狐狸尾巴"/>
+                <string name="desc" value="超俏狐狸尾巴，戴起來超有型!!"/>
             </imgdir>
             <imgdir name="1102188">
                 <string name="name" value="银色狐狸尾巴"/>
+                <string name="desc" value="超俏狐狸尾巴，戴起來超有型!!"/>
             </imgdir>
             <imgdir name="1102196">
                 <string name="name" value="雪片围脖"/>
             </imgdir>
             <imgdir name="1102197">
                 <string name="name" value="报喜鸟披风"/>
+                <string name="desc" value="攻擊時,小鳥會為你加油!!"/>
             </imgdir>
             <imgdir name="1102199">
                 <string name="name" value="玲珑彩灯"/>
@@ -12000,6 +12273,80 @@
             <imgdir name="1102845">
                 <string name="name" value="Blue Blue Panda"/>
             </imgdir>
+            <imgdir name="1102234">
+                <string name="name" value="奇多豹掌氣球"/>
+                <string name="desc" value="帶上獨一無二奇多豹氣球，讓你走在路上都特別的與眾不同！"/>
+            </imgdir>
+            <imgdir name="1102200">
+                <string name="name" value="玫瑰披風"/>
+            </imgdir>
+            <imgdir name="1102198">
+                <string name="name" value="黃金楓葉披風"/>
+            </imgdir>
+            <imgdir name="1102173">
+                <string name="name" value="奇多飆風氣球"/>
+                <string name="desc" value="帶上獨一無二奇多飆風氣球，讓你走起來像飛一樣快！"/>
+            </imgdir>
+            <imgdir name="1102134">
+                <string name="name" value="+5真‧楓葉披風   "/>
+            </imgdir>
+            <imgdir name="1102133">
+                <string name="name" value="+4真‧楓葉披風   "/>
+            </imgdir>
+            <imgdir name="1102132">
+                <string name="name" value="+3真‧楓葉披風   "/>
+            </imgdir>
+            <imgdir name="1102131">
+                <string name="name" value="+2真‧楓葉披風   "/>
+            </imgdir>
+            <imgdir name="1102130">
+                <string name="name" value="+1真‧楓葉披風   "/>
+            </imgdir>
+            <imgdir name="1102129">
+                <string name="name" value="+5真‧楓葉披風   "/>
+            </imgdir>
+            <imgdir name="1102128">
+                <string name="name" value="+4真‧楓葉披風   "/>
+            </imgdir>
+            <imgdir name="1102127">
+                <string name="name" value="+3真‧楓葉披風   "/>
+            </imgdir>
+            <imgdir name="1102126">
+                <string name="name" value="+2真‧楓葉披風   "/>
+            </imgdir>
+            <imgdir name="1102125">
+                <string name="name" value="+1真‧楓葉披風   "/>
+            </imgdir>
+            <imgdir name="1102124">
+                <string name="name" value="+5真‧楓葉披風   "/>
+            </imgdir>
+            <imgdir name="1102123">
+                <string name="name" value="+4真‧楓葉披風   "/>
+            </imgdir>
+            <imgdir name="1102122">
+                <string name="name" value="+3真‧楓葉披風   "/>
+            </imgdir>
+            <imgdir name="1102119">
+                <string name="name" value="+5真‧楓葉披風   "/>
+            </imgdir>
+            <imgdir name="1102118">
+                <string name="name" value="+4真‧楓葉披風   "/>
+            </imgdir>
+            <imgdir name="1102117">
+                <string name="name" value="+3真‧楓葉披風   "/>
+            </imgdir>
+            <imgdir name="1102116">
+                <string name="name" value="+2真‧楓葉披風   "/>
+            </imgdir>
+            <imgdir name="1102115">
+                <string name="name" value="+1真‧楓葉披風   "/>
+            </imgdir>
+            <imgdir name="1102090">
+                <string name="name" value="黃色學生書包"/>
+            </imgdir>
+            <imgdir name="1102088">
+                <string name="name" value="紅色學生書包"/>
+            </imgdir>
         </imgdir>
         <imgdir name="Coat">
             <imgdir name="1040000">
@@ -12902,7 +13249,6 @@
             </imgdir>
             <imgdir name="1041126">
                 <string name="name" value="骷髅T恤"/>
-                <string name="desc" value="Use this Top equip if you want to make your Top equip transparent while still using all of the stats your Top equip possesses."/>
             </imgdir>
             <imgdir name="1041127">
                 <string name="name" value="爱心背心"/>
@@ -13934,8 +14280,23 @@
             <imgdir name="1042350">
                 <string name="name" value="Dolphin Shirt"/>
             </imgdir>
-            <imgdir name="1041126">
-                <string name="desc" value="Use this Top equip if you want to make your Top equip transparent while still using all of the stats your Top equip possesses."/>
+            <imgdir name="1042115">
+                <string name="name" value="褐色黃紋運動夾克(期限：30天)"/>
+            </imgdir>
+            <imgdir name="1042114">
+                <string name="name" value="星星T恤-紫色(期限：30天)"/>
+            </imgdir>
+            <imgdir name="1042113">
+                <string name="name" value="星星T恤-黃色(期限：30天)"/>
+            </imgdir>
+            <imgdir name="1042112">
+                <string name="name" value="黑藍色棒球服(期限：30天)"/>
+            </imgdir>
+            <imgdir name="1042111">
+                <string name="name" value="灰色棒球服(期限：30天)"/>
+            </imgdir>
+            <imgdir name="1041141">
+                <string name="name" value="SF忍者服*30天"/>
             </imgdir>
         </imgdir>
         <imgdir name="Face">
@@ -21155,7 +21516,6 @@
             </imgdir>
             <imgdir name="1082102">
                 <string name="name" value="透明手套"/>
-                <string name="desc" value="Use these Gloves if you want to make your Gloves transparent while still using all of the stats your Gloves possess."/>
             </imgdir>
             <imgdir name="1082103">
                 <string name="name" value="青铜暗影手套"/>
@@ -22184,6 +22544,18 @@
             <imgdir name="1082592">
                 <string name="name" value="Burning Ghost Wristband"/>
                 <string name="desc" value="Only these wild cuffs can tame your wild fists!"/>
+            </imgdir>
+            <imgdir name="1082248">
+                <string name="name" value="紫色大海護手"/>
+            </imgdir>
+            <imgdir name="1082166">
+                <string name="name" value="黑貓手套"/>
+            </imgdir>
+            <imgdir name="1082165">
+                <string name="name" value="白兔掌"/>
+            </imgdir>
+            <imgdir name="1081005">
+                <string name="name" value="藍色忍者手套*30天"/>
             </imgdir>
         </imgdir>
         <imgdir name="Hair">
@@ -39348,10 +39720,10 @@
                 <string name="name" value="燕尾服"/>
             </imgdir>
             <imgdir name="1050114">
-                <string name="name" value="Poseidon Armor"/>
+                <string name="name" value="海神張保?服裝"/>
             </imgdir>
             <imgdir name="1050115">
-                <string name="name" value="Sea Hermit Robe"/>
+                <string name="name" value="海神閻長服裝"/>
             </imgdir>
             <imgdir name="1050116">
                 <string name="name" value="酷酷赛车服"/>
@@ -39397,23 +39769,18 @@
             </imgdir>
             <imgdir name="1050131">
                 <string name="name" value="宝蓝西服"/>
-                <string name="desc" value="Suits that guest males can wear to attend a wedding. "/>
             </imgdir>
             <imgdir name="1050132">
                 <string name="name" value="金典西服"/>
-                <string name="desc" value="Suits that guest males can wear to attend a wedding. "/>
             </imgdir>
             <imgdir name="1050133">
                 <string name="name" value="绛红西服"/>
-                <string name="desc" value="Suits that guest males can wear to attend a wedding. "/>
             </imgdir>
             <imgdir name="1050134">
                 <string name="name" value="银白西服"/>
-                <string name="desc" value="Suits that guest males can wear to attend a wedding. "/>
             </imgdir>
             <imgdir name="1050135">
                 <string name="name" value="王子礼服"/>
-                <string name="desc" value="Tailor-made Tuxedo for grooms"/>
             </imgdir>
             <imgdir name="1050136">
                 <string name="name" value="黑色毛大衣"/>
@@ -39444,6 +39811,7 @@
             </imgdir>
             <imgdir name="1050148">
                 <string name="name" value="神话校服"/>
+                <string name="desc" value="名門貴族學校才有的制服~"/>
             </imgdir>
             <imgdir name="1050149">
                 <string name="name" value="结婚服"/>
@@ -39852,13 +40220,12 @@
             </imgdir>
             <imgdir name="1051113">
                 <string name="name" value="燕尾服"/>
-                <string name="desc" value="Use this Overall equip if you want to make your Overall equip transparent while still using all of the stats your Overall equip possesses."/>
             </imgdir>
             <imgdir name="1051114">
                 <string name="name" value="白色婚纱"/>
             </imgdir>
             <imgdir name="1051115">
-                <string name="name" value="Sea Queen Dress"/>
+                <string name="name" value="海神紫薇夫人服裝"/>
             </imgdir>
             <imgdir name="1051116">
                 <string name="name" value="赛车紧身服"/>
@@ -39961,27 +40328,21 @@
             </imgdir>
             <imgdir name="1051150">
                 <string name="name" value="宝石蓝晚宴裙"/>
-                <string name="desc" value="Dresses that guest females can wear to attend a wedding. "/>
             </imgdir>
             <imgdir name="1051151">
                 <string name="name" value="樱花粉晚宴裙"/>
-                <string name="desc" value="Dresses that guest females can wear to attend a wedding. "/>
             </imgdir>
             <imgdir name="1051152">
                 <string name="name" value="玫瑰红晚宴裙"/>
-                <string name="desc" value="Dresses that guest females can wear to attend a wedding. "/>
             </imgdir>
             <imgdir name="1051153">
                 <string name="name" value="珍珠白晚宴裙"/>
-                <string name="desc" value="Dresses that guest females can wear to attend a wedding. "/>
             </imgdir>
             <imgdir name="1051154">
                 <string name="name" value="女神晚礼服"/>
-                <string name="desc" value="Elegant Wedding Dress for brides."/>
             </imgdir>
             <imgdir name="1051155">
                 <string name="name" value="公主礼服"/>
-                <string name="desc" value="Modern, Sexy Wedding Dress for brides"/>
             </imgdir>
             <imgdir name="1051156">
                 <string name="name" value="黑色毛大衣"/>
@@ -40027,9 +40388,11 @@
             </imgdir>
             <imgdir name="1051175">
                 <string name="name" value="草莓牛奶连衣裙"/>
+                <string name="desc" value="貴氣十足的毛絨袖粉紅洋裝!"/>
             </imgdir>
             <imgdir name="1051176">
                 <string name="name" value="贵族生校服"/>
+                <string name="desc" value="名門貴族學校才有的制服~"/>
             </imgdir>
             <imgdir name="1051177">
                 <string name="name" value="结婚服"/>
@@ -40051,6 +40414,7 @@
             </imgdir>
             <imgdir name="1051188">
                 <string name="name" value="蓝色碎花裙"/>
+                <string name="desc" value="套服，飄逸復古的設計，穿上他都有種不同於以往的氣質"/>
             </imgdir>
             <imgdir name="1051189">
                 <string name="name" value="怦然心动装"/>
@@ -40243,7 +40607,7 @@
                 <string name="name" value="熊熊服"/>
             </imgdir>
             <imgdir name="1052054">
-                <string name="name" value="Welder Look"/>
+                <string name="name" value="寵物教練服"/>
             </imgdir>
             <imgdir name="1052055">
                 <string name="name" value="黑色皮西装"/>
@@ -40463,7 +40827,6 @@
             </imgdir>
             <imgdir name="1052170">
                 <string name="name" value="苹果纪念装"/>
-                <string name="desc" value="From the early days of Maple Island!  Relive the past with this authentic Noob overall!"/>
             </imgdir>
             <imgdir name="1052171">
                 <string name="name" value="嫩黄小鸡围兜装"/>
@@ -40497,6 +40860,7 @@
             </imgdir>
             <imgdir name="1052194">
                 <string name="name" value="摩登原始人"/>
+                <string name="desc" value="長袍，穿上後讓你成為最可愛的摩登原始人！"/>
             </imgdir>
             <imgdir name="1052198">
                 <string name="name" value="品克缤套服"/>
@@ -41947,6 +42311,57 @@
             <imgdir name="1052995">
                 <string name="name" value="Little Vampire Suit"/>
             </imgdir>
+            <imgdir name="1052233">
+                <string name="name" value="毛料蝴蝶結洋裝"/>
+            </imgdir>
+            <imgdir name="1052191">
+                <string name="name" value="蕃茄服裝"/>
+            </imgdir>
+            <imgdir name="1052190">
+                <string name="name" value="熱狗套服(幸運)"/>
+            </imgdir>
+            <imgdir name="1052189">
+                <string name="name" value="熱狗套服(智力)"/>
+            </imgdir>
+            <imgdir name="1052188">
+                <string name="name" value="熱狗套服(敏捷)"/>
+            </imgdir>
+            <imgdir name="1052187">
+                <string name="name" value="熱狗套服(力量)"/>
+            </imgdir>
+            <imgdir name="1052146">
+                <string name="name" value="紫色殭屍服*30天"/>
+            </imgdir>
+            <imgdir name="1052141">
+                <string name="name" value="廚師服(期限：30天)"/>
+            </imgdir>
+            <imgdir name="1052140">
+                <string name="name" value="褐色紙箱(期限：30天)"/>
+            </imgdir>
+            <imgdir name="1052139">
+                <string name="name" value="蝴蝶腰帶大衣(期限：30天)"/>
+            </imgdir>
+            <imgdir name="1052138">
+                <string name="name" value="白護士服(期限：30天)"/>
+            </imgdir>
+            <imgdir name="1052108">
+                <string name="name" value="草莓少女全身衣"/>
+            </imgdir>
+            <imgdir name="1052080">
+                <string name="name" value="白色戰鬥裝裡襯"/>
+            </imgdir>
+            <imgdir name="1052070">
+                <string name="name" value="黃金盔甲"/>
+            </imgdir>
+            <imgdir name="1051165">
+                <string name="name" value="女忍者服*30天"/>
+            </imgdir>
+            <imgdir name="1051161">
+                <string name="name" value="泰式傳統服飾"/>
+            </imgdir>
+            <imgdir name="1050140">
+                <string name="name" value="泰式傳統服飾"/>
+            </imgdir>
         </imgdir>
         <imgdir name="Pants">
             <imgdir name="1060000">
@@ -42295,8 +42710,7 @@
                 <string name="name" value="苹果牛仔裤"/>
             </imgdir>
             <imgdir name="1060115">
-                <string name="name" value="Transparent Bottom (M)"/>
-                <string name="desc" value="Use this Bottom equip if you want to make your Bottom equip transparent while still using all of the stats your Bottom equip possesses."/>
+                <string name="name" value="透明下衣"/>
             </imgdir>
             <imgdir name="1060116">
                 <string name="name" value="迷彩沙滩裤"/>
@@ -42710,8 +43124,7 @@
                 <string name="name" value="粉红线内服"/>
             </imgdir>
             <imgdir name="1061125">
-                <string name="name" value="Transparent Bottom (F)"/>
-                <string name="desc" value="Use this Bottom equip if you want to make your Bottom equip transparent while still using all of the stats your Bottom equip possesses."/>
+                <string name="name" value="透明下衣"/>
             </imgdir>
             <imgdir name="1061126">
                 <string name="name" value="白色超短裙"/>
@@ -43088,7 +43501,7 @@
             </imgdir>
             <imgdir name="1062106">
                 <string name="name" value="兔纹萝莉裤"/>
-                <string name="desc" value="A cute pair of pants featuring an adorable bunny on the back."/>
+                <string name="desc" value="褲子後面有可愛的兔子"/>
             </imgdir>
             <imgdir name="1062107">
                 <string name="name" value="明星长裤"/>
@@ -43110,6 +43523,7 @@
             </imgdir>
             <imgdir name="1062114">
                 <string name="name" value="心心相印裤"/>
+                <string name="desc" value="跟隨有漂亮的桃心。"/>
             </imgdir>
             <imgdir name="1062115">
                 <string name="name" value="朴素的武士裤"/>
@@ -43583,27 +43997,35 @@
         <imgdir name="PetEquip">
             <imgdir name="1802000">
                 <string name="name" value="红丝带"/>
+                <string name="desc" value="水星寶寶無法使用該裝備。"/>
             </imgdir>
             <imgdir name="1802001">
                 <string name="name" value="黄色帽子"/>
+                <string name="desc" value="水星寶寶無法使用該裝備。"/>
             </imgdir>
             <imgdir name="1802002">
                 <string name="name" value="红色帽子"/>
+                <string name="desc" value="水星寶寶無法使用該裝備。"/>
             </imgdir>
             <imgdir name="1802003">
                 <string name="name" value="黑色帽子"/>
+                <string name="desc" value="水星寶寶無法使用該裝備。"/>
             </imgdir>
             <imgdir name="1802004">
                 <string name="name" value="粉红花边帽子"/>
+                <string name="desc" value="水星寶寶無法使用該裝備。"/>
             </imgdir>
             <imgdir name="1802005">
                 <string name="name" value="淡蓝花边帽子"/>
+                <string name="desc" value="水星寶寶無法使用該裝備。"/>
             </imgdir>
             <imgdir name="1802006">
                 <string name="name" value="蓝魔术帽"/>
+                <string name="desc" value="水星寶寶無法使用該裝備。"/>
             </imgdir>
             <imgdir name="1802007">
                 <string name="name" value="红魔术帽"/>
+                <string name="desc" value="水星寶寶無法使用該裝備。"/>
             </imgdir>
             <imgdir name="1802008">
                 <string name="name" value="圣诞鹿帽"/>
@@ -43649,7 +44071,7 @@
             </imgdir>
             <imgdir name="1802019">
                 <string name="name" value="麋鹿雪橇"/>
-                <string name="desc" value="It is the very vehicle Santa uses on his Christmas trips. Only available for Rudolph."/>
+                <string name="desc" value="只限#c麋鹿#使用的配送禮物用雪橇。"/>
             </imgdir>
             <imgdir name="1802020">
                 <string name="name" value="盗侠白虎服"/>
@@ -43780,8 +44202,7 @@
                 <string name="desc" value="装备在宠物身上，\n能使宠物的名片装饰效果同主人使用的名片戒指一样"/>
             </imgdir>
             <imgdir name="1812000">
-                <string name="name" value="Meso Magnet"/>
-                <string name="desc" value="With this item, your pet will collect mesos dropped by a monster as it passes by them. Applies only to your monster spoils."/>
+                <string name="name" value="楓幣磁鐵"/>
             </imgdir>
             <imgdir name="1812001">
                 <string name="name" value="宠物拣取券"/>
@@ -44371,6 +44792,14 @@
                 <string name="name" value="Kangaroo boxing gloves"/>
                 <string name="desc" value="Ka-pow! These boxing gloves are a treasure to kangaroos."/>
             </imgdir>
+            <imgdir name="1802041">
+                <string name="name" value="幽靈披風"/>
+                <string name="desc" value="只限#c迪諾龍、妮諾龍#裝備的幽靈披風。"/>
+            </imgdir>
+            <imgdir name="1802040">
+                <string name="name" value="骷髏套裝"/>
+                <string name="desc" value="只限#c哈士奇#裝備的骷髏套裝。"/>
+            </imgdir>
         </imgdir>
         <imgdir name="Ring">
             <imgdir name="1112000">
@@ -44720,6 +45149,7 @@
                 <string name="desc" value="表示夫妻之间爱情的戒指。\n\n#c中式结婚，\n2012绝版纪念。\n#"/>
             </imgdir>
             <imgdir name="1112805">
+                <string name="name" value="Kratong名牌戒指"/>
             </imgdir>
             <imgdir name="1112812">
                 <string name="name" value="我的麻吉好友"/>
@@ -44727,11 +45157,11 @@
             </imgdir>
             <imgdir name="1112806">
                 <string name="name" value="巧克力聊天戒指"/>
-                <string name="desc" value="Wedding ring that shows two people are married"/>
+                <string name="desc" value="角色進行對話時，會出現巧克力背景與白字的對話訊息視窗。"/>
             </imgdir>
             <imgdir name="1112807">
                 <string name="name" value="粉红糖果聊天戒指"/>
-                <string name="desc" value="Wedding ring that shows two people are married"/>
+                <string name="desc" value="角色進行對話時，會出現粉紅包裝糖果背景與黑字的對話訊息視窗。"/>
             </imgdir>
             <imgdir name="1112808">
                 <string name="name" value="钻石聊天戒指"/>
@@ -46009,7 +46439,6 @@
             </imgdir>
             <imgdir name="1112809">
                 <string name="name" value="Silver Swan Wedding Ring"/>
-                <string name="desc" value="Wedding ring that shows two people are married"/>
             </imgdir>
             <imgdir name="1112909">
                 <string name="name" value="Aura Ring"/>
@@ -46079,6 +46508,33 @@
             <imgdir name="1112258">
                 <string name="name" value="Green Apple&apos;s Love Chat Ring"/>
                 <string name="desc" value="Makes your text bubbles show up with green apples."/>
+            </imgdir>
+            <imgdir name="1112500">
+                <string name="name" value="魚兒戒指"/>
+                <string name="desc" value="魚兒戒指"/>
+            </imgdir>
+            <imgdir name="1112127">
+                <string name="name" value="Welcome Back"/>
+                <string name="desc" value="為了回來楓之谷的老朋友特別製作的戒指。使用後在名字上會出現效果以及角色後面出現特別效果。"/>
+            </imgdir>
+            <imgdir name="1112011">
+                <string name="name" value="心心相印戒"/>
+                <string name="desc" value="完成環遊世界傳情意的任務後，會得到心心相印戒指，可提升能力&quot;敏捷 + 2&quot;"/>
+            </imgdir>
+            <imgdir name="1112009">
+                <string name="name" value="心心相印戒"/>
+                <string name="desc" value="完成環遊世界傳情意的任務後，會得到心心相印戒指，可提升能力&quot;智力 + 2&quot;"/>
+            </imgdir>
+            <imgdir name="1112008">
+                <string name="name" value="心心相印戒"/>
+                <string name="desc" value="完成環遊世界傳情意的任務後，會得到心心相印戒指，可提升能力&quot;力量 + 2&quot;"/>
+            </imgdir>
+            <imgdir name="1112004">
+                <string name="name" value="心心相印戒"/>
+                <string name="desc" value="&quot;完成環遊世界傳情意的任務後，會得到心心相印戒指，可提升能力
+幸運 + 2, 智力 + 2, 敏捷 + 2 , 力量 + 2, 有效期限30天
+
+&quot;"/>
             </imgdir>
         </imgdir>
         <imgdir name="Android">
@@ -46395,6 +46851,7 @@
             </imgdir>
             <imgdir name="1092051">
                 <string name="name" value="啤酒杯盾牌"/>
+                <string name="desc" value="裝備在手上的啤酒杯形狀的盾牌，上面冒滿著滿滿的啤酒泡沫。"/>
             </imgdir>
             <imgdir name="1092053">
                 <string name="name" value="无敌石板盾牌"/>
@@ -49358,9 +49815,11 @@
             </imgdir>
             <imgdir name="1902022">
                 <string name="name" value="Red Bike"/>
+                <string name="desc" value="你必須擁有騎寵(鱷魚王，提提阿那，野豬，銀色鬃毛，提提歐…)才可以使用現金騎寵。"/>
             </imgdir>
             <imgdir name="1902023">
                 <string name="name" value="Spaceship"/>
+                <string name="desc" value="你必須擁有騎寵(鱷魚王，提提阿那，野豬，銀色鬃毛，提提歐…)才可以使用現金騎寵。"/>
             </imgdir>
             <imgdir name="1902025">
                 <string name="name" value="Black Dragon"/>
@@ -49374,9 +49833,11 @@
             </imgdir>
             <imgdir name="1912015">
                 <string name="name" value="Red Bike Saddle"/>
+                <string name="desc" value="你必須擁有騎寵(鱷魚王，提提阿那，野豬，銀色鬃毛，提提歐…)才可以使用現金騎寵。"/>
             </imgdir>
             <imgdir name="1912016">
                 <string name="name" value="Spaceship Saddle"/>
+                <string name="desc" value="你必須擁有騎寵(鱷魚王，提提阿那，野豬，銀色鬃毛，提提歐…)才可以使用現金騎寵。"/>
             </imgdir>
             <imgdir name="1912018">
                 <string name="name" value="Dragon Saddle"/>
@@ -49514,7 +49975,7 @@
                 <string name="name" value="烈焰之剑"/>
             </imgdir>
             <imgdir name="1302033">
-                <string name="name" value="Maple Flag"/>
+                <string name="name" value="楓葉旗幟"/>
             </imgdir>
             <imgdir name="1302034">
                 <string name="name" value="Pumpkin Basket"/>
@@ -49563,23 +50024,23 @@
             </imgdir>
             <imgdir name="1302050">
                 <string name="name" value="战剑"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1302051">
                 <string name="name" value="树灵之剑"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1302052">
                 <string name="name" value="奇型刀"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1302053">
                 <string name="name" value="奇型刀"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1302054">
                 <string name="name" value="汤勺"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1302056">
                 <string name="name" value="一刀两断"/>
@@ -49773,19 +50234,19 @@
             </imgdir>
             <imgdir name="1312026">
                 <string name="name" value="树灵之斧"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1312027">
                 <string name="name" value="猛禽斧"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1312028">
                 <string name="name" value="黄金斧"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1312029">
                 <string name="name" value="花灵之斧"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1312030">
                 <string name="name" value="烛影摇红"/>
@@ -49969,26 +50430,27 @@
             </imgdir>
             <imgdir name="1322046">
                 <string name="name" value="大战斗锤"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1322047">
                 <string name="name" value="旋风锤"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1322048">
                 <string name="name" value="巨型锤"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1322049">
                 <string name="name" value="暴风锤"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1322050">
                 <string name="name" value="钉头锤"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1322051">
                 <string name="name" value="七夕"/>
+                <string name="desc" value="七夕彩竹"/>
             </imgdir>
             <imgdir name="1322052">
                 <string name="name" value="狂龙地锤"/>
@@ -50169,23 +50631,23 @@
             </imgdir>
             <imgdir name="1332043">
                 <string name="name" value="水晶刃"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1332044">
                 <string name="name" value="破碎刃"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1332045">
                 <string name="name" value="双翼刃"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1332046">
                 <string name="name" value="凤凰刃"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1332047">
                 <string name="name" value="黑精灵拳刃"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1332049">
                 <string name="name" value="蝉翼龙牙破"/>
@@ -50362,19 +50824,19 @@
             </imgdir>
             <imgdir name="1372027">
                 <string name="name" value="法师短杖"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1372028">
                 <string name="name" value="大魔法师短杖"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1372029">
                 <string name="name" value="火焰之杖"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1372030">
                 <string name="name" value="天使之翼"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1372031">
                 <string name="name" value="圣贤短杖"/>
@@ -50532,23 +50994,23 @@
             </imgdir>
             <imgdir name="1382030">
                 <string name="name" value="精灵长杖"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1382031">
                 <string name="name" value="白龙之杖"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1382032">
                 <string name="name" value="魔灵之翼"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1382033">
                 <string name="name" value="死灵法杖"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1382034">
                 <string name="name" value="魔灵之魂"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1382035">
                 <string name="name" value="冰肌玲珑杖"/>
@@ -50732,23 +51194,23 @@
             </imgdir>
             <imgdir name="1402030">
                 <string name="name" value="大刀"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1402031">
                 <string name="name" value="虎剑"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1402032">
                 <string name="name" value="无极剑"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1402033">
                 <string name="name" value="霸王剑"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1402034">
                 <string name="name" value="亚历山大之剑"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1402035">
                 <string name="name" value="斩天刀"/>
@@ -50802,7 +51264,7 @@
             </imgdir>
             <imgdir name="1402062">
                 <string name="name" value="贝音双手剑"/>
-                <string name="h1" value="#cHas a 5% chance to add 300 additional damage for 10 seconds.#\n #cHas a 10% chance to create a stun effect for 10 seconds."/>
+                <string name="h1" value="#c以5%機率10秒內每秒給予300的追加傷害。#\n #c 以10%機率10秒內發生暈眩效果。"/>
             </imgdir>
             <imgdir name="1402063">
                 <string name="name" value="樱花伞"/>
@@ -50886,19 +51348,19 @@
             </imgdir>
             <imgdir name="1412022">
                 <string name="name" value="太阳之斧"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1412023">
                 <string name="name" value="光明斧"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1412024">
                 <string name="name" value="雷电斧"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1412025">
                 <string name="name" value="大力神之斧"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1412026">
                 <string name="name" value="炼狱魔龙斧"/>
@@ -50937,7 +51399,6 @@
             </imgdir>
             <imgdir name="1412040">
                 <string name="name" value="血焰斧"/>
-                <string name="desc" value="One of the huge Versalian axes wielded by Red Nirg."/>
             </imgdir>
             <imgdir name="1412042">
                 <string name="name" value="企鹅王的绿蛇刀"/>
@@ -51025,19 +51486,19 @@
             </imgdir>
             <imgdir name="1422023">
                 <string name="name" value="黄金锤"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1422024">
                 <string name="name" value="妖精之锤"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1422025">
                 <string name="name" value="封魂之锤"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1422026">
                 <string name="name" value="雷神之锤"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1422027">
                 <string name="name" value="泰坦之锤"/>
@@ -51186,23 +51647,23 @@
             </imgdir>
             <imgdir name="1432031">
                 <string name="name" value="三支枪"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1432032">
                 <string name="name" value="长八蛇矛"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1432033">
                 <string name="name" value="十字枪"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1432034">
                 <string name="name" value="银龙枪"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1432035">
                 <string name="name" value="奥丁手戟"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1432037">
                 <string name="name" value="枫叶大将旗"/>
@@ -51391,19 +51852,19 @@
             </imgdir>
             <imgdir name="1442040">
                 <string name="name" value="九龙刀"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1442041">
                 <string name="name" value="方天戟"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1442042">
                 <string name="name" value="黄龙刀"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1442043">
                 <string name="name" value="月神刀"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1442044">
                 <string name="name" value="战魂斗杀戟"/>
@@ -51626,23 +52087,23 @@
             </imgdir>
             <imgdir name="1452038">
                 <string name="name" value="雷电"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1452039">
                 <string name="name" value="天弓"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1452040">
                 <string name="name" value="凤凰之弓"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1452041">
                 <string name="name" value="黄神弓"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1452042">
                 <string name="name" value="玄武弓"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1452044">
                 <string name="name" value="金龙振翅弓"/>
@@ -51696,7 +52157,7 @@
             </imgdir>
             <imgdir name="1452071">
                 <string name="name" value="贝音弓"/>
-                <string name="h1" value="#c Has to 10% chance to create a stun effect for 10 seconds.#"/>
+                <string name="h1" value="#c以10%的機率10秒內發生暈眩效果。#"/>
             </imgdir>
             <imgdir name="1452073">
                 <string name="name" value="企鹅王的火焰之弓"/>
@@ -51825,23 +52286,23 @@
             </imgdir>
             <imgdir name="1462033">
                 <string name="name" value="山羊弩"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1462034">
                 <string name="name" value="炎弩"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1462035">
                 <string name="name" value="黄金弩"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1462036">
                 <string name="name" value="破天弩弓"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1462037">
                 <string name="name" value="黑暗弩弓"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1462039">
                 <string name="name" value="黄金飞龙弩"/>
@@ -52043,23 +52504,23 @@
             </imgdir>
             <imgdir name="1472045">
                 <string name="name" value="朱矿斗拳"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1472046">
                 <string name="name" value="黑手甲"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1472047">
                 <string name="name" value="黑战神拳套"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1472048">
                 <string name="name" value="黑闪电甲"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1472049">
                 <string name="name" value="龙之拳"/>
-                <string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/>
+                <string name="desc" value="#c網咖專用物品。離開遊戲時會自動消失。\n#"/>
             </imgdir>
             <imgdir name="1472051">
                 <string name="name" value="寒木升龙拳"/>
@@ -52120,7 +52581,7 @@
             </imgdir>
             <imgdir name="1472086">
                 <string name="name" value="贝音拳套"/>
-                <string name="h1" value="#cHas a 5% chance to add 120 additional damage for 30 seconds.#\n#cHas a 10% chance to create a stun effect for 5 seconds."/>
+                <string name="h1" value="#c以5%機率30秒內每秒給予120的追加傷害。#\n #c 以10%機率5秒內發生暈眩效果。"/>
             </imgdir>
             <imgdir name="1472089">
                 <string name="name" value="企鹅王的黑守护拳套"/>
@@ -52194,23 +52655,23 @@
             </imgdir>
             <imgdir name="1482015">
                 <string name="name" value="轻型覆拳甲"/>
-                <string name="desc" value="#cThis item is for the Internet Cafe only and will disappear once you log out of the game.\n#"/>
+                <string name="desc" value="#c網咖專用道具，結束遊戲就會消失。\n#"/>
             </imgdir>
             <imgdir name="1482016">
                 <string name="name" value="轻型蛇吻"/>
-                <string name="desc" value="#cThis item is for the Internet Cafe only and will disappear once you log out of the game.\n#"/>
+                <string name="desc" value="#c網咖專用道具，結束遊戲就會消失。\n#"/>
             </imgdir>
             <imgdir name="1482017">
                 <string name="name" value="比翼鸟"/>
-                <string name="desc" value="#cThis item is for the Internet Cafe only and will disappear once you log out of the game.\n#"/>
+                <string name="desc" value="#c網咖專用道具，結束遊戲就會消失。\n#"/>
             </imgdir>
             <imgdir name="1482018">
                 <string name="name" value="突击拳甲"/>
-                <string name="desc" value="#cThis item is for the Internet Cafe only and will disappear once you log out of the game.\n#"/>
+                <string name="desc" value="#c網咖專用道具，結束遊戲就會消失。\n#"/>
             </imgdir>
             <imgdir name="1482019">
                 <string name="name" value="冲击者"/>
-                <string name="desc" value="#cThis item is for the Internet Cafe only and will disappear once you log out of the game.\n#"/>
+                <string name="desc" value="#c網咖專用道具，結束遊戲就會消失。\n#"/>
             </imgdir>
             <imgdir name="1482020">
                 <string name="name" value="枫叶指节"/>
@@ -52362,7 +52823,7 @@
             </imgdir>
             <imgdir name="1492037">
                 <string name="name" value="贝音短枪"/>
-                <string name="h1" value="#cHas a 5% chance to add 120 additional damage for 30 seconds.#\n#cHas a 10% chance to create a freezing effect for 5 seconds."/>
+                <string name="h1" value="#c以5%的機率30秒內每秒給予120的追加傷害。#\n#c以10%的機率5秒內發生結冰笑果。"/>
             </imgdir>
             <imgdir name="1492038">
                 <string name="name" value="企鹅王的红杰克"/>
@@ -60097,6 +60558,7 @@
             </imgdir>
             <imgdir name="1702176">
                 <string name="name" value="&amp;lt;no name&gt;"/>
+                <string name="desc" value="可裝備在#c單手劍、單手斧、單手棍、長杖、短杖#上的鬼焰刀."/>
             </imgdir>
             <imgdir name="1702214">
                 <string name="name" value="Horsetail"/>
@@ -60227,6 +60689,453 @@
             <imgdir name="1702556">
                 <string name="name" value="Blade"/>
                 <string name="desc" value="Razor-sharp blades used to battle titans. Can be equipped over #call weapons#."/>
+            </imgdir>
+            <imgdir name="1702265">
+                <string name="name" value="葉子護腕"/>
+            </imgdir>
+            <imgdir name="1702137">
+                <string name="name" value="YO！悠游圈"/>
+                <string name="desc" value="可裝備在#c除火槍與指虎以外其他武器#的YO！悠游圈。"/>
+            </imgdir>
+            <imgdir name="1492029">
+                <string name="name" value="灼熱地獄"/>
+            </imgdir>
+            <imgdir name="1492028">
+                <string name="name" value="拉斯菲特之槍"/>
+            </imgdir>
+            <imgdir name="1492027">
+                <string name="name" value="冷酷之心"/>
+            </imgdir>
+            <imgdir name="1482028">
+                <string name="name" value="塞爾拉利刃拳套"/>
+            </imgdir>
+            <imgdir name="1482027">
+                <string name="name" value="惡魔之爪"/>
+            </imgdir>
+            <imgdir name="1482026">
+                <string name="name" value="精鋼拳套"/>
+            </imgdir>
+            <imgdir name="1472904">
+                <string name="name" value="龍之拳"/>
+            </imgdir>
+            <imgdir name="1472903">
+                <string name="name" value="黑閃電甲"/>
+            </imgdir>
+            <imgdir name="1472902">
+                <string name="name" value="黑戰神拳套"/>
+            </imgdir>
+            <imgdir name="1472901">
+                <string name="name" value="黑手甲"/>
+            </imgdir>
+            <imgdir name="1472900">
+                <string name="name" value="朱礦鬥拳"/>
+            </imgdir>
+            <imgdir name="1472804">
+                <string name="name" value="龍之拳"/>
+            </imgdir>
+            <imgdir name="1472803">
+                <string name="name" value="黑閃電甲"/>
+            </imgdir>
+            <imgdir name="1472802">
+                <string name="name" value="黑戰神拳套"/>
+            </imgdir>
+            <imgdir name="1472801">
+                <string name="name" value="黑手甲"/>
+            </imgdir>
+            <imgdir name="1472099">
+                <string name="name" value="魅惑之劍"/>
+            </imgdir>
+            <imgdir name="1472098">
+                <string name="name" value="雙十節仙女棒"/>
+                <string name="desc" value="裝備仙女棒並使用閃亮的紙條打獵活動怪物吧。"/>
+            </imgdir>
+            <imgdir name="1472050">
+                <string name="name" value="真‧楓葉拳套"/>
+            </imgdir>
+            <imgdir name="1462904">
+                <string name="name" value="黑暗弩弓"/>
+            </imgdir>
+            <imgdir name="1462903">
+                <string name="name" value="破天弩弓"/>
+            </imgdir>
+            <imgdir name="1462902">
+                <string name="name" value="黃金弩"/>
+            </imgdir>
+            <imgdir name="1462901">
+                <string name="name" value="炎弩"/>
+            </imgdir>
+            <imgdir name="1462900">
+                <string name="name" value="山羊弩"/>
+            </imgdir>
+            <imgdir name="1462804">
+                <string name="name" value="黑暗弩弓"/>
+            </imgdir>
+            <imgdir name="1462803">
+                <string name="name" value="破天弩弓"/>
+            </imgdir>
+            <imgdir name="1462802">
+                <string name="name" value="黃金弩"/>
+            </imgdir>
+            <imgdir name="1462801">
+                <string name="name" value="炎弩"/>
+            </imgdir>
+            <imgdir name="1462800">
+                <string name="name" value="山羊弩"/>
+            </imgdir>
+            <imgdir name="1462074">
+                <string name="name" value="魅惑之劍"/>
+            </imgdir>
+            <imgdir name="1462038">
+                <string name="name" value="真‧楓葉之弩"/>
+            </imgdir>
+            <imgdir name="1452904">
+                <string name="name" value="黑色艾倫弓"/>
+            </imgdir>
+            <imgdir name="1452903">
+                <string name="name" value="黃神弓"/>
+            </imgdir>
+            <imgdir name="1452902">
+                <string name="name" value="鳳凰之弓"/>
+            </imgdir>
+            <imgdir name="1452901">
+                <string name="name" value="天弓"/>
+            </imgdir>
+            <imgdir name="1452900">
+                <string name="name" value="雷電"/>
+            </imgdir>
+            <imgdir name="1452804">
+                <string name="name" value="黑色艾倫弓"/>
+            </imgdir>
+            <imgdir name="1452803">
+                <string name="name" value="黃神弓"/>
+            </imgdir>
+            <imgdir name="1452802">
+                <string name="name" value="鳳凰之弓"/>
+            </imgdir>
+            <imgdir name="1452801">
+                <string name="name" value="天弓"/>
+            </imgdir>
+            <imgdir name="1452800">
+                <string name="name" value="雷電"/>
+            </imgdir>
+            <imgdir name="1452082">
+                <string name="name" value="魅惑之劍"/>
+            </imgdir>
+            <imgdir name="1452043">
+                <string name="name" value="真‧楓葉之弓"/>
+            </imgdir>
+            <imgdir name="1442903">
+                <string name="name" value="月神刀"/>
+            </imgdir>
+            <imgdir name="1442902">
+                <string name="name" value="黃龍刀"/>
+            </imgdir>
+            <imgdir name="1442901">
+                <string name="name" value="方天戟"/>
+            </imgdir>
+            <imgdir name="1442900">
+                <string name="name" value="九龍刀"/>
+            </imgdir>
+            <imgdir name="1442803">
+                <string name="name" value="月神刀"/>
+            </imgdir>
+            <imgdir name="1442802">
+                <string name="name" value="黃龍刀"/>
+            </imgdir>
+            <imgdir name="1442801">
+                <string name="name" value="方天戟"/>
+            </imgdir>
+            <imgdir name="1442800">
+                <string name="name" value="九龍刀"/>
+            </imgdir>
+            <imgdir name="1442085">
+                <string name="name" value="魅惑之劍"/>
+            </imgdir>
+            <imgdir name="1442059">
+                <string name="name" value="Malaysia Flag (Pole Arm)"/>
+            </imgdir>
+            <imgdir name="1432904">
+                <string name="name" value="奧丁手戟"/>
+            </imgdir>
+            <imgdir name="1432903">
+                <string name="name" value="銀龍槍"/>
+            </imgdir>
+            <imgdir name="1432902">
+                <string name="name" value="十字槍"/>
+            </imgdir>
+            <imgdir name="1432901">
+                <string name="name" value="長八蛇矛"/>
+            </imgdir>
+            <imgdir name="1432900">
+                <string name="name" value="三支槍"/>
+            </imgdir>
+            <imgdir name="1432804">
+                <string name="name" value="奧丁手戟"/>
+            </imgdir>
+            <imgdir name="1432803">
+                <string name="name" value="銀龍槍"/>
+            </imgdir>
+            <imgdir name="1432802">
+                <string name="name" value="十字槍"/>
+            </imgdir>
+            <imgdir name="1432801">
+                <string name="name" value="長八蛇矛"/>
+            </imgdir>
+            <imgdir name="1432800">
+                <string name="name" value="三支槍"/>
+            </imgdir>
+            <imgdir name="1432060">
+                <string name="name" value="魅惑之劍"/>
+            </imgdir>
+            <imgdir name="1422903">
+                <string name="name" value="雷神之錘"/>
+            </imgdir>
+            <imgdir name="1422902">
+                <string name="name" value="封魂之錘"/>
+            </imgdir>
+            <imgdir name="1422901">
+                <string name="name" value="妖精之錘"/>
+            </imgdir>
+            <imgdir name="1422900">
+                <string name="name" value="黃金錘"/>
+            </imgdir>
+            <imgdir name="1422803">
+                <string name="name" value="雷神之錘"/>
+            </imgdir>
+            <imgdir name="1422802">
+                <string name="name" value="封魂之錘"/>
+            </imgdir>
+            <imgdir name="1422801">
+                <string name="name" value="妖精之錘"/>
+            </imgdir>
+            <imgdir name="1422800">
+                <string name="name" value="黃金錘"/>
+            </imgdir>
+            <imgdir name="1422048">
+                <string name="name" value="魅惑之劍"/>
+            </imgdir>
+            <imgdir name="1422035">
+                <string name="name" value="Malaysia Flag (Two Handed Mace)"/>
+            </imgdir>
+            <imgdir name="1412903">
+                <string name="name" value="大力神之斧"/>
+            </imgdir>
+            <imgdir name="1412902">
+                <string name="name" value="雷電斧"/>
+            </imgdir>
+            <imgdir name="1412901">
+                <string name="name" value="光明斧"/>
+            </imgdir>
+            <imgdir name="1412900">
+                <string name="name" value="太陽之斧"/>
+            </imgdir>
+            <imgdir name="1412803">
+                <string name="name" value="大力神之斧"/>
+            </imgdir>
+            <imgdir name="1412802">
+                <string name="name" value="雷電斧"/>
+            </imgdir>
+            <imgdir name="1412801">
+                <string name="name" value="光明斧"/>
+            </imgdir>
+            <imgdir name="1412800">
+                <string name="name" value="太陽之斧"/>
+            </imgdir>
+            <imgdir name="1412045">
+                <string name="name" value="魅惑之劍"/>
+            </imgdir>
+            <imgdir name="1402904">
+                <string name="name" value="亞歷山大之劍"/>
+            </imgdir>
+            <imgdir name="1402903">
+                <string name="name" value="霸王劍"/>
+            </imgdir>
+            <imgdir name="1402902">
+                <string name="name" value="無極劍"/>
+            </imgdir>
+            <imgdir name="1402901">
+                <string name="name" value="虎劍"/>
+            </imgdir>
+            <imgdir name="1402900">
+                <string name="name" value="大刀"/>
+            </imgdir>
+            <imgdir name="1402804">
+                <string name="name" value="亞歷山大之劍"/>
+            </imgdir>
+            <imgdir name="1402803">
+                <string name="name" value="霸王劍"/>
+            </imgdir>
+            <imgdir name="1402802">
+                <string name="name" value="無極劍"/>
+            </imgdir>
+            <imgdir name="1402801">
+                <string name="name" value="虎劍"/>
+            </imgdir>
+            <imgdir name="1402800">
+                <string name="name" value="大刀"/>
+            </imgdir>
+            <imgdir name="1402071">
+                <string name="name" value="魅惑之劍"/>
+            </imgdir>
+            <imgdir name="1402043">
+                <string name="name" value="Malaysia Flag (Two Handed Sword)"/>
+            </imgdir>
+            <imgdir name="1402038">
+                <string name="name" value="101模型"/>
+            </imgdir>
+            <imgdir name="1382801">
+                <string name="name" value="白龍之杖"/>
+            </imgdir>
+            <imgdir name="1382800">
+                <string name="name" value="精靈長杖"/>
+            </imgdir>
+            <imgdir name="1382079">
+                <string name="name" value="魅惑之劍"/>
+            </imgdir>
+            <imgdir name="1382038">
+                <string name="name" value="糖葫蘆"/>
+            </imgdir>
+            <imgdir name="1372903">
+                <string name="name" value="天使之翼"/>
+            </imgdir>
+            <imgdir name="1372902">
+                <string name="name" value="火焰之杖"/>
+            </imgdir>
+            <imgdir name="1372901">
+                <string name="name" value="大魔法師短杖"/>
+            </imgdir>
+            <imgdir name="1372900">
+                <string name="name" value="法師短杖"/>
+            </imgdir>
+            <imgdir name="1372803">
+                <string name="name" value="天使之翼"/>
+            </imgdir>
+            <imgdir name="1372802">
+                <string name="name" value="火焰之杖"/>
+            </imgdir>
+            <imgdir name="1372801">
+                <string name="name" value="大魔法師短杖"/>
+            </imgdir>
+            <imgdir name="1372800">
+                <string name="name" value="法師短杖"/>
+            </imgdir>
+            <imgdir name="1372057">
+                <string name="name" value="魅惑之劍"/>
+            </imgdir>
+            <imgdir name="1332802">
+                <string name="name" value="雙翼刃"/>
+            </imgdir>
+            <imgdir name="1332801">
+                <string name="name" value="破碎刃"/>
+            </imgdir>
+            <imgdir name="1332800">
+                <string name="name" value="水晶刃"/>
+            </imgdir>
+            <imgdir name="1332101">
+                <string name="name" value="奇多豹掌武器"/>
+            </imgdir>
+            <imgdir name="1332098">
+                <string name="name" value="魅惑之劍"/>
+            </imgdir>
+            <imgdir name="1332048">
+                <string name="name" value="真‧楓葉鐵扇"/>
+            </imgdir>
+            <imgdir name="1322904">
+                <string name="name" value="釘頭錘"/>
+            </imgdir>
+            <imgdir name="1322903">
+                <string name="name" value="暴風錘"/>
+            </imgdir>
+            <imgdir name="1322902">
+                <string name="name" value="巨型錘"/>
+            </imgdir>
+            <imgdir name="1322901">
+                <string name="name" value="旋風錘"/>
+            </imgdir>
+            <imgdir name="1322900">
+                <string name="name" value="大戰鬥錘"/>
+            </imgdir>
+            <imgdir name="1322804">
+                <string name="name" value="釘頭錘"/>
+            </imgdir>
+            <imgdir name="1322803">
+                <string name="name" value="暴風錘"/>
+            </imgdir>
+            <imgdir name="1322802">
+                <string name="name" value="巨型錘"/>
+            </imgdir>
+            <imgdir name="1322801">
+                <string name="name" value="旋風錘"/>
+            </imgdir>
+            <imgdir name="1322800">
+                <string name="name" value="大戰鬥錘"/>
+            </imgdir>
+            <imgdir name="1322075">
+                <string name="name" value="魅惑之劍"/>
+            </imgdir>
+            <imgdir name="1322070">
+                <string name="name" value="西班牙火腿"/>
+            </imgdir>
+            <imgdir name="1312903">
+                <string name="name" value="花靈之斧"/>
+            </imgdir>
+            <imgdir name="1312902">
+                <string name="name" value="黃金斧"/>
+            </imgdir>
+            <imgdir name="1312901">
+                <string name="name" value="猛禽斧"/>
+            </imgdir>
+            <imgdir name="1312900">
+                <string name="name" value="樹靈之斧"/>
+            </imgdir>
+            <imgdir name="1312803">
+                <string name="name" value="花靈之斧"/>
+            </imgdir>
+            <imgdir name="1312802">
+                <string name="name" value="黃金斧"/>
+            </imgdir>
+            <imgdir name="1312801">
+                <string name="name" value="猛禽斧"/>
+            </imgdir>
+            <imgdir name="1312800">
+                <string name="name" value="樹靈之斧"/>
+            </imgdir>
+            <imgdir name="1312047">
+                <string name="name" value="魅惑之劍"/>
+            </imgdir>
+            <imgdir name="1302804">
+                <string name="name" value="湯勺"/>
+            </imgdir>
+            <imgdir name="1302803">
+                <string name="name" value="火焰刀"/>
+            </imgdir>
+            <imgdir name="1302802">
+                <string name="name" value="奇型刀"/>
+            </imgdir>
+            <imgdir name="1302801">
+                <string name="name" value="樹靈之劍"/>
+            </imgdir>
+            <imgdir name="1302800">
+                <string name="name" value="戰劍"/>
+            </imgdir>
+            <imgdir name="1302130">
+                <string name="name" value="魅惑之劍"/>
+            </imgdir>
+            <imgdir name="1302127">
+                <string name="name" value="台灣國旗"/>
+                <string name="desc" value="雙十節紀念台灣國旗。"/>
+            </imgdir>
+            <imgdir name="1302111">
+                <string name="name" value="叉子"/>
+            </imgdir>
+            <imgdir name="1302110">
+                <string name="name" value="火柴"/>
+            </imgdir>
+            <imgdir name="1302102">
+                <string name="name" value="雙十國旗"/>
+            </imgdir>
+            <imgdir name="1302072">
+                <string name="name" value="楓之谷2週年旗幟"/>
             </imgdir>
         </imgdir>
         <imgdir name="Dragon">

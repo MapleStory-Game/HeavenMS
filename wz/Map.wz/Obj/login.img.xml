@@ -162,12 +162,12 @@
     <imgdir name="WorldSelect">
         <imgdir name="signboard">
             <imgdir name="0">
-                <canvas name="0" width="674" height="171">
+                <canvas name="0" width="1" height="1">
                     <vector name="origin" x="337" y="83"/>
                 </canvas>
             </imgdir>
             <imgdir name="1">
-                <canvas name="0" width="394" height="146">
+                <canvas name="0" width="1" height="1">
                     <vector name="origin" x="197" y="73"/>
                 </canvas>
             </imgdir>

@@ -35,6 +35,7 @@
         <imgdir name="spec">
             <int name="time" value="7200000"/>
             <int name="pad" value="10"/>
+            <int name="mad" value="15"/>
         </imgdir>
     </imgdir>
     <imgdir name="04200002">
@@ -53,6 +54,7 @@
         <imgdir name="spec">
             <int name="time" value="7200000"/>
             <int name="mad" value="10"/>
+            <int name="pad" value="15"/>
         </imgdir>
     </imgdir>
     <imgdir name="04200003">
@@ -95,6 +97,8 @@
             <int name="time" value="7200000"/>
             <int name="pdd" value="30"/>
             <int name="mdd" value="30"/>
+            <int name="eva" value="50"/>
+            <int name="acc" value="50"/>
         </imgdir>
     </imgdir>
     <imgdir name="04200005">
@@ -114,6 +118,8 @@
             <int name="time" value="7200000"/>
             <int name="acc" value="15"/>
             <int name="eva" value="15"/>
+            <int name="pdd" value="30"/>
+            <int name="mdd" value="30"/>
         </imgdir>
     </imgdir>
     <imgdir name="04200006">

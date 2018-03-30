@@ -24,6 +24,9 @@
                 <imgdir name="2">
                     <string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
                 </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="你可从训练师或宠物食品商人购买宠物食品，并使用命令来提升与宠物间的亲密度。"/>
+                </imgdir>
             </imgdir>
             <imgdir name="1">
                 <imgdir name="0">
@@ -71,6 +74,9 @@
                 </imgdir>
                 <imgdir name="2">
                     <string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+                </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="你可从训练师或宠物食品商人购买宠物食品，并使用命令来提升与宠物间的亲密度。"/>
                 </imgdir>
             </imgdir>
             <imgdir name="1">
@@ -120,6 +126,9 @@
                 <imgdir name="2">
                     <string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
                 </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="你可从训练师或宠物食品商人购买宠物食品，并使用命令来提升与宠物间的亲密度。"/>
+                </imgdir>
             </imgdir>
             <imgdir name="1">
                 <imgdir name="0">
@@ -167,6 +176,9 @@
                 </imgdir>
                 <imgdir name="2">
                     <string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+                </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="你可从训练师或宠物食品商人购买宠物食品，并使用命令来提升与宠物间的亲密度。"/>
                 </imgdir>
             </imgdir>
             <imgdir name="1">
@@ -216,6 +228,9 @@
                 <imgdir name="2">
                     <string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
                 </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="你可从训练师或宠物食品商人购买宠物食品，并使用命令来提升与宠物间的亲密度。"/>
+                </imgdir>
             </imgdir>
             <imgdir name="1">
                 <imgdir name="0">
@@ -263,6 +278,9 @@
                 </imgdir>
                 <imgdir name="2">
                     <string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+                </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="你可从训练师或宠物食品商人购买宠物食品，并使用命令来提升与宠物间的亲密度。"/>
                 </imgdir>
             </imgdir>
             <imgdir name="1">
@@ -312,6 +330,9 @@
                 <imgdir name="2">
                     <string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
                 </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="你可从训练师或宠物食品商人购买宠物食品，并使用命令来提升与宠物间的亲密度。"/>
+                </imgdir>
             </imgdir>
             <imgdir name="1">
                 <imgdir name="0">
@@ -359,6 +380,9 @@
                 </imgdir>
                 <imgdir name="2">
                     <string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+                </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="你可从训练师或宠物食品商人购买宠物食品，并使用命令来提升与宠物间的亲密度。"/>
                 </imgdir>
             </imgdir>
             <imgdir name="1">
@@ -408,6 +432,9 @@
                 <imgdir name="2">
                     <string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
                 </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="你可从训练师或宠物食品商人购买宠物食品，并使用命令来提升与宠物间的亲密度。"/>
+                </imgdir>
             </imgdir>
             <imgdir name="1">
                 <imgdir name="0">
@@ -455,6 +482,9 @@
                 </imgdir>
                 <imgdir name="2">
                     <string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+                </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="你可从训练师或宠物食品商人购买宠物食品，并使用命令来提升与宠物间的亲密度。"/>
                 </imgdir>
             </imgdir>
             <imgdir name="1">
@@ -504,6 +534,9 @@
                 <imgdir name="2">
                     <string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
                 </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="你可从训练师或宠物食品商人购买宠物食品，并使用命令来提升与宠物间的亲密度。"/>
+                </imgdir>
             </imgdir>
             <imgdir name="1">
                 <imgdir name="0">
@@ -525,6 +558,9 @@
             </imgdir>
             <imgdir name="2">
                 <string name="text" value="Visit the Pet Trainer or Pet Food Merchant to buy food for your pet. Then use pet commands to increase intimacy with your pet."/>
+                <imgdir name="0">
+                    <string name="text" value="Tip. 当宠物等级达15级，可让它说出特定的内容 \n #b例) /宠物 [内容]#k"/>
+                </imgdir>
             </imgdir>
         </imgdir>
     </imgdir>
@@ -582,6 +618,9 @@
                 <imgdir name="2">
                     <string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
                 </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="你可从训练师或宠物食品商人购买宠物食品，并使用命令来提升与宠物间的亲密度。"/>
+                </imgdir>
             </imgdir>
             <imgdir name="1">
                 <imgdir name="0">
@@ -600,6 +639,9 @@
             </imgdir>
             <imgdir name="2">
                 <string name="text" value="Visit the Pet Trainer or Pet Food Merchant to buy food for your pet. Then use pet commands to increase intimacy with your pet."/>
+                <imgdir name="0">
+                    <string name="text" value="Tip. 当宠物等级达15级，可让它说出特定的内容 \n #b例) /宠物 [内容]#k"/>
+                </imgdir>
             </imgdir>
         </imgdir>
     </imgdir>
@@ -627,6 +669,9 @@
                 <imgdir name="2">
                     <string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
                 </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="你可从训练师或宠物食品商人购买宠物食品，并使用命令来提升与宠物间的亲密度。"/>
+                </imgdir>
             </imgdir>
             <imgdir name="1">
                 <imgdir name="0">
@@ -641,6 +686,9 @@
                 </imgdir>
                 <imgdir name="3">
                     <string name="text" value="If pet&apos;s level reaches 15, you may order pet to say certain lines by using #b/pet#k command. "/>
+                </imgdir>
+                <imgdir name="4">
+                    <string name="text" value="Tip. 当宠物等级达15级，可让它说出特定的内容 \n #b例) /宠物 [内容]#k"/>
                 </imgdir>
             </imgdir>
             <imgdir name="2">
@@ -672,6 +720,9 @@
                 <imgdir name="2">
                     <string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
                 </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="你可从训练师或宠物食品商人购买宠物食品，并使用命令来提升与宠物间的亲密度。"/>
+                </imgdir>
             </imgdir>
             <imgdir name="1">
                 <imgdir name="0">
@@ -686,6 +737,12 @@
                 </imgdir>
                 <imgdir name="3">
                     <string name="text" value="Pet Level : 21 ~ 30\nkiss|smooch|muah fly cute|adorable"/>
+                </imgdir>
+                <imgdir name="5">
+                    <string name="text" value="Tip. 當寵物等級達15級，可讓牠說出特定的內容 \n #b例) /寵物 [內容]#k"/>
+                </imgdir>
+                <imgdir name="4">
+                    <string name="text" value="寵物等級 : 30\n太可愛 / 真棒"/>
                 </imgdir>
             </imgdir>
             <imgdir name="2">
@@ -721,6 +778,9 @@
                 </imgdir>
                 <imgdir name="2">
                     <string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+                </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="你可从训练师或宠物食品商人购买宠物食品，并使用命令来提升与宠物间的亲密度。"/>
                 </imgdir>
             </imgdir>
             <imgdir name="1">
@@ -822,6 +882,9 @@
                 <imgdir name="2">
                     <string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
                 </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="你可从训练师或宠物食品商人购买宠物食品，并使用命令来提升与宠物间的亲密度。"/>
+                </imgdir>
             </imgdir>
             <imgdir name="1">
                 <imgdir name="0">
@@ -830,6 +893,15 @@
                 </imgdir>
                 <imgdir name="1">
                     <string name="text" value="Pet Level : 1 ~ 30\nsit bad|no|badgirl|badboy\npoop iloveyou\nPet Level : 11 ~ 30\ntalk|chat|say loveme|hugme ignore\nPet Level : 21 ~ 30\nsleep|sleepy|gotobed\nimpressed outofhere\nroll|showmethemoney"/>
+                </imgdir>
+                <imgdir name="4">
+                    <string name="text" value="Tip. 当宠物等级达15级，可让它说出特定的内容 \n #b例) /宠物 [内容]#k"/>
+                </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="宠物等级  : 10 ~ 30\n睡觉，瞌睡吧，该睡了 / 没听到 / 感动了/ 离开\n 给我看看金币 / 滚金币"/>
+                </imgdir>
+                <imgdir name="2">
+                    <string name="text" value="宠物等级  : 10 ~ 30\n说，说话，说吧 / 爱我，拥抱"/>
                 </imgdir>
             </imgdir>
             <imgdir name="2">
@@ -865,6 +937,9 @@
                 </imgdir>
                 <imgdir name="2">
                     <string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+                </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="你可从训练师或宠物食品商人购买宠物食品，并使用命令来提升与宠物间的亲密度。"/>
                 </imgdir>
             </imgdir>
             <imgdir name="1">
@@ -916,6 +991,9 @@
                 <imgdir name="2">
                     <string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
                 </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="到宠物训练师或者宠物食物商人那里喂宠物吃食物，然后使用命令语提高和宠物的亲密度。"/>
+                </imgdir>
             </imgdir>
             <imgdir name="1">
                 <imgdir name="0">
@@ -927,6 +1005,9 @@
                 </imgdir>
                 <imgdir name="2">
                     <string name="text" value="If pet&apos;s level reaches 15, you may order pet to say certain lines by using #b/pet#k command. "/>
+                </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="Tip. 宠物的等级到达15级之后，可以让它说特定的话。\n #b例如) /宠物 [要说的话]#k"/>
                 </imgdir>
             </imgdir>
             <imgdir name="2">
@@ -958,6 +1039,9 @@
                 <imgdir name="2">
                     <string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
                 </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="你可从训练师或宠物食品商人购买宠物食品，并使用命令来提升与宠物间的亲密度。"/>
+                </imgdir>
             </imgdir>
             <imgdir name="1">
                 <imgdir name="0">
@@ -976,6 +1060,9 @@
             </imgdir>
             <imgdir name="2">
                 <string name="text" value="Visit the Pet Trainer or Pet Food Merchant to buy food for your pet. Then use pet commands to increase intimacy with your pet."/>
+                <imgdir name="0">
+                    <string name="text" value="Tip. 当宠物等级达15级，可让它说出特定的内容 \n #b例) /宠物 [内容]#k"/>
+                </imgdir>
             </imgdir>
         </imgdir>
     </imgdir>
@@ -1003,6 +1090,9 @@
                 <imgdir name="2">
                     <string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
                 </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="你可从训练师或宠物食品商人购买宠物食品，并使用命令来提升与宠物间的亲密度。"/>
+                </imgdir>
             </imgdir>
             <imgdir name="1">
                 <imgdir name="0">
@@ -1021,6 +1111,9 @@
             </imgdir>
             <imgdir name="2">
                 <string name="text" value="Visit the Pet Trainer or Pet Food Merchant to buy food for your pet. Then use pet commands to increase intimacy with your pet."/>
+                <imgdir name="0">
+                    <string name="text" value="Tip. 当宠物等级达15级，可让它说出特定的内容 \n #b例) /宠物 [内容]#k"/>
+                </imgdir>
             </imgdir>
         </imgdir>
     </imgdir>
@@ -1048,6 +1141,9 @@
                 <imgdir name="2">
                     <string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
                 </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="你可从训练师或宠物食品商人购买宠物食品，并使用命令来提升与宠物间的亲密度。"/>
+                </imgdir>
             </imgdir>
             <imgdir name="1">
                 <imgdir name="0">
@@ -1066,6 +1162,9 @@
             </imgdir>
             <imgdir name="2">
                 <string name="text" value="Visit the Pet Trainer or Pet Food Merchant to buy food for your pet. Then use pet commands to increase intimacy with your pet."/>
+                <imgdir name="0">
+                    <string name="text" value="Tip. 当宠物等级达15级，可让它说出特定的内容 \n #b例) /宠物 [内容]#k"/>
+                </imgdir>
             </imgdir>
         </imgdir>
     </imgdir>
@@ -1093,6 +1192,9 @@
                 <imgdir name="2">
                     <string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
                 </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="你可从训练师或宠物食品商人购买宠物食品，并使用命令来提升与宠物间的亲密度。"/>
+                </imgdir>
             </imgdir>
             <imgdir name="1">
                 <imgdir name="0">
@@ -1111,6 +1213,16 @@
             </imgdir>
             <imgdir name="2">
                 <string name="text" value="Visit the Pet Trainer or Pet Food Merchant to buy food for your pet. Then use pet commands to increase intimacy with your pet."/>
+                <imgdir name="2">
+                    <string name="text" value="Tip. 当宠物等级达15级，可让它说出特定的内容 \n #b例) /宠物 [内容]#k"/>
+                </imgdir>
+                <imgdir name="1">
+                    <string name="text" value="宠物等级：1 ~ 30\n不给糖就捣蛋\n怪兽撒娇\n滚出去，发出嘘声"/>
+                </imgdir>
+                <imgdir name="0">
+                    <string name="text" value="宠物命令说明书 : 鬼灵精怪篇\n"/>
+                    <string name="align" value="1"/>
+                </imgdir>
             </imgdir>
         </imgdir>
     </imgdir>
@@ -1183,6 +1295,9 @@
                 <imgdir name="2">
                     <string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
                 </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="你可从训练师或宠物食品商人购买宠物食品，并使用命令来提升与宠物间的亲密度。"/>
+                </imgdir>
             </imgdir>
             <imgdir name="1">
                 <imgdir name="0">
@@ -1198,9 +1313,15 @@
                 <imgdir name="3">
                     <string name="text" value="If pet&apos;s level reaches 15, you may order pet to say certain lines by using #b/pet#k command. "/>
                 </imgdir>
+                <imgdir name="4">
+                    <string name="text" value="Tip. 當寵物等級達15級，可讓牠說出特定的內容 \n #b例) /pet [說話]#k"/>
+                </imgdir>
             </imgdir>
             <imgdir name="2">
                 <string name="text" value="Visit the Pet Trainer or Pet Food Merchant to buy food for your pet. Then use pet commands to increase intimacy with your pet."/>
+                <imgdir name="0">
+                    <string name="text" value="Tip. 当宠物等级达15级，可让它说出特定的内容 \n #b例) /宠物 [内容]#k"/>
+                </imgdir>
             </imgdir>
         </imgdir>
     </imgdir>
@@ -1276,6 +1397,9 @@
                 <imgdir name="2">
                     <string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
                 </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="你可从训练师或宠物食品商人购买宠物食品，并使用命令来提升与宠物间的亲密度。"/>
+                </imgdir>
             </imgdir>
             <imgdir name="1">
                 <imgdir name="0">
@@ -1291,9 +1415,52 @@
                 <imgdir name="3">
                     <string name="text" value="If pet&apos;s level reaches 15, you may order pet to say certain lines by using #b/pet#k command. "/>
                 </imgdir>
+                <imgdir name="4">
+                    <string name="text" value="Tip. 當寵物等級達15級，可讓牠說出特定的內容 \n #b例) /寵物 [內容]#k"/>
+                </imgdir>
             </imgdir>
             <imgdir name="2">
                 <string name="text" value="Visit the Pet Trainer or Pet Food Merchant to buy food for your pet. Then use pet commands to increase intimacy with your pet."/>
+                <imgdir name="0">
+                    <string name="text" value="Tip. 15级以上，可让它说出特定的内容 #b例) /宠物 [内容]#k"/>
+                    <string name="align" value="1"/>
+                </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="Tip. 當寵物等級達15級，可讓牠說出特定的內容 \n #b例) /寵物 [內容]#k"/>
+                </imgdir>
+                <imgdir name="2">
+                    <string name="text" value="寵物等級 : 15 ~ 30\n手、伸手 / 愛你 / 說話 /  開始攻擊、攻擊 /  睡、睏、睡覺、晚安"/>
+                </imgdir>
+                <imgdir name="1">
+                    <string name="text" value="寵物等級: 15 ~ 30\n坐下 / 起來、起立 /  笨蛋、討厭、傻瓜 /  不行、住手、不可以"/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="4">
+                <imgdir name="0">
+                    <string name="text" value="宠物命令说明书 : 大猩猩机器人篇\n"/>
+                    <string name="align" value="1"/>
+                </imgdir>
+                <imgdir name="1">
+                    <string name="text" value="宠物等级：15 ~ 30\n坐下\n傻瓜|讨厌|笨蛋\n不行|发火|发怒\n我爱你\n说话\n攻击开始|攻击\n睡吧|困了吧|呼呼|晚安\n变身"/>
+                </imgdir>
+                <imgdir name="2">
+                    <string name="text" value="Tip. 15级以上，可让它说出特定的内容 \n #b例) /宠物 [内容]#k"/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="3">
+                <imgdir name="0">
+                    <string name="text" value="宠物命令说明书 : 机器人篇\n"/>
+                    <string name="align" value="1"/>
+                </imgdir>
+                <imgdir name="1">
+                    <string name="text" value="宠物等级：15 ~ 30\n坐下\n站起|起立\n傻瓜|讨厌|笨蛋\n不行|发火|发怒\n手|伸手\n我爱你\n说话\n攻击开始|攻击\n睡吧|困了吧|呼呼|晚安"/>
+                </imgdir>
+                <imgdir name="2">
+                    <string name="text" value="Tip. 15级以上，可让它说出特定的内容 #b例) /宠物 [内容]#k"/>
+                </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="Tip. 當寵物等級達15級，可讓牠說出特定的內容 \n #b例) /寵物 [內容]#k"/>
+                </imgdir>
             </imgdir>
         </imgdir>
     </imgdir>
@@ -1415,6 +1582,9 @@
                 </imgdir>
                 <imgdir name="2">
                     <string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+                </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="你可从训练师或宠物食品商人购买宠物食品，并使用命令来提升与宠物间的亲密度。"/>
                 </imgdir>
             </imgdir>
             <imgdir name="1">
@@ -1617,6 +1787,7 @@
                 <imgdir name="1">
                     <string name="text" value="\n\n\n\n\n\n\n\n#L1##bReturn to Table of Contents#k#l"/>
                     <string name="align" value="2"/>
+                    <int name="align" value="2"/>
                 </imgdir>
             </imgdir>
             <imgdir name="3">
@@ -1665,6 +1836,10 @@
                     <string name="text" value="\n\n\n#L1##bReturn to Table of Contents#k#l"/>
                     <string name="align" value="2"/>
                 </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="#L1##b回到目錄#k#l"/>
+                    <string name="align" value="2"/>
+                </imgdir>
             </imgdir>
             <imgdir name="8">
                 <imgdir name="0">
@@ -1692,6 +1867,10 @@
                 <imgdir name="1">
                     <string name="text" value="(4)#e Cash Item#n\n  Items that can be purchased in Cash Shop. Primarily for appearance, as well as some visual effects.#rCash Items cost money, and Cash can be charged to purchase these items.#k"/>
                 </imgdir>
+                <imgdir name="2">
+                    <string name="text" value="\n\n\n\n#L1##b回目录#k#l"/>
+                    <int name="align" value="2"/>
+                </imgdir>
             </imgdir>
             <imgdir name="11">
                 <imgdir name="0">
@@ -1702,6 +1881,10 @@
                 </imgdir>
                 <imgdir name="2">
                     <string name="text" value="#bStrength(STR)#k - Essential to carry around heavy armors and weapons. Most important to the warriors, for it directly determines the level of attack the warrior performs."/>
+                </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="\n#L1##b回目录#k#l"/>
+                    <int name="align" value="2"/>
                 </imgdir>
             </imgdir>
             <imgdir name="12">
@@ -1722,6 +1905,10 @@
                 </imgdir>
                 <imgdir name="1">
                     <string name="text" value="(2) #eSP(Skill Point)#n\nThese points are earned after the 1st job advancement, and the points can be allocated towards skills available for the job. Each subsequent level-up will give 3 skill points."/>
+                </imgdir>
+                <imgdir name="2">
+                    <string name="text" value="#L1##b回目录#k#l"/>
+                    <string name="align" value="2"/>
                 </imgdir>
             </imgdir>
             <imgdir name="14">
@@ -1757,6 +1944,7 @@
                     <string name="text" value="(2) #eBowman#n\n#rLevel 10 and over, DEX over 25#k. Once the criteria is met, meet #bAthena Pierce#k at Henesys and learn what it&apos;s like to be the true bowman."/>
                 </imgdir>
                 <imgdir name="2">
+                    <string name="text" value="(3)#e法師#n\n#r等級8級#k以上，便可前往魔法森林去見#b漢斯#k，接受有關法師的指引。"/>
                 </imgdir>
             </imgdir>
             <imgdir name="17">
@@ -1765,6 +1953,9 @@
                 </imgdir>
                 <imgdir name="1">
                     <string name="text" value="(4)#e Magician#n\n#rLevel 8 and over, INT over 20#k. Once the criteria is met, meet #bGrendel the Really Old#k of Ellinia and learn the ins and outs of becoming a true magician."/>
+                </imgdir>
+                <imgdir name="2">
+                    <string name="text" value="(5)#e海盗#n\n#r一旦达到等级10以上，#k就可以在诺特勒斯号的#b凯琳#k处学习海盗之路。"/>
                 </imgdir>
             </imgdir>
             <imgdir name="18">
@@ -3259,6 +3450,9 @@
                 <imgdir name="1">
                     <string name="text" value="You are the one who opened this book, thus you are the one that will be the owner of this skill, and hope you are an archer. But if you do not possess an eye with your innermost feelings, this book can also become the creation of gathering of some waste papers."/>
                 </imgdir>
+                <imgdir name="2">
+                    <string name="text" value="但是弓箭手的最终不在于心窍.有更高的境界.只不过傲慢模糊了你的眼睛,无法让你看清而已."/>
+                </imgdir>
             </imgdir>
             <imgdir name="5">
                 <imgdir name="0">
@@ -3285,6 +3479,16 @@
                 </imgdir>
                 <imgdir name="2">
                     <string name="text" value="Wishing you best of luck... the brave warrior who is walking on the same journey with me..."/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="9">
+                <imgdir name="0">
+                    <string name="text" value="祈祷以后的战斗. 为走着同样道路的你…"/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="8">
+                <imgdir name="0">
+                    <string name="text" value="完全区别于以前的全新的弓术.这个弓术会是弓术的最高境界…在大陆上将无法找到比你更强的弓箭手的."/>
                 </imgdir>
             </imgdir>
         </imgdir>
@@ -3332,6 +3536,9 @@
                 <imgdir name="1">
                     <string name="text" value="You are the one who opened this book, thus you are the one that will be the owner of this skill, and hope you are an archer. But if you do not possess an eye with your innermost feelings, this book can also become the creation of gathering of some waste papers."/>
                 </imgdir>
+                <imgdir name="2">
+                    <string name="text" value="但心灵之眼并不是弓箭手之路的终点…在更高层次的地方，将会展开更高境界的旅程…只不过现在你眼中的高傲，让你无法看出这条道路~"/>
+                </imgdir>
             </imgdir>
             <imgdir name="5">
                 <imgdir name="0">
@@ -3358,6 +3565,16 @@
                 </imgdir>
                 <imgdir name="2">
                     <string name="text" value="Wishing you best of luck... the brave warrior who is walking on the same journey with me..."/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="9">
+                <imgdir name="0">
+                    <string name="text" value="祝你好运…与我…走着同一条道路的勇士… "/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="8">
+                <imgdir name="0">
+                    <string name="text" value="不同于以往的弓箭之术…透过这修炼，你将看到弓箭之术的极致！在这片大陆…相信不会有超越你的弓箭手出现~"/>
                 </imgdir>
             </imgdir>
         </imgdir>
@@ -3405,6 +3622,9 @@
                 <imgdir name="1">
                     <string name="text" value="You are the one who opened this book, thus you are the one that will be the owner of this skill, and hope you are an archer. But if you do not possess an eye with your innermost feelings, this book can also become the creation of gathering of some waste papers."/>
                 </imgdir>
+                <imgdir name="2">
+                    <string name="text" value="但心灵之眼并不是弓箭手之路的终点…在更高层次的地方，将会展开更高境界的旅程…只不过现在你眼中的高傲，让你无法看出这条道路~"/>
+                </imgdir>
             </imgdir>
             <imgdir name="5">
                 <imgdir name="0">
@@ -3431,6 +3651,16 @@
                 </imgdir>
                 <imgdir name="2">
                     <string name="text" value="Wishing you best of luck... the brave warrior who is walking on the same journey with me..."/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="9">
+                <imgdir name="0">
+                    <string name="text" value="祝你好运…与我…走着同一条道路的勇士… "/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="8">
+                <imgdir name="0">
+                    <string name="text" value="不同于以往的弓箭之术…透过这修炼，你将看到弓箭之术的极致！在这片大陆…相信不会有超越你的弓箭手出现~"/>
                 </imgdir>
             </imgdir>
         </imgdir>
@@ -3478,6 +3708,9 @@
                 <imgdir name="1">
                     <string name="text" value="You are the one who opened this book, thus you are the one that will be the owner of this skill, and hope you are an archer. But if you do not possess an eye with your innermost feelings, this book can also become the creation of gathering of some waste papers."/>
                 </imgdir>
+                <imgdir name="2">
+                    <string name="text" value="但心灵之眼并不是弓箭手之路的终点…在更高层次的地方，将会展开更高境界的旅程…只不过现在你眼中的高傲，让你无法看出这条道路~"/>
+                </imgdir>
             </imgdir>
             <imgdir name="5">
                 <imgdir name="0">
@@ -3504,6 +3737,16 @@
                 </imgdir>
                 <imgdir name="2">
                     <string name="text" value="Wishing you best of luck... the brave warrior who is walking on the same journey with me..."/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="9">
+                <imgdir name="0">
+                    <string name="text" value="祝你好运…与我…走着同一条道路的勇士… "/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="8">
+                <imgdir name="0">
+                    <string name="text" value="不同于以往的弓箭之术…透过这修炼，你将看到弓箭之术的极致！在这片大陆…相信不会有超越你的弓箭手出现~"/>
                 </imgdir>
             </imgdir>
         </imgdir>
@@ -3551,6 +3794,9 @@
                 <imgdir name="1">
                     <string name="text" value="You are the one who opened this book, thus you are the one that will be the owner of this skill, and hope you are an archer. But if you do not possess an eye with your innermost feelings, this book can also become the creation of gathering of some waste papers."/>
                 </imgdir>
+                <imgdir name="2">
+                    <string name="text" value="但心灵之眼并不是弓箭手之路的终点…在更高层次的地方，将会展开更高境界的旅程…只不过现在你眼中的高傲，让你无法看出这条道路~"/>
+                </imgdir>
             </imgdir>
             <imgdir name="5">
                 <imgdir name="0">
@@ -3577,6 +3823,16 @@
                 </imgdir>
                 <imgdir name="2">
                     <string name="text" value="Wishing you best of luck... the brave warrior who is walking on the same journey with me..."/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="9">
+                <imgdir name="0">
+                    <string name="text" value="祝你好运…与我…走着同一条道路的勇士… "/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="8">
+                <imgdir name="0">
+                    <string name="text" value="不同于以往的弓箭之术…透过这修炼，你将看到弓箭之术的极致！在这片大陆…相信不会有超越你的弓箭手出现~"/>
                 </imgdir>
             </imgdir>
         </imgdir>
@@ -3624,6 +3880,9 @@
                 <imgdir name="1">
                     <string name="text" value="You are the one who opened this book, thus you are the one that will be the owner of this skill, and hope you are an archer. But if you do not possess an eye with your innermost feelings, this book can also become the creation of gathering of some waste papers."/>
                 </imgdir>
+                <imgdir name="2">
+                    <string name="text" value="但心灵之眼并不是弓箭手之路的终点…在更高层次的地方，将会展开更高境界的旅程…只不过现在你眼中的高傲，让你无法看出这条道路~"/>
+                </imgdir>
             </imgdir>
             <imgdir name="5">
                 <imgdir name="0">
@@ -3650,6 +3909,16 @@
                 </imgdir>
                 <imgdir name="2">
                     <string name="text" value="Wishing you best of luck... the brave warrior who is walking on the same journey with me..."/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="9">
+                <imgdir name="0">
+                    <string name="text" value="祝你好运…与我…走着同一条道路的勇士… "/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="8">
+                <imgdir name="0">
+                    <string name="text" value="不同于以往的弓箭之术…透过这修炼，你将看到弓箭之术的极致！在这片大陆…相信不会有超越你的弓箭手出现~"/>
                 </imgdir>
             </imgdir>
         </imgdir>
@@ -4584,6 +4853,13 @@
             <imgdir name="2">
                 <imgdir name="0">
                     <string name="text" value="If pet&apos;s level reaches 15, you may order pet to say certain lines by using #b/pet#k command. "/>
+                    <string name="align" value="1"/>
+                </imgdir>
+                <imgdir name="2">
+                    <string name="text" value="Tip. 当宠物等级达15级，可让它说出特定的内容 \n #b例) /宠物 [内容]#k"/>
+                </imgdir>
+                <imgdir name="1">
+                    <string name="text" value="宠物等级：1 ~ 30\n不给糖就捣蛋\n怪兽撒娇\n滚出去，发出嘘声"/>
                 </imgdir>
             </imgdir>
         </imgdir>
@@ -4780,6 +5056,9 @@
                 <imgdir name="2">
                     <string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
                 </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升寵物間的親密度。"/>
+                </imgdir>
             </imgdir>
             <imgdir name="1">
                 <imgdir name="0">
@@ -4879,6 +5158,9 @@
                 <imgdir name="2">
                     <string name="text" value="#bTip.#k The higher the quality of the equipment item, the more Monster Crystals you&apos;ll be able to extract! "/>
                 </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="(3)使用促进剂，可以制作出比基本属性更好的物品，但制作失败时材料消失。"/>
+                </imgdir>
             </imgdir>
             <imgdir name="6">
                 <imgdir name="0">
@@ -4918,14 +5200,19 @@
             <int name="cash" value="0"/>
             <int name="slotMax" value="1"/>
             <int name="price" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="notSale" value="1"/>
         </imgdir>
         <imgdir name="book">
             <imgdir name="0">
                 <imgdir name="0">
                     <string name="text" value="#bSanta Encyclopedia Volume 1#k"/>
+                    <int name="align" value="1"/>
                 </imgdir>
                 <imgdir name="1">
                     <string name="text" value="#bCommon Sense of Santa Claus#k"/>
+                    <int name="align" value="1"/>
                 </imgdir>
                 <imgdir name="2">
                     <string name="text" value="\nNo certain information has been revealed until now about Santa Claus. It is just broadly known that Santa Claus who is making his tour around the world with his sledge and reindeers (including Rudolph) will put in gifts in the socks hung by chimney by the kind children."/>
@@ -4943,6 +5230,12 @@
                 <imgdir name="0">
                     <string name="text" value="Following is a page from his dairy about the dream."/>
                 </imgdir>
+                <imgdir name="2">
+                    <string name="text" value="#bTip.#k 일정 확률로 한 단계 높은 몬스터 결정이 나올 수 있습니다.\n#bTip.#k퀘스트 아이템 등 일부 몬스터 전리품은 사용할 수 없습니다."/>
+                </imgdir>
+                <imgdir name="1">
+                    <string name="text" value="(1) 메이커 스킬에서 [몬스터결정]-[몬스터결정]을 선택합니다.\n(2) 인벤토리에서 31레벨 이상 몬스터에게 획득한 전리품 100개 이상을 메이커 스킬창으로 옮깁니다.\n(3) 만들기 버튼을 클릭하면 몬스터 결정이 완성됩니다."/>
+                </imgdir>
             </imgdir>
             <imgdir name="3">
                 <imgdir name="0">
@@ -4952,10 +5245,19 @@
                 <imgdir name="1">
                     <string name="text" value="I had the same dream again today. Like always, it was #b6th of December#k and it looked like somewhere in Turkey. I was hunting in the sky with my flying horse. I hunted with my friends and I think they are some kinds of GOD. I felt as if they are my subordinates because they kept calling me #bOdin#k and me being a GOD leading them."/>
                 </imgdir>
+                <imgdir name="2">
+                    <string name="text" value="#bTip.#k 촉진제나 강화 보석을 추가로 등록하면 옵션이 더 좋은 아이템을 만들수 있습니다."/>
+                </imgdir>
             </imgdir>
             <imgdir name="4">
                 <imgdir name="0">
                     <string name="text" value="Tired from hunting for a long time, we decided to take a rest on the roof of a house. It was weird to see that there were #bboots#k hung by the chimney which were coming out from the roof tops. More surprisingly, there were full of Carrot, Grass and sugar inside the boots as if they knew that we will be taking a rest there. We really appreciated their kind effort and spirit so we have filled the boots with candies and gifts and left for the hunting again."/>
+                </imgdir>
+                <imgdir name="2">
+                    <string name="text" value="#bTip.#k 일정 확률로 중급 또는 상급 강화 보석이 나올 수 있습니다."/>
+                </imgdir>
+                <imgdir name="1">
+                    <string name="text" value="(1) 메이커 스킬에서 [강화보석]에 자신이 만들고 싶은 강화 보석 이름을 클릭합니다.\n(2) 제작에 필요한 보석을 확인합니다. 보석이 부족하면 아이콘이 회색으로 표시가 됩니다.\n(3) 만들기 버튼을 클릭하면 강화 보석이 완성됩니다. "/>
                 </imgdir>
             </imgdir>
             <imgdir name="5">
@@ -4964,6 +5266,23 @@
                 </imgdir>
                 <imgdir name="1">
                     <string name="text" value="BTW, my dream always ends with Director of Sales, Johnson appearing and...(Ellipsis)"/>
+                </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="(3) 촉진제를 사용하면 기본 옵션보다 더 좋은 아이템이 제작되지만 제작에 실패하면 재료가 사라집니다."/>
+                </imgdir>
+                <imgdir name="2">
+                    <string name="text" value="(2) 촉진제를 사용하지 않으면 제작된 아이템의 옵션이 기본 옵션보다 더 좋거나 나쁘게 변할 수 있습니다."/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="6">
+                <imgdir name="0">
+                    <string name="text" value="#e6. ???#n"/>
+                </imgdir>
+                <imgdir name="1">
+                    <string name="text" value="재료와 그에 따라 제작되는 아이템이 알려지지 않은 제작식입니다. 재료의 종류와 수량을 정확히 등록하면 그에 맞는 숨겨진 아이템이 제작되게 됩니다. 제작이 실패해도 재료는 사라지지 않습니다."/>
+                </imgdir>
+                <imgdir name="2">
+                    <string name="text" value="#bTip.#k 촉진제와 강화 보석을 사용할 수 있지만 촉진제 사용시 아이템이 파괴될 확률이 존재합니다."/>
                 </imgdir>
             </imgdir>
         </imgdir>
@@ -5009,6 +5328,9 @@
                 </imgdir>
                 <imgdir name="1">
                     <string name="text" value="However, if the Black Mage is to be resurrected, that will truly be a nightmare no one wants to think about.  Until now, a small group of elite knights have fought against the Black Mage, but the power of the mage is growing stronger."/>
+                </imgdir>
+                <imgdir name="2">
+                    <string name="text" value="但是如果黑魔法师复活，一切就会变成真正的噩梦。一直以来，由少数几个人组成的精锐骑士团正在阻止黑魔法师的复活，但黑魔法师的力量正在变得越来越强。"/>
                 </imgdir>
             </imgdir>
             <imgdir name="2">
@@ -5150,6 +5472,9 @@
                 <imgdir name="2">
                     <string name="text" value="Eckhart is a thief who has been bestowed with the blessing of the spirit of darkness.  It&apos;s hard to see his face because it&apos;s always covered with a thief mask.  Because of his sarcastic remarks, sometimes he and Mihile butt heads but his heart is still very sincere."/>
                 </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="受到闪电精灵祝福的胡克是个愉快的海盗，一直起着调节骑士团的气氛的作用。"/>
+                </imgdir>
             </imgdir>
             <imgdir name="8">
                 <imgdir name="0">
@@ -5202,6 +5527,12 @@
                 </imgdir>
                 <imgdir name="1">
                     <string name="text" value="A Blaze Mage is a mage that is one with the spirit of fire.  They are led by Oz who has been bestowed with the burning power of the spirit of fire.  These mages can use their magic to increase the spirit&apos;s power and freely control it."/>
+                </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="以受到燃尽一切事物的火精灵祝福的奥兹为首的炎术士，是和火精灵一起战斗的魔法师。用魔法增强精灵的力量，并自由地使用。"/>
+                </imgdir>
+                <imgdir name="2">
+                    <string name="text" value="#e#b炎术士是什么？#k#n"/>
                 </imgdir>
             </imgdir>
             <imgdir name="2">
@@ -5262,6 +5593,9 @@
                 <imgdir name="2">
                     <string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
                 </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="\n您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+                </imgdir>
             </imgdir>
             <imgdir name="1">
                 <imgdir name="0">
@@ -5284,6 +5618,9 @@
                 </imgdir>
                 <imgdir name="1">
                     <string name="text" value="Tip: When the pet reaches level 15, you can make it say certain things. \n #bExample) /Pet [something to say]#k"/>
+                </imgdir>
+                <imgdir name="2">
+                    <string name="text" value="Tip. 宠物的等级到达15级之后，可以让它说特定的话。\n #b例如) /宠物 [要说的话]#k"/>
                 </imgdir>
             </imgdir>
         </imgdir>
@@ -5419,6 +5756,9 @@
                 <imgdir name="1">
                     <string name="text" value="(1) #eAP(Ability Point)#n\nPoints that can be assigned to one of these categories: Strength(STR), Dexterity(DEX), Intelligence(INT), Luck(LUK), MaxHP, MaxMP.  Earn 6 points each time you level up. #e#bAuto-Assign#k#n Press this to have the game automaticaly assign AP for you."/>
                 </imgdir>
+                <imgdir name="2">
+                    <string name="text" value="#b力量(STR)#k - 装备沉重的武器或盔甲时需要的数值。是决定魂骑士和奇袭者的攻击力的最重要的能力值。"/>
+                </imgdir>
             </imgdir>
             <imgdir name="12">
                 <imgdir name="0">
@@ -5432,6 +5772,13 @@
                 <imgdir name="0">
                     <string name="text" value="#bIntelligence(INT)#k - The higher this stat, the higher the success ratio of magic attacks. It also increases Max MP and the amount of MP gained at each level up. The most important stat for determining the magic attack strength of Blaze Wizards."/>
                 </imgdir>
+                <imgdir name="2">
+                    <string name="text" value="#L1##b回到目录#k#l"/>
+                    <string name="align" value="2"/>
+                </imgdir>
+                <imgdir name="1">
+                    <string name="text" value="(2) #eSP(Skill Point)#n\n转职后获得的可以学习技能的点数。新手时期无法获得，转职之后立即获得1点。之后每升一级可以获得3点。"/>
+                </imgdir>
             </imgdir>
             <imgdir name="14">
                 <imgdir name="0">
@@ -5439,6 +5786,9 @@
                 </imgdir>
                 <imgdir name="1">
                     <string name="text" value="(2) #eSP(Skill Point)#n\nPoints that can be assigned to skills after the 1st Job Advancement. 1 point is given with the 1st Job Advancement and 3 points are given each time you level up after that. "/>
+                </imgdir>
+                <imgdir name="2">
+                    <string name="text" value="转职之后，可以学习新的技能，并装备该职业相应的武器装备。此外HP和MP会提高一定数值，攻击力和防御力提高，库存空间也会相应提高。"/>
                 </imgdir>
             </imgdir>
             <imgdir name="15">
@@ -5450,6 +5800,9 @@
                 </imgdir>
                 <imgdir name="2">
                     <string name="text" value="Job Advancements allow you to learn new skills and equip new weapons corresponding to your job."/>
+                </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="之后找到负责转职的NPC即可。"/>
                 </imgdir>
             </imgdir>
             <imgdir name="16">
@@ -5494,6 +5847,7 @@
             <imgdir name="19">
                 <imgdir name="0">
                     <string name="text" value="#bTip.#k At the time of your 1st Job Advancement, #byour AP will be redistributed depending on what job you picked.#k After that, it would be smart to put your AP into the stats that enhance your new job."/>
+                    <int name="align" value="2"/>
                 </imgdir>
             </imgdir>
             <imgdir name="20">
@@ -5537,10 +5891,17 @@
                 <imgdir name="1">
                     <string name="text" value="The Legend is a historic figure known to have sealed up the Black Wizard in the past. Unfortunately, due to the curse of the Black Wizard, the Legend ended up losing all his skills and memories, and was sealed up inside a block of ice for centuries until one day when Lilin came to his rescue."/>
                 </imgdir>
+                <imgdir name="2">
+                    <string name="text" value="在里恩醒来后，逐渐开始了解早已沧海桑田的世界，在寒冷的森林和修炼场里进行修炼。完成修炼后，可以通过转职逐渐获得过去强大的能力。"/>
+                </imgdir>
             </imgdir>
             <imgdir name="2">
                 <imgdir name="0">
                     <string name="text" value="After waking up at Rien and experiencing the new world firsthand, you will complete the training both at the Cold Forest and the training center to make the first job advancement. Then, you&apos;ll slowly remember the abilities and skills that once made you a Legend."/>
+                </imgdir>
+                <imgdir name="1">
+                    <string name="text" value="\n\n\n\n\n\n\n\n\n\n#L1##b回到目录#k#l"/>
+                    <int name="align" value="2"/>
                 </imgdir>
             </imgdir>
             <imgdir name="3">
@@ -5563,6 +5924,15 @@
             <imgdir name="5">
                 <imgdir name="0">
                     <string name="text" value="#bTip.#k Register your skill or consumable items on the bottom right hand corner of your screen as HotKeys for easy access."/>
+                </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="#e/所有人#n：切换到普通对话。\n#e/好友#n：切换到好友对话。\n#e/组队#n：切换到组队对话。\n#e/家族#n：切换到家族对话。\n#e/悄悄话 [角色名]#n：发送悄悄话。"/>
+                </imgdir>
+                <imgdir name="2">
+                    <string name="text" value="(1) #e对话#n\n"/>
+                </imgdir>
+                <imgdir name="1">
+                    <string name="text" value="在聊天窗口中输入下列命令语，即可使用相应的功能。"/>
                 </imgdir>
             </imgdir>
             <imgdir name="6">
@@ -5588,6 +5958,10 @@
                 </imgdir>
                 <imgdir name="2">
                     <string name="text" value="#e/find [character name]#n : Displays character&apos;s on/offline status along with the user’s current location.\n#e/trade [character name]#n : Sends a request for an item exchange/trade."/>
+                </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="#L1##b回到目录#k#l"/>
+                    <string name="align" value="2"/>
                 </imgdir>
             </imgdir>
             <imgdir name="8">
@@ -5623,6 +5997,10 @@
                 <imgdir name="1">
                     <string name="text" value="(3)#e Etc. Item#n\n  These include items dropped by monsters, quest items, ores, gems, and others. Etc. items cannot be used directly,"/>
                 </imgdir>
+                <imgdir name="2">
+                    <string name="text" value="\n\n\n\n#L1##b回到目录#k#l"/>
+                    <int name="align" value="2"/>
+                </imgdir>
             </imgdir>
             <imgdir name="11">
                 <imgdir name="0">
@@ -5643,6 +6021,10 @@
                 <imgdir name="1">
                     <string name="text" value="(1) #eAP(Ability Point)#n\nPoints that can be assigned to any of the following categories: Strength (STR), Dexterity (DEX), Intelligence (INT), Luck (LUK), MaxHP, and MaxMP. You’ll receive 5 AP each time you level up. You can press #e#bauto-distribute#k#n to automatically assign the distribution of your AP."/>
                 </imgdir>
+                <imgdir name="2">
+                    <string name="text" value="#L1##b回到目录#k#l"/>
+                    <string name="align" value="2"/>
+                </imgdir>
             </imgdir>
             <imgdir name="13">
                 <imgdir name="0">
@@ -5650,6 +6032,9 @@
                 </imgdir>
                 <imgdir name="1">
                     <string name="text" value="#bDexterity (DEX)#k ? The higher this stat, the higher your Accuracy and Avoidability."/>
+                </imgdir>
+                <imgdir name="2">
+                    <string name="text" value="转职之后，可以学习新的技能，并装备该职业相应的武器装备。此外HP和MP会提高一定数值，攻击力和防御力提高，库存空间也会相应提高。"/>
                 </imgdir>
             </imgdir>
             <imgdir name="14">
@@ -5659,6 +6044,12 @@
                 <imgdir name="1">
                     <string name="text" value="#L1##bReturn to Table of Contents#k#l"/>
                     <string name="align" value="2.000000"/>
+                </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="之后找到利琳，完成1转需要执行的所有任务。"/>
+                </imgdir>
+                <imgdir name="2">
+                    <string name="text" value="只要从严寒森林中出来，从里恩西部地区往右走，就可以到达里恩。"/>
                 </imgdir>
             </imgdir>
             <imgdir name="15">
@@ -5670,6 +6061,7 @@
                 </imgdir>
                 <imgdir name="2">
                     <string name="text" value="Once you make a job advancement, you will not only receive a group of new skills, but also be able to equip weapons that are specifically made for your job."/>
+                    <int name="align" value="2"/>
                 </imgdir>
             </imgdir>
             <imgdir name="16">
@@ -6126,6 +6518,9 @@
                 <imgdir name="2">
                     <string name="text" value="When 90 days have passed and all of the Life Water has dried up, you can revive your pet by obtaining &quot;Life Water&quot; and talking to the fairy in #bMarr&apos;s Forest#k or to the Wisp at the #bEos Tower Entrance#k in Ludibrium."/>
                 </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="\n您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+                </imgdir>
             </imgdir>
             <imgdir name="1">
                 <imgdir name="0">
@@ -6142,6 +6537,156 @@
             <imgdir name="2">
                 <imgdir name="0">
                     <string name="text" value="Tip. When the pet reaches level 15, you can make it talk. \n #bEx.) /pet [What you want the pet to say]#k"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04160038">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="30">
+                <vector name="origin" x="-2" y="30"/>
+            </canvas>
+            <canvas name="iconRaw" width="29" height="29">
+                <vector name="origin" x="-2" y="30"/>
+            </canvas>
+            <int name="cash" value="0"/>
+            <int name="slotMax" value="1"/>
+            <int name="price" value="500"/>
+        </imgdir>
+        <imgdir name="book">
+            <imgdir name="0">
+                <imgdir name="0">
+                    <string name="text" value="关于宠物的说明文"/>
+                    <string name="align" value="1"/>
+                </imgdir>
+                <imgdir name="1">
+                    <string name="text" value="\n90天里，我将在你身边成为你最忠诚又可靠的伙伴喔！"/>
+                </imgdir>
+                <imgdir name="2">
+                    <string name="text" value="\n当过完90天生命水干枯时，你可以通过在#b生命之林#k的#b妖精玛丽#k，\n在#b玩具塔入口#k的#b威舍#k得到#b生命水#k，将重新复活宠物喔！"/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="1">
+                <imgdir name="0">
+                    <string name="text" value="你可从训练师或宠物食品商人购买宠物食品，并使用命令来提升与宠物间的亲密度。"/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="2">
+                <imgdir name="0">
+                    <string name="text" value="宠物命令说明书 : 巨嘴鸟篇\n"/>
+                    <string name="align" value="1"/>
+                </imgdir>
+                <imgdir name="1">
+                    <string name="text" value="宠物等级：1 ~ 30\n坐下\n不行|发火|发怒\n傻瓜|讨厌|笨蛋"/>
+                </imgdir>
+                <imgdir name="2">
+                    <string name="text" value="宠物等级：10 ~ 30\n我爱你,说话, 睡吧|困了吧|呼呼|晚安"/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="3">
+                <imgdir name="0">
+                    <string name="text" value="宠物等级：20 ~ 30\n开始攻击, 吹口哨"/>
+                </imgdir>
+                <imgdir name="1">
+                    <string name="text" value="Tip. 15级以上，可让它说出特定的内容 #b例) /宠物 [内容]#k"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04160021">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="30">
+                <vector name="origin" x="-2" y="30"/>
+            </canvas>
+            <canvas name="iconRaw" width="29" height="29">
+                <vector name="origin" x="-2" y="30"/>
+            </canvas>
+            <int name="cash" value="0"/>
+            <int name="slotMax" value="1"/>
+            <int name="price" value="500"/>
+        </imgdir>
+        <imgdir name="book">
+            <imgdir name="0">
+                <imgdir name="0">
+                    <string name="text" value="关于宠物的说明文"/>
+                    <string name="align" value="1"/>
+                </imgdir>
+                <imgdir name="1">
+                    <string name="text" value="\n90天里，我将在你身边成为你最忠诚又可靠的伙伴喔！"/>
+                </imgdir>
+                <imgdir name="2">
+                    <string name="text" value="\n当过完90天生命水干枯时，你可以通过在#b生命之林#k的#b妖精玛丽#k，\n在#b玩具塔入口#k的#b威舍#k得到#b生命水#k，将重新复活宠物喔！"/>
+                </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="你可从训练师或宠物食品商人购买宠物食品，并使用命令来提升与宠物间的亲密度。"/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="1">
+                <imgdir name="0">
+                    <string name="text" value="宠物命令说明书 : 猪八戒篇\n"/>
+                    <string name="align" value="1"/>
+                </imgdir>
+                <imgdir name="1">
+                    <string name="text" value="宠物等级：1 ~ 30\n坐下/别乱来、住手、不行、不可以/便便\n可爱、漂亮、美丽、美美、漂漂、最棒、最赞、真美\n爱你、喜欢、我的爱"/>
+                </imgdir>
+                <imgdir name="2">
+                    <string name="text" value="宠物等级：10 ~ 30\n说、说吧、你说/睡觉、困、zzz、晚安"/>
+                </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="宠物等级：20 ~ 30\n变身"/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="2">
+                <imgdir name="0">
+                    <string name="text" value="Tip. 当宠物等级达15级，可让它说出特定的内容 \n #b例) /宠物 [内容]#k"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04160018">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="30">
+                <vector name="origin" x="-2" y="30"/>
+            </canvas>
+            <canvas name="iconRaw" width="29" height="29">
+                <vector name="origin" x="-2" y="30"/>
+            </canvas>
+            <int name="cash" value="0"/>
+            <int name="slotMax" value="1"/>
+            <int name="price" value="500"/>
+        </imgdir>
+        <imgdir name="book">
+            <imgdir name="0">
+                <imgdir name="0">
+                    <string name="text" value="關於寵物的說明文"/>
+                    <string name="align" value="1"/>
+                </imgdir>
+                <imgdir name="1">
+                    <string name="text" value="\n在90天內，將會在您的身邊成為您最忠誠又可靠的夥伴喔！"/>
+                </imgdir>
+                <imgdir name="2">
+                    <string name="text" value="當過了90天以後生命水乾枯時，您可利用#b生命水#k透過#b妖精 瑪麗#k或位在&quot;愛奧斯塔入口&quot;的小精靈，將寵物重新復活喔！"/>
+                </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="1">
+                <imgdir name="0">
+                    <string name="text" value="寵物指令說明書：雲豹篇\n"/>
+                    <string name="align" value="1"/>
+                </imgdir>
+                <imgdir name="1">
+                    <string name="text" value="寵物等級：1 ~ 30\n坐\n休息\n站、站起來、起來"/>
+                </imgdir>
+                <imgdir name="2">
+                    <string name="text" value="寵物等級：10 ~ 30\n吃東西、吃吧"/>
+                </imgdir>
+                <imgdir name="3">
+                    <string name="text" value="寵物等級 : 20 ~ 30\n說、說吧、你說\n你很瞎、ORZ\n沒聽到"/>
+                </imgdir>
+                <imgdir name="4">
+                    <string name="text" value="Tip. 當寵物等級達15級，可讓牠說出特定的內容 \n #b例) /寵物 [內容]#k"/>
                 </imgdir>
             </imgdir>
         </imgdir>

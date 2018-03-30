@@ -7,4 +7,8 @@
     <sound name="Bathroom"/>
     <sound name="BattleField"/>
     <sound name="FirstStepMaster"/>
+    <sound name="CastleOutSide"/>
+    <sound name="CastleInside"/>
+    <sound name="CastleBoss"/>
+    <sound name="CastleTrap"/>
 </imgdir>

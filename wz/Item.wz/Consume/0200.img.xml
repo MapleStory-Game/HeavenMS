@@ -9,6 +9,7 @@
                 <vector name="origin" x="-3" y="30"/>
             </canvas>
             <int name="price" value="25"/>
+            <int name="slotMax" value="150"/>
         </imgdir>
         <imgdir name="spec">
             <int name="hp" value="50"/>
@@ -23,6 +24,7 @@
                 <vector name="origin" x="-3" y="30"/>
             </canvas>
             <int name="price" value="80"/>
+            <int name="slotMax" value="150"/>
         </imgdir>
         <imgdir name="spec">
             <int name="hp" value="150"/>
@@ -37,6 +39,7 @@
                 <vector name="origin" x="-3" y="30"/>
             </canvas>
             <int name="price" value="160"/>
+            <int name="slotMax" value="150"/>
         </imgdir>
         <imgdir name="spec">
             <int name="hp" value="300"/>
@@ -51,6 +54,7 @@
                 <vector name="origin" x="-3" y="30"/>
             </canvas>
             <int name="price" value="100"/>
+            <int name="slotMax" value="150"/>
         </imgdir>
         <imgdir name="spec">
             <int name="mp" value="100"/>
@@ -832,6 +836,85 @@
         <imgdir name="spec">
             <int name="speed" value="5"/>
             <int name="time" value="600000"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02002034">
+        <imgdir name="info">
+            <canvas name="icon" width="30" height="26">
+                <vector name="origin" x="-1" y="26"/>
+            </canvas>
+            <canvas name="iconRaw" width="30" height="23">
+                <vector name="origin" x="-1" y="26"/>
+            </canvas>
+            <int name="price" value="2850"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="hp" value="2500"/>
+            <int name="mp" value="2500"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02002033">
+        <imgdir name="info">
+            <canvas name="icon" width="30" height="25">
+                <vector name="origin" x="-1" y="25"/>
+            </canvas>
+            <canvas name="iconRaw" width="30" height="23">
+                <vector name="origin" x="-1" y="25"/>
+            </canvas>
+            <int name="price" value="2550"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="hp" value="1500"/>
+            <int name="mp" value="1500"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02002032">
+        <imgdir name="info">
+            <canvas name="icon" width="30" height="27">
+                <vector name="origin" x="-1" y="27"/>
+            </canvas>
+            <canvas name="iconRaw" width="30" height="25">
+                <vector name="origin" x="-1" y="27"/>
+            </canvas>
+            <int name="price" value="2250"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="hp" value="4000"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02002031">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="27">
+                <vector name="origin" x="-1" y="27"/>
+            </canvas>
+            <canvas name="iconRaw" width="31" height="24">
+                <vector name="origin" x="-1" y="27"/>
+            </canvas>
+            <int name="price" value="1950"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="mp" value="3500"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02002099">
+        <imgdir name="info">
+            <canvas name="icon" width="26" height="28">
+                <vector name="origin" x="-4" y="29"/>
+            </canvas>
+            <canvas name="iconRaw" width="25" height="25">
+                <vector name="origin" x="-4" y="29"/>
+            </canvas>
+            <int name="price" value="1"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="acc" value="15"/>
+            <int name="speed" value="15"/>
+            <int name="eva" value="15"/>
+            <int name="pad" value="15"/>
+            <int name="mad" value="15"/>
+            <int name="pdd" value="15"/>
+            <int name="mdd" value="15"/>
+            <int name="time" value="3600000"/>
         </imgdir>
     </imgdir>
 </imgdir>

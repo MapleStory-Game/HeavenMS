@@ -142,4 +142,8 @@
             <int name="z" value="0"/>
         </canvas>
     </imgdir>
+    <canvas name="18" width="214" height="213">
+        <vector name="origin" x="107" y="106"/>
+        <int name="z" value="0"/>
+    </canvas>
 </imgdir>

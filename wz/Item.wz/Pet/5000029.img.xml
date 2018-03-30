@@ -30,6 +30,11 @@
         <int name="evolReqItemID" value="5380000"/>
         <int name="chatBalloon" value="16"/>
         <int name="nameTag" value="18"/>
+        <int name="sweepForDrop" value="1"/>
+        <int name="pickupItem" value="1"/>
+        <int name="pickupAll" value="1"/>
+        <int name="longRange" value="1"/>
+        <int name="consumeHP" value="1"/>
     </imgdir>
     <imgdir name="interact">
         <imgdir name="0">

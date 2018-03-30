@@ -164,6 +164,16 @@
                     </extended>
                 </canvas>
             </imgdir>
+            <imgdir name="1">
+                <canvas name="0" width="802" height="110">
+                    <vector name="origin" x="401" y="55"/>
+                    <int name="z" value="0"/>
+                    <extended name="foothold">
+                        <vector name="foothold" x="-400" y="-55"/>
+                        <vector name="foothold" x="400" y="-55"/>
+                    </extended>
+                </canvas>
+            </imgdir>
         </imgdir>
     </imgdir>
     <imgdir name="house_info">

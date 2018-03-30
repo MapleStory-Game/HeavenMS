@@ -18,6 +18,7 @@
         <int name="chatBalloon" value="3"/>
         <int name="cash" value="1"/>
         <int name="life" value="90"/>
+        <int name="pickupItem" value="1"/>
     </imgdir>
     <imgdir name="interact">
         <imgdir name="0">

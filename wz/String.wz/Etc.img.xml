@@ -6301,6 +6301,7 @@
         </imgdir>
         <imgdir name="4032372">
             <string name="name" value="巨大的矛图片"/>
+            <string name="desc" value="巨大的矛圖片"/>
         </imgdir>
         <imgdir name="4032373">
             <string name="name" value="雪精灵的毛团"/>
@@ -7951,6 +7952,7 @@
         <imgdir name="4251200">
             <string name="name" value="下等五彩水晶"/>
             <string name="desc" value="用于制作装备的宝石。\n需要等级-1"/>
+            <string name="comment" value="恭喜！你這次占卜到守護幸運星是殘暴炎魔的御守喔！他可以幫你提升攻擊力+30、魔法攻擊力+30。有效時間是兩個小時，希望你好好利用喔！"/>
         </imgdir>
         <imgdir name="4251201">
             <string name="name" value="中等五彩水晶"/>
@@ -10699,6 +10701,7 @@
         </imgdir>
         <imgdir name="4031294">
             <string name="name" value="Dog Food"/>
+            <string name="desc" value="小西施的狗狗飼料。"/>
         </imgdir>
         <imgdir name="4031284">
             <string name="name" value="Golden Egg"/>
@@ -11314,6 +11317,562 @@
         <imgdir name="4162014">
             <string name="name" value="Training Journal"/>
             <string name="desc" value="A training journal that records up to 10 days. "/>
+        </imgdir>
+        <imgdir name="4200074">
+            <string name="name" value="殘暴炎魔的御守"/>
+            <string name="desc" value="殘暴炎魔的御守可以讓你在兩小時的時間內，發揮出攻擊力+30、魔法攻擊力+30的功效。"/>
+        </imgdir>
+        <imgdir name="4180009">
+            <string name="name" value="常用語便條紙10"/>
+            <string name="desc" value="購買後可以雙擊該道具來設定常用語，每個便條紙僅能設定一句常用語(最多15字)，設定好後可以裝在鍵盤上使用。"/>
+        </imgdir>
+        <imgdir name="4180008">
+            <string name="name" value="常用語便條紙9"/>
+            <string name="desc" value="購買後可以雙擊該道具來設定常用語，每個便條紙僅能設定一句常用語(最多15字)，設定好後可以裝在鍵盤上使用。"/>
+        </imgdir>
+        <imgdir name="4180007">
+            <string name="name" value="常用語便條紙8"/>
+            <string name="desc" value="購買後可以雙擊該道具來設定常用語，每個便條紙僅能設定一句常用語(最多15字)，設定好後可以裝在鍵盤上使用。"/>
+        </imgdir>
+        <imgdir name="4180006">
+            <string name="name" value="常用語便條紙7"/>
+            <string name="desc" value="購買後可以雙擊該道具來設定常用語，每個便條紙僅能設定一句常用語(最多15字)，設定好後可以裝在鍵盤上使用。"/>
+        </imgdir>
+        <imgdir name="4180005">
+            <string name="name" value="常用語便條紙6"/>
+            <string name="desc" value="購買後可以雙擊該道具來設定常用語，每個便條紙僅能設定一句常用語(最多15字)，設定好後可以裝在鍵盤上使用。"/>
+        </imgdir>
+        <imgdir name="4180004">
+            <string name="name" value="常用語便條紙5"/>
+            <string name="desc" value="購買後可以雙擊該道具來設定常用語，每個便條紙僅能設定一句常用語(最多15字)，設定好後可以裝在鍵盤上使用。"/>
+        </imgdir>
+        <imgdir name="4180003">
+            <string name="name" value="常用語便條紙4"/>
+            <string name="desc" value="購買後可以雙擊該道具來設定常用語，每個便條紙僅能設定一句常用語(最多15字)，設定好後可以裝在鍵盤上使用。"/>
+        </imgdir>
+        <imgdir name="4180002">
+            <string name="name" value="常用語便條紙3"/>
+            <string name="desc" value="購買後可以雙擊該道具來設定常用語，每個便條紙僅能設定一句常用語(最多15字)，設定好後可以裝在鍵盤上使用。"/>
+        </imgdir>
+        <imgdir name="4180001">
+            <string name="name" value="常用語便條紙2"/>
+            <string name="desc" value="購買後可以雙擊該道具來設定常用語，每個便條紙僅能設定一句常用語(最多15字)，設定好後可以裝在鍵盤上使用。"/>
+        </imgdir>
+        <imgdir name="4180000">
+            <string name="name" value="常用語便條紙1"/>
+            <string name="desc" value="購買後可以雙擊該道具來設定常用語，每個便條紙僅能設定一句常用語(最多15字)，設定好後可以裝在鍵盤上使用。"/>
+        </imgdir>
+        <imgdir name="4160018">
+            <string name="name" value="寵物指令說明書：雲豹篇"/>
+            <string name="desc" value="記載著可對雲豹使用的指令說明書"/>
+        </imgdir>
+        <imgdir name="4053004">
+            <string name="name" value="不夜城護膚中心會員卡"/>
+            <string name="desc" value="在不夜城的皮膚護理店使用， 可將身體更換成所希望的樣子一次。"/>
+        </imgdir>
+        <imgdir name="4052019">
+            <string name="name" value="不夜城整形手術高級會員卡"/>
+            <string name="desc" value="在不夜城的整容院使用，可將臉部更換成所希望的臉部一次。"/>
+        </imgdir>
+        <imgdir name="4052018">
+            <string name="name" value="不夜城整形手術一般會員卡"/>
+            <string name="desc" value="在不夜城的整容院使用，可讓臉部隨機變換一次。"/>
+        </imgdir>
+        <imgdir name="4052009">
+            <string name="name" value="昭和村整形手術高級會員卡"/>
+            <string name="desc" value="在昭和村的整形外科使用，可將臉部更換成所希望的臉部一次。"/>
+        </imgdir>
+        <imgdir name="4052008">
+            <string name="name" value="昭和村整形手術一般會員卡"/>
+            <string name="desc" value="在昭和村的整形外科使用，可讓臉部隨機變換一次。"/>
+        </imgdir>
+        <imgdir name="4051013">
+            <string name="name" value="不夜城染色高級會員卡"/>
+            <string name="desc" value="在不夜城美髮店使用，可將頭髮顏色更換成所希望的顏色一次。"/>
+        </imgdir>
+        <imgdir name="4051012">
+            <string name="name" value="不夜城染色一般會員卡"/>
+            <string name="desc" value="在不夜城美髮店使用，可讓頭髮顏色隨機變換一次。"/>
+        </imgdir>
+        <imgdir name="4051009">
+            <string name="name" value="昭和村染髮高級會員卡"/>
+            <string name="desc" value="在昭和村美髮店使用，可將頭髮顏色更換成所希望的顏色一次。"/>
+        </imgdir>
+        <imgdir name="4051008">
+            <string name="name" value="昭和村染髮一般會員卡"/>
+            <string name="desc" value="在昭和村美髮店使用，可讓頭髮顏色隨機變換一次。"/>
+        </imgdir>
+        <imgdir name="4050017">
+            <string name="name" value="不夜城美髮店高級會員卡"/>
+            <string name="desc" value="在不夜城美髮店使用，可將髮型更換成所希望的樣式一次。"/>
+        </imgdir>
+        <imgdir name="4050016">
+            <string name="name" value="不夜城美髮店一般會員卡"/>
+            <string name="desc" value="在不夜城美髮店使用，可讓髮型隨機變換一次。"/>
+        </imgdir>
+        <imgdir name="4050009">
+            <string name="name" value="昭和村美髮店高級會員卡"/>
+            <string name="desc" value="在昭和村美髮店使用，可將髮型更換成所希望的樣式一次。"/>
+        </imgdir>
+        <imgdir name="4050008">
+            <string name="name" value="昭和村美髮店一般會員卡"/>
+            <string name="desc" value="在昭和村美髮店使用，可讓髮型隨機變換一次。"/>
+        </imgdir>
+        <imgdir name="4032403">
+            <string name="name" value="道謝的證據"/>
+            <string name="desc" value="完成第五階段之後，皮卡啾會掉。要擁有道謝的證據跟在離開地圖的 NPC 可以兌換經驗值跟點數。"/>
+        </imgdir>
+        <imgdir name="4032385">
+            <string name="name" value="迷你禮物盒"/>
+            <string name="desc" value="可以兌換到蛋糕標槍"/>
+        </imgdir>
+        <imgdir name="4032384">
+            <string name="name" value="一片蛋糕"/>
+            <string name="desc" value="可以移動到第四階段。"/>
+        </imgdir>
+        <imgdir name="4032383">
+            <string name="name" value="一片蛋糕"/>
+            <string name="desc" value="可以移動到第三階段。"/>
+        </imgdir>
+        <imgdir name="4032382">
+            <string name="name" value="一片蛋糕"/>
+            <string name="desc" value="可以移動到第二階段。"/>
+        </imgdir>
+        <imgdir name="4032381">
+            <string name="name" value="入場卷"/>
+            <string name="desc" value="找看看在村莊的期期。"/>
+        </imgdir>
+        <imgdir name="4032380">
+            <string name="name" value="邀請卷"/>
+            <string name="desc" value="楓之谷4週年慶邀請卷，拿到邀請卷請去各大村莊尋找NPC-尤莉亞。"/>
+        </imgdir>
+        <imgdir name="4032216">
+            <string name="name" value="粉紅色愛心"/>
+            <string name="desc" value="象徵「愛情真諦」的粉紅色愛心。"/>
+        </imgdir>
+        <imgdir name="4032215">
+            <string name="name" value="粉紅色布料"/>
+            <string name="desc" value="破碎的粉紅色布料，散落在世界各地。"/>
+        </imgdir>
+        <imgdir name="4032065">
+            <string name="name" value="小國旗"/>
+            <string name="desc" value="象徵「青天、白日、滿地紅」的國旗。"/>
+        </imgdir>
+        <imgdir name="4032064">
+            <string name="name" value="小國旗的碎片"/>
+            <string name="desc" value="破碎的國旗碎片，散落在世界各地。"/>
+        </imgdir>
+        <imgdir name="4032054">
+            <string name="name" value="國慶日活動入場券"/>
+            <string name="desc" value=" 可進入國慶日活動地圖內的入場券"/>
+        </imgdir>
+        <imgdir name="4032053">
+            <string name="name" value="金元寶"/>
+            <string name="desc" value="中國古代所使用的貨幣"/>
+        </imgdir>
+        <imgdir name="4032045">
+            <string name="name" value="奇特的黏液"/>
+            <string name="desc" value="從奇特蝸牛身上拿到的黏液。它很黏，讓我覺得不舒服。"/>
+        </imgdir>
+        <imgdir name="4032034">
+            <string name="name" value="蕃茄農場2的入口通行證"/>
+            <string name="desc" value="奇特蕃茄農場的通行證。找班談話，進入蕃茄農場的內部。"/>
+        </imgdir>
+        <imgdir name="4032033">
+            <string name="name" value="蕃茄農場1的入口通行證"/>
+            <string name="desc" value="奇特蕃茄農場的通行證。找班談話，進入蕃茄農場的內部。"/>
+        </imgdir>
+        <imgdir name="4031962">
+            <string name="name" value="妙斯的地圖"/>
+            <string name="desc" value="從妙斯收到的地圖。上面寫有#c&quot;黑色鯊魚可能在四角地帶..若想要了解更多內容，去執行餵食鯊魚任務吧！&quot;"/>
+        </imgdir>
+        <imgdir name="4031961">
+            <string name="name" value="屈原的信件"/>
+            <string name="desc" value="從屈原收到的信件。應該轉交給水世界動物園的妙斯"/>
+        </imgdir>
+        <imgdir name="4031803">
+            <string name="name" value="空啤酒杯"/>
+            <string name="desc" value="沒有啤酒的啤酒杯。"/>
+        </imgdir>
+        <imgdir name="4031749">
+            <string name="name" value="啤酒帳棚門票"/>
+            <string name="desc" value="可讓你進入啤酒帳棚的門票。"/>
+        </imgdir>
+        <imgdir name="4031748">
+            <string name="name" value="麥芽 "/>
+            <string name="desc" value="德國啤酒最重要的成分之一。"/>
+        </imgdir>
+        <imgdir name="4031747">
+            <string name="name" value="小倩的靈魂"/>
+            <string name="desc" value="小倩的靈魂，只要有了這個就能幫助小倩恢復自由。"/>
+        </imgdir>
+        <imgdir name="4031746">
+            <string name="name" value="月餅"/>
+            <string name="desc" value="中秋節時一定要吃的傳統點心。"/>
+        </imgdir>
+        <imgdir name="4031742">
+            <string name="name" value="靈驗的石塊"/>
+            <string name="desc" value="充滿宇宙靈驗力量的石塊"/>
+        </imgdir>
+        <imgdir name="4031730">
+            <string name="name" value="一顆小蕃茄"/>
+            <string name="desc" value="從巨大蕃茄中拿出來的一顆小蕃茄。"/>
+        </imgdir>
+        <imgdir name="4031729">
+            <string name="name" value="一片火腿"/>
+            <string name="desc" value="一片看起來美味的火腿。"/>
+        </imgdir>
+        <imgdir name="4031728">
+            <string name="name" value="老方丈師父的信"/>
+            <string name="desc" value="老方丈的信，裡面充滿著對水上市場村長伊里亞德的思念。"/>
+        </imgdir>
+        <imgdir name="4031726">
+            <string name="name" value="村落里長伊里亞德的信"/>
+            <string name="desc" value="水上市場村落里長 伊里亞德要交給黃金寺廟 老方丈師父的回信。"/>
+        </imgdir>
+        <imgdir name="4031725">
+            <string name="name" value="觀光客的手機"/>
+            <string name="desc" value="泰國觀光客所遺失的紅色摺疊手機。"/>
+        </imgdir>
+        <imgdir name="4031724">
+            <string name="name" value="觀光客的相機"/>
+            <string name="desc" value="泰國觀光客所遺失的X7731機型的相機。"/>
+        </imgdir>
+        <imgdir name="4031723">
+            <string name="name" value="落葉"/>
+            <string name="desc" value="掉落在泰國周圍森林裡的落葉。"/>
+        </imgdir>
+        <imgdir name="4031722">
+            <string name="name" value="太陽火花"/>
+            <string name="desc" value="在極黑暗處也能發出神聖之光的太陽火花。"/>
+        </imgdir>
+        <imgdir name="4031721">
+            <string name="name" value="天上的碎布"/>
+            <string name="desc" value="為了執行神聖的六手邪神封印儀式，所需要的材料之一，天上掉落的碎布。"/>
+        </imgdir>
+        <imgdir name="4031720">
+            <string name="name" value="火鳳凰王冠"/>
+            <string name="desc" value="為了執行神聖的六手邪神封印儀式，所需要的材料之一，火鳳凰的王冠。"/>
+        </imgdir>
+        <imgdir name="4031719">
+            <string name="name" value="沾血的斧頭"/>
+            <string name="desc" value="為了執行神聖的六手邪神封印儀式，所需要的材料之一，沾有鮮血的斧頭。"/>
+        </imgdir>
+        <imgdir name="4031718">
+            <string name="name" value="清涼的檸檬汁"/>
+            <string name="desc" value="沙美製作可以消暑的新鮮檸檬汁"/>
+        </imgdir>
+        <imgdir name="4031717">
+            <string name="name" value="新鮮的檸檬果實"/>
+            <string name="desc" value="非常酸的檸檬果實。 可以當作食物的材料，或做成檸檬汁。"/>
+        </imgdir>
+        <imgdir name="4031656">
+            <string name="name" value="箱子"/>
+            <string name="desc" value="..."/>
+        </imgdir>
+        <imgdir name="4031655">
+            <string name="name" value="保濕眼藥水"/>
+            <string name="desc" value="如果隱形眼鏡帶太久，眼睛變得又乾又澀，就可以來使用保濕眼藥水。"/>
+        </imgdir>
+        <imgdir name="4031654">
+            <string name="name" value="舒服的眼藥水"/>
+            <string name="desc" value="專治眼睛不舒服的眼藥水，點下去之後，眼睛會變得明亮又舒適。"/>
+        </imgdir>
+        <imgdir name="4031653">
+            <string name="name" value="空玻璃瓶"/>
+            <string name="desc" value="用玻璃製成的瓶子，看起來似乎可以裝一些液體的東西"/>
+        </imgdir>
+        <imgdir name="4031651">
+            <string name="name" value="夢幻小禮物"/>
+            <string name="desc" value="在簽唱會上，暴龍要送給歌迷的小禮物，只要可以得到它，就是最幸運的歌迷。"/>
+        </imgdir>
+        <imgdir name="4031650">
+            <string name="name" value="獨衣無二"/>
+            <string name="desc" value="暴龍在簽唱會上穿的衣服，非常的名貴，不管是誰穿上它，都會變得非常有架勢。"/>
+        </imgdir>
+        <imgdir name="4031649">
+            <string name="name" value="3D魔幻音效"/>
+            <string name="desc" value="可以在暴龍簽唱會播放的音效設備，臨場效果聽說非常的好。"/>
+        </imgdir>
+        <imgdir name="4031626">
+            <string name="name" value="小安的信"/>
+            <string name="desc" value="小安所寫的信。信件內容證明，已將禮物費用15萬楓幣支付完畢。"/>
+        </imgdir>
+        <imgdir name="4031609">
+            <string name="name" value="艾斯達的請託信"/>
+            <string name="desc" value="艾斯達請求小安交付禮物的請託信"/>
+        </imgdir>
+        <imgdir name="4031605">
+            <string name="name" value="鬍鬚老張的感謝函"/>
+            <string name="desc" value="鬍鬚老張為了感謝艾斯達送禮物而寫下的信。"/>
+        </imgdir>
+        <imgdir name="4031604">
+            <string name="name" value="周杰輪的感謝函"/>
+            <string name="desc" value="周杰輪為了感謝艾斯達送禮物而寫下的信。"/>
+        </imgdir>
+        <imgdir name="4031603">
+            <string name="name" value="千吉的感謝函"/>
+            <string name="desc" value="千吉為了感謝艾斯達送禮物而寫下的信。"/>
+        </imgdir>
+        <imgdir name="4031602">
+            <string name="name" value="溫斯頓的感謝函"/>
+            <string name="desc" value="溫斯頓為了感謝艾斯達送禮物而寫下的信。"/>
+        </imgdir>
+        <imgdir name="4031601">
+            <string name="name" value="水晶花瓶"/>
+            <string name="desc" value="艾斯達要送給鬍鬚老張的水晶花瓶，紫色玻璃透出光芒真是美！"/>
+        </imgdir>
+        <imgdir name="4031600">
+            <string name="name" value="酷吉手錶"/>
+            <string name="desc" value="艾斯達要送給周杰輪的酷吉手錶，帥氣的錶型讓人一見就愛！"/>
+        </imgdir>
+        <imgdir name="4031599">
+            <string name="name" value="阿麻尼墨鏡"/>
+            <string name="desc" value="艾斯達要送給千吉的阿麻尼墨鏡，紅色邊框真的很時尚。"/>
+        </imgdir>
+        <imgdir name="4031598">
+            <string name="name" value="靈芝禮盒"/>
+            <string name="desc" value="艾斯達要送給溫斯頓的靈芝禮盒，是高山的極品靈芝做成的！"/>
+        </imgdir>
+        <imgdir name="4031494">
+            <string name="name" value="大型菇菇寶貝玩偶"/>
+            <string name="desc" value="收集大量的菇菇寶貝玩偶，再跟夾娃娃機老闆換得的大型菇菇寶貝玩偶"/>
+        </imgdir>
+        <imgdir name="4031493">
+            <string name="name" value="大型企鵝王娃娃"/>
+            <string name="desc" value="收集大量的企鵝王娃娃，再跟夾娃娃機老闆換得的大型企鵝王娃娃"/>
+        </imgdir>
+        <imgdir name="4031492">
+            <string name="name" value="大型雪吉拉娃娃"/>
+            <string name="desc" value="收集大量的雪吉拉娃娃，再跟夾娃娃機老闆換得的大型雪吉拉娃娃"/>
+        </imgdir>
+        <imgdir name="4031491">
+            <string name="name" value="珍珠奶茶"/>
+            <string name="desc" value="粉絲珍珍送給偶像黃綠紅的愛心珍珠奶茶"/>
+        </imgdir>
+        <imgdir name="4031490">
+            <string name="name" value="羽絨大衣"/>
+            <string name="desc" value="粉絲珍珍送給偶像黃綠紅的愛心羽絨大衣"/>
+        </imgdir>
+        <imgdir name="4031394">
+            <string name="name" value="封印鑰匙的碎片"/>
+            <string name="desc" value="可以取消封印的鑰匙的碎片"/>
+        </imgdir>
+        <imgdir name="4031393">
+            <string name="name" value="封印鑰匙的碎片"/>
+            <string name="desc" value="可以取消封印的鑰匙的碎片"/>
+        </imgdir>
+        <imgdir name="4031365">
+            <string name="name" value="楓彩票"/>
+            <string name="desc" value="使用轉蛋機所獲得的彩票。可透過位在墮落城市和玩具城的彩票機，兌換成神祕的禮物。"/>
+        </imgdir>
+        <imgdir name="4031351">
+            <string name="name" value="菇菇印章"/>
+            <string name="desc" value="菇菇印章 是紅色菇菇印章. 據說搜集這個印章的話便會有好事發生 "/>
+        </imgdir>
+        <imgdir name="4031228">
+            <string name="name" value="榖茶"/>
+            <string name="desc" value="藍角怪所喜歡的榖茶。用米發酵而製作的榖茶，會發出酸酸甜甜的味道。"/>
+        </imgdir>
+        <imgdir name="4001439">
+            <string name="name" value="禮物盒子2"/>
+            <string name="desc" value="拿給楓之谷GM,他會給你禮物哦"/>
+        </imgdir>
+        <imgdir name="4001438">
+            <string name="name" value="禮物盒子1"/>
+            <string name="desc" value="拿給楓之谷GM,他會給你禮物哦"/>
+        </imgdir>
+        <imgdir name="4001400">
+            <string name="name" value="美拉的棒棒糖"/>
+            <string name="desc" value="在雪橇活動獲勝就可以獲得一個。只要收集10個或20個之後跟NPC美拉可以拿到禮物。要好好保管哦。"/>
+        </imgdir>
+        <imgdir name="4001392">
+            <string name="name" value="迷你地城鑽石"/>
+            <string name="desc" value="只限在迷你地城出現的鑽石。若拿給尤莉亞，也許可以收到甚麼特別的禮物也說不定！"/>
+        </imgdir>
+        <imgdir name="4001391">
+            <string name="name" value="迷你地城水晶"/>
+            <string name="desc" value="只限在迷你地城出現的水晶。若拿給尤莉亞，也許可以收到甚麼特別的禮物也說不定！"/>
+        </imgdir>
+        <imgdir name="4001389">
+            <string name="name" value="迷你地城入場券碎片4"/>
+            <string name="desc" value="迷你地城免費入場券的第4個碎片！其他三個碎片會在哪裡呢？據說只要將四個碎片蒐集齊全，就可以獲得迷你地城免費入場券！"/>
+        </imgdir>
+        <imgdir name="4001388">
+            <string name="name" value="迷你地城入場券碎片3"/>
+            <string name="desc" value="迷你地城免費入場券的第3個碎片！其他三個碎片會在哪裡呢？據說只要將四個碎片蒐集齊全，就可以獲得迷你地城免費入場券！"/>
+        </imgdir>
+        <imgdir name="4001387">
+            <string name="name" value="迷你地城入場券碎片2"/>
+            <string name="desc" value="迷你地城免費入場券的第2個碎片！其他三個碎片會在哪裡呢？據說只要將四個碎片蒐集齊全，就可以獲得迷你地城免費入場券！"/>
+        </imgdir>
+        <imgdir name="4001386">
+            <string name="name" value="迷你地城入場券碎片1"/>
+            <string name="desc" value="迷你地城免費入場券的第1個碎片！其他三個碎片會在哪裡呢？據說只要將四個碎片蒐集齊全，就可以獲得迷你地城免費入場券！"/>
+        </imgdir>
+        <imgdir name="4001337">
+            <string name="name" value="解夢鑰匙"/>
+            <string name="desc" value="把它拿給美伊德,會幫你解夢.你猜猜是怎麼樣的一個夢呢?"/>
+        </imgdir>
+        <imgdir name="4001319">
+            <string name="name" value="神秘種子"/>
+            <string name="desc" value="聽說尤莉亞正在找神秘種子, 拿到神秘種子請去各大村莊尋找NPC-尤莉亞。"/>
+        </imgdir>
+        <imgdir name="4001196">
+            <string name="name" value="裝滿的水瓶"/>
+            <string name="desc" value="裝了水的瓶子"/>
+        </imgdir>
+        <imgdir name="4001195">
+            <string name="name" value="水瓶"/>
+            <string name="desc" value="一支空瓶子"/>
+        </imgdir>
+        <imgdir name="4001194">
+            <string name="name" value="奇特的小蕃茄"/>
+            <string name="desc" value="從班那兒拿到的奇特小蕃茄。"/>
+        </imgdir>
+        <imgdir name="4000516">
+            <string name="name" value="香爐 "/>
+            <string name="desc" value="收集香爐交給龍山寺師父的話，可以獲得護腕跟閃亮的紙條。"/>
+        </imgdir>
+        <imgdir name="4000427">
+            <string name="name" value="道具兌換券"/>
+            <string name="desc" value="可以兌換道具的兌換券,聽說將於9月11日進行抽籤. 不要丟掉哦! 讓我們稍待片刻"/>
+        </imgdir>
+        <imgdir name="4000392">
+            <string name="name" value="道具兌換券"/>
+            <string name="desc" value="可以兌換道具的兌換券,聽說將於9月11日進行抽籤. 不要丟掉哦! 讓我們稍待片刻"/>
+        </imgdir>
+        <imgdir name="4000390">
+            <string name="name" value="六手邪神分身娃娃"/>
+            <string name="desc" value="賦予魔王六手邪神，擁有邪惡的靈魂與強大力量的分身娃娃。"/>
+        </imgdir>
+        <imgdir name="4000349">
+            <string name="name" value="黃色康乃馨"/>
+            <string name="desc" value="有著淡淡的鮮黃色花瓣，散發著溫馨花香的康乃馨。"/>
+        </imgdir>
+        <imgdir name="4000348">
+            <string name="name" value="粉紅康乃馨"/>
+            <string name="desc" value="有著淡淡的粉紅色花瓣，散發著清新花香的康乃馨。"/>
+        </imgdir>
+        <imgdir name="4000347">
+            <string name="name" value="藍色康乃馨"/>
+            <string name="desc" value="有著淡淡的水藍色花瓣，散發著幸福花香的康乃馨。"/>
+        </imgdir>
+        <imgdir name="4000346">
+            <string name="name" value="天皇蟾蜍的錢包"/>
+            <string name="desc" value="裝滿天皇蟾蜍所有財物的錢包。"/>
+        </imgdir>
+        <imgdir name="4000345">
+            <string name="name" value="天皇的扶手"/>
+            <string name="desc" value="天皇在休閒時使用的扶手。"/>
+        </imgdir>
+        <imgdir name="4000344">
+            <string name="name" value="女忍的袖劍"/>
+            <string name="desc" value="女忍愛用的袖劍。"/>
+        </imgdir>
+        <imgdir name="4000341">
+            <string name="name" value="槍武士的草鞋"/>
+            <string name="desc" value="槍武士放在懷裡溫熱的草鞋。"/>
+        </imgdir>
+        <imgdir name="4000339">
+            <string name="name" value="上忍的大型手裡劍"/>
+            <string name="desc" value="只有上級忍者才能使用的大型手裡劍。"/>
+        </imgdir>
+        <imgdir name="4000338">
+            <string name="name" value="中忍的毒箭"/>
+            <string name="desc" value="中級忍者使用的道具，浸泡過毒液的箭。"/>
+        </imgdir>
+        <imgdir name="4000337">
+            <string name="name" value="下忍的替身"/>
+            <string name="desc" value="作為下忍的替身用的木製人偶。"/>
+        </imgdir>
+        <imgdir name="4000323">
+            <string name="name" value="遺失的樂譜"/>
+            <string name="desc" value="暴龍所遺失的樂譜，上面有著簽唱會上所要演唱的歌曲。"/>
+        </imgdir>
+        <imgdir name="4000322">
+            <string name="name" value="兔兔耳"/>
+            <string name="desc" value="超卡哇伊的兔兔耳朵"/>
+        </imgdir>
+        <imgdir name="4000321">
+            <string name="name" value="羅絲的假髮"/>
+            <string name="desc" value="浪漫波浪長捲假髮"/>
+        </imgdir>
+        <imgdir name="4000320">
+            <string name="name" value="傑克的帽子"/>
+            <string name="desc" value="設計師手工紳士帽"/>
+        </imgdir>
+        <imgdir name="4000319">
+            <string name="name" value="CD盒"/>
+            <string name="desc" value="光碟收納整理盒"/>
+        </imgdir>
+        <imgdir name="4000318">
+            <string name="name" value="連接線"/>
+            <string name="desc" value="音響的連接線"/>
+        </imgdir>
+        <imgdir name="4000317">
+            <string name="name" value="動聽多媒體喇叭"/>
+            <string name="desc" value="音色真實穩定的喇叭"/>
+        </imgdir>
+        <imgdir name="4000316">
+            <string name="name" value="粉紅小香水"/>
+            <string name="desc" value="清甜純真的香氛"/>
+        </imgdir>
+        <imgdir name="4000315">
+            <string name="name" value="黃色小香水"/>
+            <string name="desc" value="充滿初夏的氣息"/>
+        </imgdir>
+        <imgdir name="4000314">
+            <string name="name" value="紫色小香水"/>
+            <string name="desc" value="低調而性感的香氣"/>
+        </imgdir>
+        <imgdir name="4000312">
+            <string name="name" value="石頭鬼怪的紅色內衣"/>
+            <string name="desc" value="力大無窮石頭鬼怪所穿過的紅色內衣。"/>
+        </imgdir>
+        <imgdir name="4000311">
+            <string name="name" value="藍鬼怪的王冠"/>
+            <string name="desc" value="藍鬼怪戴過的厚重王冠。"/>
+        </imgdir>
+        <imgdir name="4000310">
+            <string name="name" value="紅鬼怪的斧頭"/>
+            <string name="desc" value="紅鬼怪常拿著的斧頭，上頭有著奇怪的圖騰。"/>
+        </imgdir>
+        <imgdir name="4000309">
+            <string name="name" value="小猴子娃娃"/>
+            <string name="desc" value="和首領猴子非常相像的娃娃。不知道能拿來做什麼…"/>
+        </imgdir>
+        <imgdir name="4000308">
+            <string name="name" value="小猴子的奶瓶"/>
+            <string name="desc" value="裝著小猴子最喜歡的香蕉牛奶的奶瓶。"/>
+        </imgdir>
+        <imgdir name="4000307">
+            <string name="name" value="香蕉皮"/>
+            <string name="desc" value="踩到會滑倒的香蕉皮。"/>
+        </imgdir>
+        <imgdir name="4000306">
+            <string name="name" value="紅包"/>
+            <string name="desc" value="過年的時候，長輩發給晚輩的壓歲錢，有帶來好運的意味"/>
+        </imgdir>
+        <imgdir name="4000305">
+            <string name="name" value="鮮雞"/>
+            <string name="desc" value="放逐於山上的放山雞，肉質Q有彈性"/>
+        </imgdir>
+        <imgdir name="4000304">
+            <string name="name" value="菜頭"/>
+            <string name="desc" value="高山種的白蘿蔔又名菜頭，取諧音好彩頭"/>
+        </imgdir>
+        <imgdir name="4000303">
+            <string name="name" value="鮮魚"/>
+            <string name="desc" value="深海裡的新鮮鯛魚，有豐富的DHA"/>
+        </imgdir>
+        <imgdir name="4000302">
+            <string name="name" value="髮菜"/>
+            <string name="desc" value="營養成份極高的髮菜，常用來製做年菜"/>
+        </imgdir>
+        <imgdir name="4000203">
+            <string name="name" value="巴洛古指甲"/>
+            <string name="desc" value="巴洛古鋒利的指甲，收藏時要小心被刺到。"/>
         </imgdir>
     </imgdir>
 </imgdir>

@@ -129,6 +129,7 @@
             <imgdir name="1">
                 <canvas name="0" width="43" height="111">
                     <vector name="origin" x="21" y="55"/>
+                    <int name="z" value="0"/>
                 </canvas>
             </imgdir>
             <imgdir name="2">
@@ -1329,53 +1330,53 @@
                 </canvas>
             </imgdir>
             <imgdir name="1">
-                <canvas name="0" width="72" height="71">
+                <canvas name="0" width="66" height="63">
                     <vector name="origin" x="30" y="64"/>
                     <int name="z" value="0"/>
                 </canvas>
-                <canvas name="1" width="71" height="69">
+                <canvas name="1" width="64" height="61">
                     <vector name="origin" x="29" y="63"/>
                     <int name="z" value="0"/>
                 </canvas>
-                <canvas name="2" width="68" height="67">
+                <canvas name="2" width="62" height="59">
                     <vector name="origin" x="28" y="62"/>
                     <int name="z" value="0"/>
                 </canvas>
-                <canvas name="3" width="69" height="68">
+                <canvas name="3" width="67" height="65">
                     <vector name="origin" x="27" y="63"/>
                     <int name="z" value="0"/>
                 </canvas>
-                <canvas name="4" width="69" height="68">
+                <canvas name="4" width="67" height="65">
                     <vector name="origin" x="27" y="63"/>
                     <int name="z" value="0"/>
                 </canvas>
-                <canvas name="5" width="74" height="72">
+                <canvas name="5" width="68" height="65">
                     <vector name="origin" x="31" y="64"/>
                     <int name="z" value="0"/>
                 </canvas>
             </imgdir>
             <imgdir name="2">
-                <canvas name="0" width="152" height="76">
+                <canvas name="0" width="141" height="65">
                     <vector name="origin" x="58" y="71"/>
                     <int name="z" value="0"/>
                 </canvas>
-                <canvas name="1" width="150" height="74">
+                <canvas name="1" width="139" height="63">
                     <vector name="origin" x="57" y="70"/>
                     <int name="z" value="0"/>
                 </canvas>
-                <canvas name="2" width="148" height="72">
+                <canvas name="2" width="137" height="61">
                     <vector name="origin" x="56" y="69"/>
                     <int name="z" value="0"/>
                 </canvas>
-                <canvas name="3" width="148" height="73">
+                <canvas name="3" width="142" height="67">
                     <vector name="origin" x="55" y="70"/>
                     <int name="z" value="0"/>
                 </canvas>
-                <canvas name="4" width="148" height="73">
+                <canvas name="4" width="142" height="67">
                     <vector name="origin" x="55" y="70"/>
                     <int name="z" value="0"/>
                 </canvas>
-                <canvas name="5" width="153" height="77">
+                <canvas name="5" width="143" height="67">
                     <vector name="origin" x="59" y="71"/>
                     <int name="z" value="0"/>
                 </canvas>
@@ -1407,53 +1408,53 @@
                 </canvas>
             </imgdir>
             <imgdir name="4">
-                <canvas name="0" width="68" height="73">
+                <canvas name="0" width="63" height="75">
                     <vector name="origin" x="32" y="81"/>
                     <int name="z" value="0"/>
                 </canvas>
-                <canvas name="1" width="66" height="71">
+                <canvas name="1" width="61" height="73">
                     <vector name="origin" x="31" y="80"/>
                     <int name="z" value="0"/>
                 </canvas>
-                <canvas name="2" width="64" height="69">
+                <canvas name="2" width="58" height="71">
                     <vector name="origin" x="30" y="79"/>
                     <int name="z" value="0"/>
                 </canvas>
-                <canvas name="3" width="70" height="72">
+                <canvas name="3" width="65" height="74">
                     <vector name="origin" x="33" y="80"/>
                     <int name="z" value="0"/>
                 </canvas>
-                <canvas name="4" width="70" height="72">
+                <canvas name="4" width="65" height="74">
                     <vector name="origin" x="33" y="80"/>
                     <int name="z" value="0"/>
                 </canvas>
-                <canvas name="5" width="70" height="75">
+                <canvas name="5" width="64" height="77">
                     <vector name="origin" x="33" y="82"/>
                     <int name="z" value="0"/>
                 </canvas>
             </imgdir>
             <imgdir name="5">
-                <canvas name="0" width="75" height="38">
+                <canvas name="0" width="59" height="39">
                     <vector name="origin" x="33" y="34"/>
                     <int name="z" value="0"/>
                 </canvas>
-                <canvas name="1" width="73" height="37">
+                <canvas name="1" width="57" height="37">
                     <vector name="origin" x="32" y="33"/>
                     <int name="z" value="0"/>
                 </canvas>
-                <canvas name="2" width="73" height="36">
+                <canvas name="2" width="55" height="34">
                     <vector name="origin" x="32" y="33"/>
                     <int name="z" value="0"/>
                 </canvas>
-                <canvas name="3" width="77" height="40">
+                <canvas name="3" width="61" height="41">
                     <vector name="origin" x="34" y="35"/>
                     <int name="z" value="0"/>
                 </canvas>
-                <canvas name="4" width="75" height="39">
+                <canvas name="4" width="61" height="41">
                     <vector name="origin" x="33" y="34"/>
                     <int name="z" value="0"/>
                 </canvas>
-                <canvas name="5" width="75" height="39">
+                <canvas name="5" width="61" height="40">
                     <vector name="origin" x="33" y="34"/>
                     <int name="z" value="0"/>
                 </canvas>

@@ -4,8 +4,8 @@
         <string name="parentMap" value="WorldMap"/>
     </imgdir>
     <imgdir name="BaseImg">
-        <canvas name="0" width="640" height="452">
-            <vector name="origin" x="320" y="226"/>
+        <canvas name="0" width="640" height="470">
+            <vector name="origin" x="320" y="235"/>
             <int name="z" value="0"/>
         </canvas>
     </imgdir>

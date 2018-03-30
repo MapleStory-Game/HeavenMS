@@ -167,7 +167,7 @@
         <imgdir name="22">
             <vector name="spot" x="187" y="-109"/>
             <int name="type" value="1"/>
-            <string name="desc" value="A powerful organism bestowed in darkness is waiting for you."/>
+            <string name="desc" value="强而有力的神秘黑暗生命体正等待着你..."/>
             <imgdir name="mapNo">
                 <int name="0" value="280030000"/>
             </imgdir>

@@ -245,17 +245,12 @@ public class MapleMapFactory {
             }
         }
         try {
-            map.setMapName(MapleDataTool.getString("mapName", nameData.getChildByPath(getMapStringName(omapid)), ""));
-            map.setStreetName(MapleDataTool.getString("streetName", nameData.getChildByPath(getMapStringName(omapid)), ""));
-        } catch (Exception e) {
-            if(omapid / 1000 != 1020) {     // explorer job introducion scenes
-                e.printStackTrace();
-                System.err.println("Not found mapid " + omapid);
-            }
-
-            map.setMapName("");
-            map.setStreetName("");
-        }
+                    map.setMapName(MapleDataTool.getString("mapName", nameData.getChildByPath(getMapStringName(omapid)), ""));
+                    map.setStreetName(MapleDataTool.getString("streetName", nameData.getChildByPath(getMapStringName(omapid)), ""));
+                } catch (Exception e) {
+                    map.setMapName("");
+                    map.setStreetName("");
+                }
 
         map.setClock(mapData.getChildByPath("clock") != null);
         map.setEverlast(infoData.getChildByPath("everlast") != null);
@@ -388,6 +383,8 @@ public class MapleMapFactory {
             builder.append("HalloweenGL");
         } else if (mapid >= 683000000 && mapid < 684000000) {
             builder.append("event");
+        } else if (mapid >= 700000000 && mapid < 800000000) {
+            builder.append("chinese");
         } else if (mapid >= 800000000 && mapid < 900000000) {
             if((mapid >= 889100000 && mapid < 889200000)) {
                 builder.append("etc");

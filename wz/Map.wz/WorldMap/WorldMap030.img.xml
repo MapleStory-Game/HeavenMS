@@ -260,7 +260,7 @@
                 <int name="11" value="220080000"/>
                 <int name="12" value="220080001"/>
             </imgdir>
-            <string name="title" value="Clock Tower Bottom Fl."/>
+            <string name="title" value="时间塔的隐秘场所"/>
         </imgdir>
         <imgdir name="33">
             <vector name="spot" x="-219" y="100"/>
@@ -468,7 +468,7 @@
         <imgdir name="61">
             <vector name="spot" x="-224" y="-108"/>
             <int name="type" value="1"/>
-            <string name="title" value="Eos Tower 100th fl. ~ 101st fl."/>
+            <string name="title" value="玩具塔100层~101层"/>
             <imgdir name="mapNo">
                 <int name="0" value="221024400"/>
                 <int name="1" value="221024500"/>
@@ -476,7 +476,7 @@
         </imgdir>
         <imgdir name="62">
             <vector name="spot" x="-224" y="-76"/>
-            <string name="title" value="Eos Tower 91st fl. ~ 99th fl."/>
+            <string name="title" value="玩具塔90层~91层"/>
             <int name="type" value="1"/>
             <imgdir name="mapNo">
                 <int name="0" value="221024300"/>
@@ -493,7 +493,8 @@
         <imgdir name="63">
             <vector name="spot" x="-223" y="-51"/>
             <int name="type" value="1"/>
-            <string name="title" value="Eos Tower 71st fl. ~ 90th fl."/>
+            <string name="title" value="玩具塔71层~90层"/>
+            <string name="desc" value="迷你战斗地图可支持个体或者组队打猎，这里有通往#c打鼓兔子隐身处#的传送口。"/>
             <imgdir name="mapNo">
                 <int name="0" value="221023400"/>
                 <int name="1" value="221023300"/>
@@ -502,16 +503,15 @@
                 <int name="4" value="221023000"/>
                 <int name="5" value="221022900"/>
             </imgdir>
-            <string name="desc" value="A mini dungeon where you can hunt alone or with your party members. There is a portal that leads to #cDrummer Bunny&apos;s Lair#."/>
-            <canvas name="path" width="80" height="40">
-                <vector name="origin" x="221" y="98"/>
+            <canvas name="path" width="84" height="40">
+                <vector name="origin" x="210" y="97"/>
                 <int name="z" value="2"/>
             </canvas>
         </imgdir>
         <imgdir name="64">
             <vector name="spot" x="-222" y="-27"/>
             <int name="type" value="1"/>
-            <string name="title" value="Eos Tower 56th fl. ~ 70th fl."/>
+            <string name="title" value="玩具塔56层~70层"/>
             <imgdir name="mapNo">
                 <int name="0" value="221022800"/>
                 <int name="1" value="221022700"/>
@@ -524,7 +524,7 @@
         <imgdir name="65">
             <vector name="spot" x="-221" y="4"/>
             <int name="type" value="1"/>
-            <string name="title" value="Eos Tower 41st fl. ~ 55th fl."/>
+            <string name="title" value="玩具塔41层~55层"/>
             <imgdir name="mapNo">
                 <int name="0" value="221022200"/>
                 <int name="1" value="221022100"/>
@@ -537,7 +537,7 @@
         <imgdir name="66">
             <vector name="spot" x="-220" y="29"/>
             <int name="type" value="1"/>
-            <string name="title" value="Eos Tower 21st fl. ~ 40th fl."/>
+            <string name="title" value="玩具塔21层~40层"/>
             <imgdir name="mapNo">
                 <int name="0" value="221021600"/>
                 <int name="1" value="221021500"/>
@@ -550,7 +550,7 @@
         <imgdir name="67">
             <vector name="spot" x="-219" y="71"/>
             <int name="type" value="1"/>
-            <string name="title" value="Eos Tower 1st fl. ~ 20th fl."/>
+            <string name="title" value="玩具塔1层~20层"/>
             <imgdir name="mapNo">
                 <int name="0" value="221021000"/>
                 <int name="1" value="221020900"/>
@@ -606,13 +606,13 @@
     <imgdir name="MapLink">
         <imgdir name="0">
             <imgdir name="link">
-                <canvas name="linkImg" width="147" height="101">
-                    <vector name="origin" x="76" y="-49"/>
+                <canvas name="linkImg" width="117" height="97">
+                    <vector name="origin" x="57" y="-49"/>
                     <int name="z" value="1"/>
                 </canvas>
                 <string name="linkMap" value="WorldMap031"/>
             </imgdir>
-            <string name="toolTip" value="Lowest Floor of Clocktower"/>
+            <string name="toolTip" value="时间塔最底层"/>
         </imgdir>
     </imgdir>
 </imgdir>

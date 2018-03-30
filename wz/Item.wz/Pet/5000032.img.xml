@@ -28,6 +28,12 @@
         <int name="evolNo" value="3"/>
         <int name="evolReqItemID" value="5380000"/>
         <int name="evolReqPetLvl" value="15"/>
+        <int name="sweepForDrop" value="1"/>
+        <int name="pickupItem" value="1"/>
+        <int name="pickupAll" value="1"/>
+        <int name="longRange" value="1"/>
+        <int name="consumeMP" value="1"/>
+        <int name="consumeHP" value="1"/>
     </imgdir>
     <imgdir name="interact">
         <imgdir name="0">

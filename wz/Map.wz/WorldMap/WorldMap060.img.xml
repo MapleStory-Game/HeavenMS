@@ -163,13 +163,13 @@
         </imgdir>
         <imgdir name="21">
             <vector name="spot" x="-177" y="171"/>
-            <string name="title" value="Red-Nose Pirate Den 2"/>
-            <string name="desc" value="A mini dungeon where you can hunt alone or with your party members. There is a portal that leads to the #cPillage of Treasure Island#."/>
             <int name="type" value="1"/>
+            <string name="title" value="红鼻子海盗团老巢2"/>
+            <string name="desc" value="有通往可以尽情享受单人或组队打猎的乐趣的迷你迷宫——#c宝物岛的掠夺#的传送点。"/>
             <imgdir name="mapNo">
                 <int name="0" value="251010402"/>
             </imgdir>
-            <canvas name="path" width="83" height="35">
+            <canvas name="path" width="86" height="35">
                 <vector name="origin" x="180" y="-138"/>
                 <int name="z" value="2"/>
             </canvas>

@@ -94,78 +94,78 @@
     <imgdir name="Name">
         <imgdir name="CharMale">
             <imgdir name="1">
-                <string name="30030" value="Buzz Hair"/>
-                <string name="30020" value="Rebel Hair"/>
-                <string name="30000" value="Toben Hair"/>
+                <string name="30030" value="黑色短光头"/>
+                <string name="30020" value="黑色酷型侧分"/>
+                <string name="30000" value="黑色短中分"/>
             </imgdir>
             <imgdir name="2">
-                <string name="0" value="Black"/>
-                <string name="7" value="Brown"/>
-                <string name="3" value="Blond"/>
-                <string name="2" value="Orange"/>
+                <string name="0" value="黑色"/>
+                <string name="7" value="棕色"/>
+                <string name="3" value="金色"/>
+                <string name="2" value="橙色"/>
             </imgdir>
             <imgdir name="3">
-                <string name="0" value="Light"/>
-                <string name="1" value="Tanned"/>
-                <string name="2" value="Dark"/>
-                <string name="3" value="Pale"/>
+                <string name="0" value="白"/>
+                <string name="1" value="黝黑"/>
+                <string name="2" value="超黑"/>
+                <string name="3" value="浅黑"/>
             </imgdir>
         </imgdir>
         <imgdir name="CharFemale">
             <imgdir name="1">
-                <string name="31000" value="Sammy Hair"/>
-                <string name="31040" value="Edgy Hair"/>
-                <string name="31050" value="Connie Hair"/>
+                <string name="31000" value="黑色羊角辫"/>
+                <string name="31040" value="黑色边分翘发"/>
+                <string name="31050" value="黑色直发"/>
             </imgdir>
             <imgdir name="2">
-                <string name="0" value="Black"/>
-                <string name="7" value="Brown"/>
-                <string name="3" value="Blond"/>
-                <string name="2" value="Orange"/>
+                <string name="0" value="黑色"/>
+                <string name="7" value="棕色"/>
+                <string name="3" value="金色"/>
+                <string name="2" value="橙色"/>
             </imgdir>
             <imgdir name="3">
-                <string name="0" value="Light"/>
-                <string name="1" value="Tanned"/>
-                <string name="2" value="Dark"/>
-                <string name="3" value="Pale"/>
+                <string name="0" value="白"/>
+                <string name="1" value="黝黑"/>
+                <string name="2" value="超黑"/>
+                <string name="3" value="浅黑"/>
             </imgdir>
         </imgdir>
         <imgdir name="PremiumCharMale">
             <imgdir name="1">
-                <string name="30030" value="Buzz Hair"/>
-                <string name="30020" value="Rebel Hair"/>
-                <string name="30000" value="Toben Hair"/>
+                <string name="30030" value="黑色短光头"/>
+                <string name="30020" value="黑色酷型侧分"/>
+                <string name="30000" value="黑色短中分"/>
             </imgdir>
             <imgdir name="2">
-                <string name="0" value="Black"/>
-                <string name="7" value="Brown"/>
-                <string name="3" value="Blond"/>
-                <string name="2" value="Orange"/>
+                <string name="0" value="黑色"/>
+                <string name="7" value="棕色"/>
+                <string name="3" value="金色"/>
+                <string name="2" value="橙色"/>
             </imgdir>
             <imgdir name="3">
-                <string name="0" value="Light"/>
-                <string name="1" value="Tanned"/>
-                <string name="2" value="Dark"/>
-                <string name="3" value="Pale"/>
+                <string name="0" value="白"/>
+                <string name="1" value="黝黑"/>
+                <string name="2" value="深黑"/>
+                <string name="3" value="浅黑"/>
             </imgdir>
         </imgdir>
         <imgdir name="PremiumCharFemale">
             <imgdir name="1">
-                <string name="31000" value="Sammy Hair"/>
-                <string name="31040" value="Edgy Hair"/>
-                <string name="31050" value="Connie Hair"/>
+                <string name="31000" value="黑色羊角辫"/>
+                <string name="31040" value="黑色边分翘发"/>
+                <string name="31050" value="黑色直发"/>
             </imgdir>
             <imgdir name="2">
-                <string name="0" value="Black"/>
-                <string name="7" value="Brown"/>
-                <string name="3" value="Blond"/>
-                <string name="2" value="Orange"/>
+                <string name="0" value="黑色"/>
+                <string name="7" value="棕色"/>
+                <string name="3" value="金色"/>
+                <string name="2" value="橙色"/>
             </imgdir>
             <imgdir name="3">
-                <string name="0" value="Light"/>
-                <string name="1" value="Tanned"/>
-                <string name="2" value="Dark"/>
-                <string name="3" value="Pale"/>
+                <string name="0" value="白"/>
+                <string name="1" value="黝黑"/>
+                <string name="2" value="深黑"/>
+                <string name="3" value="浅黑"/>
             </imgdir>
         </imgdir>
     </imgdir>

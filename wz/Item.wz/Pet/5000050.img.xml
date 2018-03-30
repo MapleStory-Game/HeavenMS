@@ -31,6 +31,12 @@
         <int name="evolReqItemID" value="5380000"/>
         <int name="evolReqPetLvl" value="15"/>
         <int name="autoReact" value="1"/>
+        <int name="sweepForDrop" value="1"/>
+        <int name="pickupItem" value="1"/>
+        <int name="pickupAll" value="1"/>
+        <int name="longRange" value="1"/>
+        <int name="consumeMP" value="1"/>
+        <int name="consumeHP" value="1"/>
     </imgdir>
     <imgdir name="interact">
         <imgdir name="0">
@@ -1700,6 +1706,48 @@
             <int name="delay" value="130"/>
             <vector name="lt" x="-9" y="-81"/>
             <vector name="rb" x="45" y="0"/>
+        </canvas>
+        <canvas name="5_20" width="54" height="81">
+            <vector name="origin" x="9" y="81"/>
+            <int name="z" value="0"/>
+            <int name="delay" value="130"/>
+            <vector name="lt" x="-9" y="-81"/>
+            <vector name="rb" x="45" y="0"/>
+        </canvas>
+        <canvas name="4_19" width="59" height="81">
+            <vector name="origin" x="11" y="81"/>
+            <int name="z" value="0"/>
+            <int name="delay" value="130"/>
+            <vector name="lt" x="-11" y="-81"/>
+            <vector name="rb" x="48" y="0"/>
+        </canvas>
+        <canvas name="3_8" width="54" height="81">
+            <vector name="origin" x="9" y="81"/>
+            <int name="z" value="0"/>
+            <int name="delay" value="130"/>
+            <vector name="lt" x="-9" y="-81"/>
+            <vector name="rb" x="45" y="0"/>
+        </canvas>
+        <canvas name="2_3" width="112" height="98">
+            <vector name="origin" x="40" y="98"/>
+            <int name="z" value="0"/>
+            <int name="delay" value="130"/>
+            <vector name="lt" x="-40" y="-98"/>
+            <vector name="rb" x="72" y="0"/>
+        </canvas>
+        <canvas name="1_2" width="52" height="90">
+            <vector name="origin" x="22" y="85"/>
+            <int name="z" value="0"/>
+            <int name="delay" value="130"/>
+            <vector name="lt" x="-22" y="-85"/>
+            <vector name="rb" x="30" y="5"/>
+        </canvas>
+        <canvas name="0_1" width="62" height="51">
+            <vector name="origin" x="31" y="51"/>
+            <int name="z" value="0"/>
+            <int name="delay" value="130"/>
+            <vector name="lt" x="-31" y="-51"/>
+            <vector name="rb" x="31" y="0"/>
         </canvas>
     </imgdir>
 </imgdir>

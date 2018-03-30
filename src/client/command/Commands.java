@@ -504,10 +504,10 @@ public class Commands {
                         if(player.getCouponDropRate() != 1) showMsg += "Coupon DROP Rate: #k" + player.getCouponDropRate() + "x#k" + "\r\n";
                         showMsg += "掉落: #e#b" + player.getDropRate() + "x#k#n" + "\r\n";
                     
-                        if(ServerConstants.USE_QUEST_RATE) {
+                        /*if(ServerConstants.USE_QUEST_RATE) {
                             showMsg += "\r\n" + "#e任务掉落倍率#n" + "\r\n";
                             showMsg += "服务器: #e#b" + c.getWorldServer().getQuestRate() + "x#k#n" + "\r\n";
-                        }
+                        }*/
                         
                         player.showHint(showMsg, 300);
                     break;
@@ -517,7 +517,7 @@ public class Commands {
                         showMsg_ += "经验倍率: #e#b" + player.getExpRate() + "x#k#n" + "\r\n";
                         showMsg_ += "金币倍率: #e#b" + player.getMesoRate() + "x#k#n" + "\r\n";
                         showMsg_ += "掉落倍率: #e#b" + player.getDropRate() + "x#k#n" + "\r\n";
-                        if(ServerConstants.USE_QUEST_RATE) showMsg_ += "任务掉落倍率: #e#b" + c.getWorldServer().getQuestRate() + "x#k#n" + "\r\n";
+                        //if(ServerConstants.USE_QUEST_RATE) showMsg_ += "任务掉落倍率: #e#b" + c.getWorldServer().getQuestRate() + "x#k#n" + "\r\n";
                         
                         player.showHint(showMsg_, 300);
                     break;

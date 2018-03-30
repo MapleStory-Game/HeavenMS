@@ -31,6 +31,12 @@
         <int name="evolReqItemID" value="5380000"/>
         <int name="evolReqPetLvl" value="15"/>
         <int name="autoReact" value="1"/>
+        <int name="sweepForDrop" value="1"/>
+        <int name="pickupItem" value="1"/>
+        <int name="pickupAll" value="1"/>
+        <int name="longRange" value="1"/>
+        <int name="consumeMP" value="1"/>
+        <int name="consumeHP" value="1"/>
     </imgdir>
     <imgdir name="interact">
         <imgdir name="0">
@@ -630,6 +636,81 @@
                     <string name="1" value="c24_f2"/>
                     <string name="2" value="c24_f3"/>
                     <string name="3" value="c24_f4"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+        <imgdir name="26">
+            <string name="command" value="c27"/>
+            <int name="inc" value="2"/>
+            <int name="prob" value="80"/>
+            <int name="l0" value="30"/>
+            <int name="l1" value="30"/>
+            <imgdir name="success">
+                <imgdir name="0">
+                    <string name="act" value="sleep"/>
+                    <string name="0" value="c27_s1"/>
+                    <string name="1" value="c27_s2"/>
+                    <string name="2" value="c27_s3"/>
+                    <string name="3" value="c27_s4"/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="fail">
+                <imgdir name="0">
+                    <string name="act" value="sit"/>
+                    <string name="0" value="c27_f1"/>
+                    <string name="1" value="c27_f2"/>
+                    <string name="2" value="c27_f3"/>
+                    <string name="3" value="c27_f4"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+        <imgdir name="25">
+            <string name="command" value="c26"/>
+            <int name="inc" value="3"/>
+            <int name="prob" value="65"/>
+            <int name="l0" value="20"/>
+            <int name="l1" value="29"/>
+            <imgdir name="success">
+                <imgdir name="0">
+                    <string name="act" value="sleep"/>
+                    <string name="0" value="c26_s1"/>
+                    <string name="1" value="c26_s2"/>
+                    <string name="2" value="c26_s3"/>
+                    <string name="3" value="c26_s4"/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="fail">
+                <imgdir name="0">
+                    <string name="act" value="stand1"/>
+                    <string name="0" value="c26_f1"/>
+                    <string name="1" value="c26_f2"/>
+                    <string name="2" value="c26_f3"/>
+                    <string name="3" value="c26_f4"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+        <imgdir name="24">
+            <string name="command" value="c25"/>
+            <int name="inc" value="2"/>
+            <int name="prob" value="60"/>
+            <int name="l0" value="15"/>
+            <int name="l1" value="19"/>
+            <imgdir name="success">
+                <imgdir name="0">
+                    <string name="act" value="sleep"/>
+                    <string name="0" value="c25_s1"/>
+                    <string name="1" value="c25_s2"/>
+                    <string name="2" value="c25_s3"/>
+                    <string name="3" value="c25_s4"/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="fail">
+                <imgdir name="0">
+                    <string name="act" value="stand1"/>
+                    <string name="0" value="c25_f1"/>
+                    <string name="1" value="c25_f2"/>
+                    <string name="2" value="c25_f3"/>
+                    <string name="3" value="c25_f4"/>
                 </imgdir>
             </imgdir>
         </imgdir>
@@ -1715,6 +1796,40 @@
             <int name="delay" value="180"/>
         </canvas>
         <canvas name="4" width="122" height="65">
+            <vector name="origin" x="41" y="64"/>
+            <vector name="lt" x="-42" y="-64"/>
+            <vector name="rb" x="80" y="1"/>
+            <int name="delay" value="180"/>
+        </canvas>
+    </imgdir>
+    <imgdir name="attack">
+        <canvas name="0_2" width="54" height="58">
+            <vector name="origin" x="16" y="57"/>
+            <vector name="lt" x="-16" y="-57"/>
+            <vector name="rb" x="31" y="0"/>
+            <int name="delay" value="180"/>
+        </canvas>
+        <canvas name="1_3" width="93" height="63">
+            <vector name="origin" x="29" y="62"/>
+            <vector name="lt" x="-29" y="-62"/>
+            <vector name="rb" x="65" y="0"/>
+            <int name="delay" value="180"/>
+        </canvas>
+        <canvas name="2_4" width="112" height="68">
+            <vector name="origin" x="39" y="67"/>
+            <int name="z" value="0"/>
+            <vector name="lt" x="-39" y="-68"/>
+            <vector name="rb" x="73" y="1"/>
+            <int name="delay" value="180"/>
+        </canvas>
+        <canvas name="3_5" width="124" height="70">
+            <vector name="origin" x="45" y="69"/>
+            <int name="z" value="0"/>
+            <vector name="lt" x="-45" y="-70"/>
+            <vector name="rb" x="78" y="0"/>
+            <int name="delay" value="180"/>
+        </canvas>
+        <canvas name="4_6" width="122" height="65">
             <vector name="origin" x="41" y="64"/>
             <vector name="lt" x="-42" y="-64"/>
             <vector name="rb" x="80" y="1"/>

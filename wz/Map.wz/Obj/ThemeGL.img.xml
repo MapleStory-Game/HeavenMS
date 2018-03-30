@@ -836,6 +836,11 @@
                             <vector name="7" x="236" y="30"/>
                         </extended>
                     </imgdir>
+                    <extended name="foothold">
+                        <vector name="foothold" x="-68" y="107"/>
+                        <vector name="foothold" x="320" y="107"/>
+                        <vector name="foothold" x="320" y="12"/>
+                    </extended>
                 </canvas>
             </imgdir>
         </imgdir>
@@ -1388,6 +1393,26 @@
                 </canvas>
             </imgdir>
         </imgdir>
+        <imgdir name="acc">
+            <imgdir name="0">
+                <canvas name="0" width="20" height="23">
+                    <vector name="origin" x="10" y="11"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="1">
+                <canvas name="0" width="40" height="27">
+                    <vector name="origin" x="20" y="13"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="2">
+                <canvas name="0" width="47" height="26">
+                    <vector name="origin" x="23" y="13"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+        </imgdir>
     </imgdir>
     <imgdir name="Biggerben">
         <imgdir name="Wall">
@@ -1478,6 +1503,12 @@
                             <vector name="2" x="66" y="20"/>
                         </extended>
                     </imgdir>
+                    <extended name="foothold">
+                        <vector name="foothold" x="-68" y="5"/>
+                        <vector name="foothold" x="-68" y="-28"/>
+                        <vector name="foothold" x="66" y="-28"/>
+                        <vector name="foothold" x="66" y="4"/>
+                    </extended>
                 </canvas>
             </imgdir>
             <imgdir name="1">

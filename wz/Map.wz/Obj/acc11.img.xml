@@ -382,6 +382,10 @@
                             <vector name="6" x="-96" y="69"/>
                             <vector name="6" x="39" y="69"/>
                         </extended>
+                        <extended name="7">
+                            <vector name="7" x="-96" y="69"/>
+                            <vector name="7" x="39" y="69"/>
+                        </extended>
                     </imgdir>
                 </canvas>
             </imgdir>

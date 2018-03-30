@@ -30,6 +30,11 @@
             <imgdir name="1">
                 <canvas name="0" width="1" height="1">
                     <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                    <extended name="foothold">
+                        <vector name="foothold" x="-29" y="-16"/>
+                        <vector name="foothold" x="29" y="-16"/>
+                    </extended>
                 </canvas>
             </imgdir>
             <imgdir name="2">
@@ -570,6 +575,13 @@
             <imgdir name="4">
                 <canvas name="0" width="1" height="1">
                     <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                    <extended name="foothold">
+                        <vector name="foothold" x="-184" y="-125"/>
+                        <vector name="foothold" x="-73" y="-177"/>
+                        <vector name="foothold" x="131" y="-177"/>
+                        <vector name="foothold" x="197" y="-141"/>
+                    </extended>
                 </canvas>
             </imgdir>
             <imgdir name="5">
@@ -951,6 +963,7 @@
             <imgdir name="0">
                 <canvas name="0" width="1" height="1">
                     <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
                 </canvas>
             </imgdir>
             <imgdir name="1">
@@ -962,6 +975,8 @@
                         <vector name="foothold" x="22" y="-128"/>
                     </extended>
                 </canvas>
+                <imgdir name="foothold">
+                </imgdir>
             </imgdir>
         </imgdir>
         <imgdir name="sign">
@@ -1042,11 +1057,13 @@
             <imgdir name="8">
                 <canvas name="0" width="1" height="1">
                     <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
                 </canvas>
             </imgdir>
             <imgdir name="9">
                 <canvas name="0" width="1" height="1">
                     <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
                 </canvas>
             </imgdir>
             <imgdir name="10">
@@ -1198,6 +1215,7 @@
             <imgdir name="33">
                 <canvas name="0" width="1" height="1">
                     <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
                 </canvas>
             </imgdir>
             <imgdir name="34">
@@ -1213,11 +1231,13 @@
             <imgdir name="35">
                 <canvas name="0" width="1" height="1">
                     <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
                 </canvas>
             </imgdir>
             <imgdir name="36">
                 <canvas name="0" width="1" height="1">
                     <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
                 </canvas>
             </imgdir>
             <imgdir name="37">
@@ -1229,6 +1249,7 @@
             <imgdir name="38">
                 <canvas name="0" width="1" height="1">
                     <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
                 </canvas>
             </imgdir>
             <imgdir name="39">
@@ -1276,11 +1297,13 @@
             <imgdir name="46">
                 <canvas name="0" width="1" height="1">
                     <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
                 </canvas>
             </imgdir>
             <imgdir name="47">
                 <canvas name="0" width="1" height="1">
                     <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
                 </canvas>
             </imgdir>
             <imgdir name="48">

@@ -13,6 +13,7 @@
             <int name="notSale" value="1"/>
             <int name="tradeBlock" value="1"/>
             <int name="only" value="1"/>
+            <string name="dropBlock" value="1"/>
         </imgdir>
     </imgdir>
     <imgdir name="04210001">
@@ -58,6 +59,7 @@
             <int name="tradeBlock" value="1"/>
             <int name="notSale" value="1"/>
             <int name="only" value="1"/>
+            <string name="dropBlock" value="1"/>
         </imgdir>
     </imgdir>
     <imgdir name="04210004">
@@ -103,6 +105,7 @@
             <int name="tradeBlock" value="1"/>
             <int name="notSale" value="1"/>
             <int name="slotMax" value="1"/>
+            <string name="dropBlock" value="1"/>
         </imgdir>
     </imgdir>
     <imgdir name="04210007">
@@ -148,6 +151,7 @@
             <int name="tradeBlock" value="1"/>
             <int name="notSale" value="1"/>
             <int name="slotMax" value="1"/>
+            <string name="dropBlock" value="1"/>
         </imgdir>
     </imgdir>
     <imgdir name="04210010">

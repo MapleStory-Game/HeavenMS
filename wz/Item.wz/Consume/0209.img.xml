@@ -157,4 +157,18 @@
             <int name="floatType" value="7"/>
         </imgdir>
     </imgdir>
+    <imgdir name="02090012">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="31">
+                <vector name="origin" x="0" y="31"/>
+            </canvas>
+            <canvas name="iconRaw" width="31" height="31">
+                <vector name="origin" x="0" y="31"/>
+            </canvas>
+            <string name="path" value="Map/MapHelper.img/weather/christmasSocks"/>
+            <int name="type" value="2"/>
+            <int name="floatType" value="1"/>
+            <int name="stateChangeItem" value="2022122"/>
+        </imgdir>
+    </imgdir>
 </imgdir>

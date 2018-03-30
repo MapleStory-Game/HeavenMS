@@ -59,6 +59,7 @@
         </canvas>
         <canvas name="14" width="1" height="1">
             <vector name="origin" x="0" y="0"/>
+            <int name="z" value="0"/>
         </canvas>
         <canvas name="15" width="491" height="563">
             <vector name="origin" x="245" y="281"/>
@@ -82,6 +83,7 @@
         </canvas>
         <canvas name="20" width="1" height="1">
             <vector name="origin" x="0" y="0"/>
+            <int name="z" value="0"/>
         </canvas>
     </imgdir>
     <imgdir name="ani">

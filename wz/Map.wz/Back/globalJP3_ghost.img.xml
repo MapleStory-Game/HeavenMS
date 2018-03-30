@@ -35,9 +35,11 @@
         </canvas>
         <canvas name="9" width="1" height="1">
             <vector name="origin" x="0" y="0"/>
+            <int name="z" value="0"/>
         </canvas>
         <canvas name="10" width="1" height="1">
             <vector name="origin" x="0" y="0"/>
+            <int name="z" value="0"/>
         </canvas>
         <canvas name="11" width="397" height="182">
             <vector name="origin" x="198" y="91"/>

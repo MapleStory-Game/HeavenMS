@@ -91,4 +91,8 @@
     <imgdir name="05021026">
         <sound name="Hit"/>
     </imgdir>
+    <imgdir name="05021022">
+        <sound name="Hit"/>
+    </imgdir>
+    <sound name="01102208_0"/>
 </imgdir>

@@ -1979,6 +1979,8 @@
         <canvas name="FreeMarket" width="38" height="38">
         </canvas>
         <canvas name="HappyVillage" width="38" height="38">
+            <int name="z" value="0"/>
+            <vector name="origin" x="19" y="19"/>
         </canvas>
         <canvas name="HuntedMansion" width="38" height="38">
         </canvas>
@@ -2007,6 +2009,8 @@
         <canvas name="Carnival" width="38" height="38">
         </canvas>
         <canvas name="MuruengRaid" width="38" height="38">
+            <int name="z" value="0"/>
+            <vector name="origin" x="19" y="19"/>
         </canvas>
         <canvas name="Goldrich" width="38" height="38">
         </canvas>
@@ -2021,12 +2025,28 @@
         <canvas name="BlackDragon" width="38" height="38">
         </canvas>
         <canvas name="MushCatle" width="38" height="38">
+            <int name="z" value="0"/>
+            <vector name="origin" x="19" y="19"/>
         </canvas>
         <canvas name="GhostShip" width="38" height="38">
         </canvas>
         <canvas name="101Building" width="38" height="38">
         </canvas>
         <canvas name="TokyoK" width="38" height="38">
+        </canvas>
+        <canvas name="YuYuanCN" width="38" height="38">
+        </canvas>
+        <canvas name="shaolinsi" width="39" height="38">
+        </canvas>
+        <canvas name="shaolin_songshan" width="38" height="38">
+        </canvas>
+        <canvas name="ShangHaiCN" width="38" height="38">
+        </canvas>
+        <canvas name="SeoMoonJungTW" width="38" height="38">
+        </canvas>
+        <canvas name="NightMarketTW" width="38" height="38">
+        </canvas>
+        <canvas name="101BuildingTW" width="38" height="38">
         </canvas>
     </imgdir>
     <imgdir name="worldMap">

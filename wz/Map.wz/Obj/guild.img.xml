@@ -3175,6 +3175,14 @@
             <imgdir name="4">
                 <canvas name="0" width="1" height="1">
                     <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                    <extended name="foothold">
+                        <vector name="foothold" x="-72" y="19"/>
+                        <vector name="foothold" x="-72" y="0"/>
+                        <vector name="foothold" x="-43" y="0"/>
+                        <vector name="foothold" x="-43" y="-26"/>
+                        <vector name="foothold" x="-13" y="-26"/>
+                    </extended>
                 </canvas>
             </imgdir>
             <imgdir name="5">

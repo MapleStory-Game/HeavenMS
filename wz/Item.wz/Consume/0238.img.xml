@@ -4972,6 +4972,7 @@
                     <int name="eMap" value="300999999"/>
                 </imgdir>
             </imgdir>
+            <int name="jump" value="2"/>
         </imgdir>
     </imgdir>
     <imgdir name="02383059">
@@ -9375,6 +9376,2808 @@
                     <int name="eMap" value="106029999"/>
                 </imgdir>
             </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02388045">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600025"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="mesoupbyitem" value="1"/>
+            <int name="itemupbyitem" value="1"/>
+            <int name="prob" value="30"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="702000000"/>
+                    <int name="eMap" value="702080000"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02388044">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600009"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="mesoupbyitem" value="1"/>
+            <int name="itemupbyitem" value="1"/>
+            <int name="prob" value="30"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="701010000"/>
+                    <int name="eMap" value="701010600"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02388036">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400121"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="speed" value="6"/>
+            <int name="jump" value="6"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="801040000"/>
+                    <int name="eMap" value="801040101"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02388035">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400014"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="mesoupbyitem" value="1"/>
+            <int name="itemupbyitem" value="1"/>
+            <int name="prob" value="60"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="800000000"/>
+                    <int name="eMap" value="800030000"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02388034">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400205"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="speed" value="1"/>
+            <int name="jump" value="1"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="800000000"/>
+                    <int name="eMap" value="800030000"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02387020">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600026"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="acc" value="2"/>
+            <int name="speed" value="5"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="702000000"/>
+                    <int name="eMap" value="702080000"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02387019">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600024"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="acc" value="2"/>
+            <int name="speed" value="5"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="702000000"/>
+                    <int name="eMap" value="702080000"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02387018">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600023"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="acc" value="2"/>
+            <int name="speed" value="5"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="702000000"/>
+                    <int name="eMap" value="702080000"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02387017">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600022"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="speed" value="5"/>
+            <int name="acc" value="2"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="702000000"/>
+                    <int name="eMap" value="702080000"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02387016">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600021"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="acc" value="2"/>
+            <int name="speed" value="5"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="702000000"/>
+                    <int name="eMap" value="702080000"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02387015">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600020"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="speed" value="5"/>
+            <int name="acc" value="2"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="702000000"/>
+                    <int name="eMap" value="702080000"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02387014">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600019"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="speed" value="5"/>
+            <int name="acc" value="2"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="702000000"/>
+                    <int name="eMap" value="702080000"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02386029">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600018"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="speed" value="5"/>
+            <int name="eva" value="5"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="702000000"/>
+                    <int name="eMap" value="702080000"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02386028">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600017"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="speed" value="5"/>
+            <int name="eva" value="5"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="702000000"/>
+                    <int name="eMap" value="702080000"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02386027">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600016"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="eva" value="5"/>
+            <int name="speed" value="5"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="702000000"/>
+                    <int name="eMap" value="702080000"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02386026">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600015"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="eva" value="5"/>
+            <int name="speed" value="5"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="702000000"/>
+                    <int name="eMap" value="702080000"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02386025">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600014"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="speed" value="5"/>
+            <int name="eva" value="5"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="702000000"/>
+                    <int name="eMap" value="702080000"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02386019">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400120"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="speed" value="5"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="801010000"/>
+                    <int name="eMap" value="801040004"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02386018">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400013"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="speed" value="5"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="800020110"/>
+                    <int name="eMap" value="800020130"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02385027">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600013"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="acc" value="4"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="702000000"/>
+                    <int name="eMap" value="702080000"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02385026">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600012"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="jump" value="4"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="702000000"/>
+                    <int name="eMap" value="702080000"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02384043">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400111"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="speed" value="3"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="801040000"/>
+                    <int name="eMap" value="801040101"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02384042">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400110"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="acc" value="3"/>
+            <int name="eva" value="3"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="801040000"/>
+                    <int name="eMap" value="801040101"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02384041">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400103"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="jump" value="3"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="801040000"/>
+                    <int name="eMap" value="801040101"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02383053">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400102"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="jump" value="2"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="801010000"/>
+                    <int name="eMap" value="801030000"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02383052">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400101"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="acc" value="2"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="801010000"/>
+                    <int name="eMap" value="801030000"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02383051">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400012"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="eva" value="2"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="800020110"/>
+                    <int name="eMap" value="800020130"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02383050">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400003"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="jump" value="2"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="800020200"/>
+                    <int name="eMap" value="800020300"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02382080">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600008"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="jump" value="1"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="701010000"/>
+                    <int name="eMap" value="701010600"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02382079">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600007"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="jump" value="1"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="701010000"/>
+                    <int name="eMap" value="701010600"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02382078">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600006"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="eva" value="1"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="701010000"/>
+                    <int name="eMap" value="701010600"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02382077">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600005"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="eva" value="1"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="701010000"/>
+                    <int name="eMap" value="701010600"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02382075">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400100"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="speed" value="1"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="801010000"/>
+                    <int name="eMap" value="801030000"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02382074">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400011"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="acc" value="1"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="800020110"/>
+                    <int name="eMap" value="800020130"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02382073">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400004"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="speed" value="1"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="800020100"/>
+                    <int name="eMap" value="800020400"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02381073">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600062"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02381072">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600061"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02381071">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600060"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02381070">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600059"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02381069">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600058"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02381068">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600057"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02381067">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600056"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02381066">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600055"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02381065">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600054"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02381064">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600053"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02381063">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600052"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02381062">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600051"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02381061">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600050"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02381060">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600049"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02381059">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600048"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02381058">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600047"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02381057">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600046"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02381056">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600045"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02381055">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600044"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02381054">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600043"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02381053">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600042"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02381052">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600041"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02381051">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600040"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02381050">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600039"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02381049">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600038"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02381048">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600037"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02381047">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600004"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02381046">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600003"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02381045">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600002"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02381044">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9600001"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02381041">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400002"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02381040">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400001"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02381039">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400000"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02388074">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400296"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02388073">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400294"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02388072">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400289"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02388071">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400288"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02388051">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400273"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02388050">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400270"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02388049">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400266"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02388048">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400265"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02388047">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9410035"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="acc" value="6"/>
+            <int name="eva" value="5"/>
+            <int name="speed" value="4"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="742000000"/>
+                    <int name="eMap" value="742010203"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02388038">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400408"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="mesoupbyitem" value="1"/>
+            <int name="prob" value="60"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="800040000"/>
+                    <int name="eMap" value="800040410"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02388037">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400300"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="mesoupbyitem" value="1"/>
+            <int name="itemupbyitem" value="1"/>
+            <int name="prob" value="60"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="801000000"/>
+                    <int name="eMap" value="801040101"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02387032">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400287"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02387026">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400260"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02387025">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="30" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400257"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02387024">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400256"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02387023">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400255"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02387022">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400254"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02387021">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400253"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02387005">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400405"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="respectPimmune" value="1"/>
+            <int name="respectMimmune" value="1"/>
+            <int name="prob" value="20"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="800040000"/>
+                    <int name="eMap" value="800040410"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02386020">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400403"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="eva" value="5"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="800040000"/>
+                    <int name="eMap" value="800040401"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02385031">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9410015"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="acc" value="4"/>
+            <int name="eva" value="4"/>
+            <int name="speed" value="3"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="741000000"/>
+                    <int name="eMap" value="741020102"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02385030">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9410034"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="acc" value="4"/>
+            <int name="jump" value="4"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="742000000"/>
+                    <int name="eMap" value="742010203"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02385029">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9410033"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="acc" value="4"/>
+            <int name="eva" value="4"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="742000000"/>
+                    <int name="eMap" value="742010203"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02385024">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400402"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="speed" value="4"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="800040000"/>
+                    <int name="eMap" value="800040401"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02384050">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9410032"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="acc" value="4"/>
+            <int name="eva" value="3"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="742000000"/>
+                    <int name="eMap" value="742010203"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02384049">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9410029"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="acc" value="3"/>
+            <int name="speed" value="2"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="742000000"/>
+                    <int name="eMap" value="742010203"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02384048">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9410030"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="jump" value="3"/>
+            <int name="speed" value="1"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="742000000"/>
+                    <int name="eMap" value="742010203"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02384047">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9410028"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="acc" value="3"/>
+            <int name="speed" value="1"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="742000000"/>
+                    <int name="eMap" value="742010203"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02384046">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9410025"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="acc" value="3"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="742000000"/>
+                    <int name="eMap" value="742010203"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02384045">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9410023"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="eva" value="3"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="742000000"/>
+                    <int name="eMap" value="742010203"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02384044">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9410027"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="jump" value="3"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="742000000"/>
+                    <int name="eMap" value="742010203"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02383063">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9410013"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="acc" value="3"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="741000000"/>
+                    <int name="eMap" value="741020102"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02383060">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9410004"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="jump" value="2"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="740000000"/>
+                    <int name="eMap" value="740010203"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02383055">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400406"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="itemupbyitem" value="3"/>
+            <int name="itemRange" value="200"/>
+            <int name="prob" value="20"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="800040000"/>
+                    <int name="eMap" value="800040315"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02383054">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400401"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="jump" value="2"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="800040000"/>
+                    <int name="eMap" value="800040315"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02382087">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9410002"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="acc" value="1"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="740000000"/>
+                    <int name="eMap" value="740010203"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02382086">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9410003"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="jump" value="1"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="740000000"/>
+                    <int name="eMap" value="740010400"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02382085">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9410007"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="jump" value="1"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="741000000"/>
+                    <int name="eMap" value="741020102"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02382084">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9410006"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="eva" value="1"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="741000000"/>
+                    <int name="eMap" value="741020102"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02382083">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9410005"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="acc" value="1"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="741000000"/>
+                    <int name="eMap" value="741020102"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02382082">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9410011"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="speed" value="1"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="741000000"/>
+                    <int name="eMap" value="741020102"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02382081">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9410009"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <int name="time" value="1200000"/>
+            <int name="speed" value="1"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="741000000"/>
+                    <int name="eMap" value="741020102"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02381076">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9410001"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="740000000"/>
+                    <int name="eMap" value="740010203"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02381075">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9410039"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="742000101"/>
+                    <int name="eMap" value="742000104"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02381074">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9410000"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+            <imgdir name="con">
+                <imgdir name="0">
+                    <int name="type" value="0"/>
+                    <int name="sMap" value="740000000"/>
+                    <int name="eMap" value="740010203"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02381043">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400404"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02381042">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="38">
+                <vector name="origin" x="0" y="38"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="bigSize" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="only" value="1"/>
+            <int name="monsterBook" value="1"/>
+            <int name="mob" value="9400400"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="consumeOnPickup" value="1"/>
         </imgdir>
     </imgdir>
 </imgdir>

@@ -2840,6 +2840,17 @@
             <imgdir name="5">
                 <canvas name="0" width="1" height="1">
                     <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                    <int name="delay" value="1000"/>
+                    <int name="a1" value="255"/>
+                    <int name="a0" value="0"/>
+                </canvas>
+                <canvas name="1" width="124" height="48">
+                    <vector name="origin" x="62" y="24"/>
+                    <int name="z" value="0"/>
+                    <int name="a0" value="255"/>
+                    <int name="a1" value="0"/>
+                    <int name="delay" value="1000"/>
                 </canvas>
             </imgdir>
             <imgdir name="6">

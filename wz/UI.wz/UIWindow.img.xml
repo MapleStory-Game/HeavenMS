@@ -10126,6 +10126,7 @@
             <canvas name="9400120" width="25" height="25">
                 <int name="delay" value="500"/>
                 <vector name="origin" x="0" y="0"/>
+                <int name="z" value="0"/>
             </canvas>
             <canvas name="9400113" width="25" height="25">
                 <int name="delay" value="500"/>
@@ -10258,6 +10259,57 @@
             <canvas name="8820002" width="25" height="25">
                 <int name="delay" value="500"/>
                 <vector name="origin" x="0" y="0"/>
+            </canvas>
+            <canvas name="9600074" width="25" height="25">
+                <vector name="origin" x="0" y="0"/>
+                <int name="delay" value="500"/>
+            </canvas>
+            <canvas name="9600025" width="25" height="25">
+                <vector name="origin" x="0" y="0"/>
+                <int name="delay" value="500"/>
+            </canvas>
+            <canvas name="9420522" width="25" height="25">
+                <vector name="origin" x="0" y="0"/>
+                <int name="delay" value="500"/>
+            </canvas>
+            <canvas name="9420521" width="25" height="25">
+                <vector name="origin" x="0" y="0"/>
+                <int name="delay" value="500"/>
+            </canvas>
+            <canvas name="9410042" width="25" height="25">
+                <vector name="origin" x="0" y="0"/>
+                <int name="delay" value="500"/>
+            </canvas>
+            <canvas name="9400705" width="25" height="25">
+                <vector name="origin" x="0" y="0"/>
+                <int name="delay" value="500"/>
+            </canvas>
+            <uol name="9400441" value="9400593"/>
+            <uol name="9400440" value="9400592"/>
+            <uol name="9400439" value="9400591"/>
+            <uol name="9400438" value="9400590"/>
+            <uol name="9400437" value="9400589"/>
+            <uol name="9400436" value="9400593"/>
+            <uol name="9400435" value="9400592"/>
+            <uol name="9400434" value="9400591"/>
+            <uol name="9400433" value="9400590"/>
+            <uol name="9400432" value="9400589"/>
+            <uol name="9400423" value="9400593"/>
+            <uol name="9400422" value="9400592"/>
+            <uol name="9400421" value="9400591"/>
+            <uol name="9400420" value="9400590"/>
+            <uol name="9400419" value="9400589"/>
+            <canvas name="9400409" width="25" height="25">
+                <vector name="origin" x="0" y="0"/>
+                <int name="delay" value="500"/>
+            </canvas>
+            <canvas name="9400408" width="25" height="25">
+                <vector name="origin" x="0" y="0"/>
+                <int name="delay" value="500"/>
+            </canvas>
+            <canvas name="9400405" width="25" height="25">
+                <vector name="origin" x="0" y="0"/>
+                <int name="delay" value="500"/>
             </canvas>
         </imgdir>
         <imgdir name="Gage">

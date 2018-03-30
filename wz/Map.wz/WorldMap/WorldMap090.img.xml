@@ -4,8 +4,8 @@
         <string name="parentMap" value="WorldMap"/>
     </imgdir>
     <imgdir name="BaseImg">
-        <canvas name="0" width="640" height="470">
-            <vector name="origin" x="322" y="236"/>
+        <canvas name="0" width="646" height="469">
+            <vector name="origin" x="320" y="235"/>
             <int name="z" value="0"/>
         </canvas>
     </imgdir>
@@ -111,7 +111,7 @@
         <imgdir name="14">
             <vector name="spot" x="250" y="122"/>
             <int name="type" value="1"/>
-            <string name="title" value="Forest of Beginning"/>
+            <string name="title" value="新的启程"/>
             <imgdir name="mapNo">
                 <int name="0" value="130030000"/>
             </imgdir>

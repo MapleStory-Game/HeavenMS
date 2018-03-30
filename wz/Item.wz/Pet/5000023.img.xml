@@ -18,6 +18,7 @@
         <int name="chatBalloon" value="9"/>
         <int name="nameTag" value="11"/>
         <int name="life" value="90"/>
+        <int name="pickupItem" value="1"/>
     </imgdir>
     <imgdir name="interact">
         <imgdir name="0">
@@ -319,6 +320,8 @@
                     <string name="act" value="stand1"/>
                     <string name="0" value="c13_s1"/>
                     <string name="1" value="c13_s2"/>
+                    <string name="3" value="c13_s4"/>
+                    <string name="2" value="c13_s3"/>
                 </imgdir>
             </imgdir>
             <imgdir name="fail">
@@ -326,6 +329,8 @@
                     <string name="act" value="stunned"/>
                     <string name="0" value="c13_f1"/>
                     <string name="1" value="c13_f2"/>
+                    <string name="3" value="c13_f4"/>
+                    <string name="2" value="c13_f3"/>
                 </imgdir>
             </imgdir>
         </imgdir>
@@ -615,6 +620,8 @@
                     <string name="act" value="love"/>
                     <string name="0" value="c25_s1"/>
                     <string name="1" value="c25_s2"/>
+                    <string name="3" value="c25_s4"/>
+                    <string name="2" value="c25_s3"/>
                 </imgdir>
             </imgdir>
             <imgdir name="fail">
@@ -622,6 +629,8 @@
                     <string name="act" value="stand1"/>
                     <string name="0" value="c25_f1"/>
                     <string name="1" value="c25_f2"/>
+                    <string name="3" value="c25_f4"/>
+                    <string name="2" value="c25_f3"/>
                 </imgdir>
             </imgdir>
         </imgdir>
@@ -1216,6 +1225,10 @@
             <vector name="rb" x="13" y="0"/>
             <int name="delay" value="200"/>
         </canvas>
+        <uol name="5" value="1"/>
+        <uol name="4" value="0"/>
+        <uol name="3" value="1"/>
+        <uol name="2" value="0"/>
     </imgdir>
     <imgdir name="cry">
         <canvas name="0" width="34" height="36">
@@ -1285,6 +1298,12 @@
             <vector name="rb" x="11" y="0"/>
             <int name="delay" value="160"/>
         </canvas>
+        <uol name="8" value="1"/>
+        <uol name="7" value="0"/>
+        <uol name="6" value="1"/>
+        <uol name="5" value="0"/>
+        <uol name="4" value="1"/>
+        <uol name="3" value="0"/>
     </imgdir>
     <imgdir name="good">
         <canvas name="0" width="34" height="38">
@@ -1299,6 +1318,12 @@
             <vector name="rb" x="11" y="0"/>
             <int name="delay" value="180"/>
         </canvas>
+        <uol name="7" value="1"/>
+        <uol name="6" value="0"/>
+        <uol name="5" value="1"/>
+        <uol name="4" value="0"/>
+        <uol name="3" value="1"/>
+        <uol name="2" value="0"/>
     </imgdir>
     <imgdir name="love">
         <canvas name="0" width="34" height="44">
@@ -1337,6 +1362,12 @@
             <vector name="rb" x="11" y="0"/>
             <int name="delay" value="120"/>
         </canvas>
+        <uol name="9" value="3"/>
+        <uol name="8" value="2"/>
+        <uol name="7" value="1"/>
+        <uol name="6" value="0"/>
+        <uol name="11" value="5"/>
+        <uol name="10" value="4"/>
     </imgdir>
     <imgdir name="puling">
         <canvas name="0" width="33" height="38">

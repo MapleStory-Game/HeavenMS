@@ -82,7 +82,7 @@
         <imgdir name="9">
             <vector name="spot" x="-102" y="-30"/>
             <int name="type" value="1"/>
-            <string name="title" value="Cold Forest"/>
+            <string name="title" value="寒冷森林"/>
             <imgdir name="mapNo">
                 <int name="0" value="140090000"/>
                 <int name="1" value="140090100"/>

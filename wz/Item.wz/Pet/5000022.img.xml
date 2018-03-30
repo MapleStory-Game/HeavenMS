@@ -16,6 +16,8 @@
         <int name="hungry" value="2"/>
         <int name="cash" value="1"/>
         <int name="life" value="90"/>
+        <int name="pickupItem" value="1"/>
+        <int name="pickupAll" value="1"/>
     </imgdir>
     <imgdir name="interact">
         <imgdir name="0">
@@ -613,6 +615,8 @@
                     <string name="act" value="love"/>
                     <string name="0" value="c25_s1"/>
                     <string name="1" value="c25_s2"/>
+                    <string name="3" value="c25_s4"/>
+                    <string name="2" value="c25_s3"/>
                 </imgdir>
             </imgdir>
             <imgdir name="fail">
@@ -620,6 +624,8 @@
                     <string name="act" value="no"/>
                     <string name="0" value="c25_f1"/>
                     <string name="1" value="c25_f2"/>
+                    <string name="3" value="c25_f4"/>
+                    <string name="2" value="c25_f3"/>
                 </imgdir>
             </imgdir>
         </imgdir>
@@ -1033,6 +1039,10 @@
             <vector name="rb" x="22" y="0"/>
             <int name="delay" value="240"/>
         </canvas>
+        <uol name="5" value="1"/>
+        <uol name="4" value="0"/>
+        <uol name="3" value="1"/>
+        <uol name="2" value="0"/>
     </imgdir>
     <imgdir name="chat">
         <canvas name="0" width="33" height="43">
@@ -1055,6 +1065,12 @@
             <vector name="rb" x="24" y="0"/>
             <int name="delay" value="4000"/>
         </canvas>
+        <uol name="7" value="1"/>
+        <uol name="6" value="0"/>
+        <uol name="5" value="1"/>
+        <uol name="4" value="0"/>
+        <uol name="3" value="1"/>
+        <uol name="2" value="0"/>
     </imgdir>
     <imgdir name="no">
         <canvas name="0" width="46" height="42">
@@ -1100,6 +1116,8 @@
             <vector name="rb" x="28" y="0"/>
             <int name="delay" value="500"/>
         </canvas>
+        <uol name="3" value="1"/>
+        <uol name="2" value="0"/>
     </imgdir>
     <imgdir name="birdeye">
         <canvas name="0" width="38" height="42">
@@ -1122,6 +1140,14 @@
             <vector name="rb" x="21" y="0"/>
             <int name="delay" value="2000"/>
         </canvas>
+        <uol name="9" value="1"/>
+        <uol name="8" value="0"/>
+        <uol name="7" value="1"/>
+        <uol name="6" value="0"/>
+        <uol name="5" value="1"/>
+        <uol name="4" value="0"/>
+        <uol name="3" value="1"/>
+        <uol name="2" value="0"/>
     </imgdir>
     <imgdir name="imhungry">
         <canvas name="0" width="55" height="56">
@@ -1197,22 +1223,32 @@
         <canvas name="0" width="33" height="43">
             <vector name="origin" x="25" y="49"/>
             <int name="delay" value="120"/>
+            <vector name="rb" x="17" y="0"/>
+            <vector name="lt" x="-16" y="-43"/>
         </canvas>
         <canvas name="1" width="33" height="46">
             <vector name="origin" x="25" y="49"/>
             <int name="delay" value="120"/>
+            <vector name="rb" x="17" y="0"/>
+            <vector name="lt" x="-16" y="-43"/>
         </canvas>
         <canvas name="2" width="33" height="47">
             <vector name="origin" x="25" y="49"/>
             <int name="delay" value="120"/>
+            <vector name="rb" x="17" y="-2"/>
+            <vector name="lt" x="-16" y="-49"/>
         </canvas>
         <canvas name="3" width="33" height="45">
             <vector name="origin" x="25" y="49"/>
             <int name="delay" value="120"/>
+            <vector name="rb" x="17" y="-4"/>
+            <vector name="lt" x="-16" y="-49"/>
         </canvas>
         <canvas name="4" width="33" height="45">
             <vector name="origin" x="25" y="49"/>
             <int name="delay" value="120"/>
+            <vector name="rb" x="17" y="-7"/>
+            <vector name="lt" x="-16" y="-52"/>
         </canvas>
         <canvas name="5" width="33" height="45">
             <vector name="origin" x="25" y="49"/>
@@ -1234,24 +1270,41 @@
         <canvas name="14" width="33" height="47">
             <vector name="origin" x="25" y="49"/>
             <int name="delay" value="120"/>
+            <vector name="rb" x="17" y="-2"/>
+            <vector name="lt" x="-16" y="-49"/>
         </canvas>
         <canvas name="15" width="33" height="46">
             <vector name="origin" x="25" y="49"/>
             <int name="delay" value="120"/>
+            <vector name="rb" x="17" y="0"/>
+            <vector name="lt" x="-16" y="-43"/>
         </canvas>
         <canvas name="16" width="33" height="43">
             <vector name="origin" x="25" y="49"/>
             <int name="delay" value="120"/>
+            <vector name="rb" x="17" y="0"/>
+            <vector name="lt" x="-16" y="-43"/>
         </canvas>
+        <canvas name="6" width="33" height="45">
+            <vector name="origin" x="16" y="52"/>
+            <vector name="lt" x="-16" y="-52"/>
+            <vector name="rb" x="17" y="-7"/>
+            <int name="delay" value="120"/>
+        </canvas>
+        <uol name="13" value="5"/>
     </imgdir>
     <imgdir name="thanksgiving">
         <canvas name="0" width="37" height="45">
             <vector name="origin" x="25" y="42"/>
             <int name="delay" value="2000"/>
+            <vector name="rb" x="17" y="2"/>
+            <vector name="lt" x="-20" y="-43"/>
         </canvas>
         <canvas name="1" width="37" height="45">
             <vector name="origin" x="25" y="42"/>
             <int name="delay" value="2000"/>
+            <vector name="rb" x="17" y="0"/>
+            <vector name="lt" x="-20" y="-43"/>
         </canvas>
     </imgdir>
 </imgdir>

@@ -76,7 +76,7 @@
         <imgdir name="5">
             <vector name="spot" x="-47" y="26"/>
             <int name="type" value="2"/>
-            <string name="title" value="Victoria Island Dungeon"/>
+            <string name="title" value="金银岛训练场"/>
             <imgdir name="mapNo">
                 <int name="0" value="105030000"/>
                 <int name="1" value="105040000"/>
@@ -137,9 +137,9 @@
             <imgdir name="mapNo">
                 <int name="0" value="100020000"/>
             </imgdir>
-            <string name="title" value="The Rain-Forest East of Henesys"/>
-            <string name="desc" value="A mini dungeon where you can hunt alone or with your party members. There is a portal that leads to #cHenesys Pig Farm#."/>
-            <canvas name="path" width="80" height="33">
+            <string name="title" value="射手村东部草丛"/>
+            <string name="desc" value="可以独自或和队员们一起尽情打猎的迷你迷宫。有通往#c射手村猪猪农场#的传送口。"/>
+            <canvas name="path" width="84" height="33">
                 <vector name="origin" x="-37" y="-79"/>
                 <int name="z" value="2"/>
             </canvas>
@@ -566,24 +566,24 @@
         </imgdir>
         <imgdir name="66">
             <int name="type" value="1"/>
+            <vector name="spot" x="12" y="31"/>
             <imgdir name="mapNo">
                 <int name="0" value="101010103"/>
             </imgdir>
-            <vector name="spot" x="12" y="31"/>
         </imgdir>
         <imgdir name="67">
             <int name="type" value="1"/>
+            <vector name="spot" x="-139" y="-111"/>
             <imgdir name="mapNo">
                 <int name="0" value="102020100"/>
             </imgdir>
-            <vector name="spot" x="-139" y="-111"/>
         </imgdir>
         <imgdir name="68">
             <int name="type" value="1"/>
+            <vector name="spot" x="-168" y="-117"/>
             <imgdir name="mapNo">
                 <int name="0" value="102020200"/>
             </imgdir>
-            <vector name="spot" x="-168" y="-117"/>
         </imgdir>
         <imgdir name="69">
             <int name="type" value="1"/>
@@ -758,6 +758,26 @@
                 <int name="0" value="101000400"/>
             </imgdir>
         </imgdir>
+        <imgdir name="92">
+            <vector name="spot" x="-238" y="-89"/>
+            <int name="type" value="2"/>
+            <imgdir name="mapNo">
+                <int name="0" value="103040000"/>
+                <int name="1" value="103040100"/>
+                <int name="2" value="103040101"/>
+                <int name="3" value="103040102"/>
+                <int name="4" value="103040103"/>
+                <int name="5" value="103040200"/>
+                <int name="6" value="103040201"/>
+                <int name="7" value="103040202"/>
+                <int name="8" value="103040203"/>
+                <int name="9" value="103040300"/>
+                <int name="10" value="103040301"/>
+                <int name="11" value="103040302"/>
+                <int name="12" value="103040303"/>
+                <int name="13" value="103040400"/>
+            </imgdir>
+        </imgdir>
         <imgdir name="91">
             <vector name="spot" x="-104" y="167"/>
             <int name="type" value="2"/>
@@ -790,37 +810,17 @@
                 <int name="25" value="106021700"/>
             </imgdir>
         </imgdir>
-        <imgdir name="92">
-            <vector name="spot" x="-238" y="-89"/>
-            <int name="type" value="2"/>
-            <imgdir name="mapNo">
-                <int name="0" value="103040000"/>
-                <int name="1" value="103040100"/>
-                <int name="2" value="103040101"/>
-                <int name="3" value="103040102"/>
-                <int name="4" value="103040103"/>
-                <int name="5" value="103040200"/>
-                <int name="6" value="103040201"/>
-                <int name="7" value="103040202"/>
-                <int name="8" value="103040203"/>
-                <int name="9" value="103040300"/>
-                <int name="10" value="103040301"/>
-                <int name="11" value="103040302"/>
-                <int name="12" value="103040303"/>
-                <int name="13" value="103040400"/>
-            </imgdir>
-        </imgdir>
     </imgdir>
     <imgdir name="MapLink">
         <imgdir name="0">
             <imgdir name="link">
-                <canvas name="linkImg" width="150" height="85">
-                    <vector name="origin" x="-58" y="-135"/>
+                <canvas name="linkImg" width="151" height="92">
+                    <vector name="origin" x="-55" y="-129"/>
                     <int name="z" value="1"/>
                 </canvas>
                 <string name="linkMap" value="WorldMap011"/>
             </imgdir>
-            <string name="toolTip" value="Nautilus"/>
+            <string name="toolTip" value="诺特勒斯"/>
         </imgdir>
         <imgdir name="1">
             <imgdir name="link">
@@ -830,7 +830,7 @@
                 </canvas>
                 <string name="linkMap" value="WorldMap012"/>
             </imgdir>
-            <string name="toolTip" value="Sleepywood"/>
+            <string name="toolTip" value="林中之城"/>
         </imgdir>
         <imgdir name="2">
             <imgdir name="link">

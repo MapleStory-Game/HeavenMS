@@ -98,6 +98,7 @@
                 <int name="11" value="5221000"/>
                 <int name="12" value="21121000"/>
             </imgdir>
+            <int name="tradeAvailable" value="1"/>
         </imgdir>
     </imgdir>
     <imgdir name="02280011">
@@ -138,6 +139,7 @@
                 <int name="1" value="1221007"/>
                 <int name="2" value="1321003"/>
             </imgdir>
+            <int name="tradeAvailable" value="1"/>
         </imgdir>
     </imgdir>
     <imgdir name="02280004">
