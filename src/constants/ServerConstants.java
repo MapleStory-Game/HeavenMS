@@ -77,7 +77,7 @@ public class ServerConstants {
     public static final int EXP_RATE = 1;
     public static final int MESO_RATE = 1;
     public static final int DROP_RATE = 1;
-    public static final int QUEST_RATE = 99;                         //Multiplier for Exp & Meso gains when completing a quest. Only available when USE_QUEST_RATE is true. Stacks with server Exp & Meso rates.
+    public static final int QUEST_RATE = 1;                         //任务完成后的金币和经验倍率。
     public static final double EQUIP_EXP_RATE = 1.0;               //Rate for equipment exp gain, grows linearly. Set 1.0 for default (about 100~200 same-level range mobs killed to pass equip from level 1 to 2).
     
     public static final double PARTY_BONUS_EXP_RATE = 1.0;          //Rate for the party exp reward.

@@ -18,19 +18,19 @@ function action(mode, type, selection){
 
 
 	if(status == 0){
-		cm.sendGetText("A suspicious voice pierces through the silence. #bPassword#k!");
+		cm.sendGetText("一个可疑的声音从里面传来. #b暗号（123456）#k!");
 	}
 	else if(status == 1){
-		if(cm.getText() == "Open Sesame"){
+		if(cm.getText() == "123456"){
 			if(cm.isQuestCompleted(3925))
 				cm.warp(260010402);
 			else
-                                cm.playerMessage(5, "Although you said the right answer, the door will not budge.");
+                                cm.playerMessage(5, "虽然你说对了，但是门还是一动不动。");
 
 			cm.dispose();
 		}
 		else{
-			cm.sendOk("#rWrong!");
+			cm.sendOk("#r错误!");
 		}
 	}
 	else if(status == 2){
