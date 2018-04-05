@@ -2284,14 +2284,6 @@
             <int name="f" value="0"/>
             <string name="name" value="삼각대"/>
         </imgdir>
-        <imgdir name="1">
-            <string name="id" value="2092001"/>
-            <int name="x" value="-375"/>
-            <int name="y" value="-150"/>
-            <int name="reactorTime" value="3600"/>
-            <int name="f" value="0"/>
-            <string name="name" value="삼각대"/>
-        </imgdir>
     </imgdir>
     <imgdir name="foothold">
         <imgdir name="1">

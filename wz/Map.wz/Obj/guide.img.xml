@@ -127,7 +127,7 @@
                 </canvas>
             </imgdir>
             <imgdir name="1">
-                <canvas name="0" width="43" height="111">
+                <canvas name="0" width="53" height="111">
                     <vector name="origin" x="21" y="55"/>
                     <int name="z" value="0"/>
                 </canvas>

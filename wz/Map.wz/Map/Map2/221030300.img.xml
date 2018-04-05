@@ -310,7 +310,6 @@
             <int name="y" value="503"/>
             <int name="tm" value="221030301"/>
             <string name="tn" value="west00"/>
-            <string name="script" value=""/>
         </imgdir>
         <imgdir name="5">
             <string name="pn" value="west00"/>
