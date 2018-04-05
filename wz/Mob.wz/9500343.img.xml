@@ -59,5 +59,8 @@
                 <int name="z" value="0"/>
             </canvas>
         </imgdir>
+        <int name="hpTagColor" value="1"/>
+        <int name="hpTagBgcolor" value="5"/>
+        <int name="HPgaugeHide" value="1"/>
     </imgdir>
 </imgdir>

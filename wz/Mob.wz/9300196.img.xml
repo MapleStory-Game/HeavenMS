@@ -280,5 +280,9 @@
             <int name="a0" value="255"/>
             <int name="a1" value="0"/>
         </canvas>
+        <imgdir name="speak">
+            <int name="prob" value="100"/>
+            <string name="0" value="Dead... Dead again... Finally!"/>
+        </imgdir>
     </imgdir>
 </imgdir>

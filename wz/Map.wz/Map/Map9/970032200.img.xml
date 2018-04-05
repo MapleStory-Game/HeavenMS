@@ -616,6 +616,18 @@
                 </imgdir>
             </imgdir>
         </imgdir>
+        <imgdir name="6">
+            <imgdir name="7">
+                <imgdir name="14">
+                    <int name="x1" value="-122"/>
+                    <int name="y1" value="46"/>
+                    <int name="x2" value="94"/>
+                    <int name="y2" value="46"/>
+                    <int name="prev" value="0"/>
+                    <int name="next" value="0"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
     </imgdir>
     <imgdir name="ladderRope">
     </imgdir>

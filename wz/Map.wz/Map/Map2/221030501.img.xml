@@ -280,6 +280,7 @@
             <int name="y" value="170"/>
             <int name="tm" value="999999999"/>
             <string name="tn" value=""/>
+            <string name="script" value=""/>
         </imgdir>
     </imgdir>
     <imgdir name="life">

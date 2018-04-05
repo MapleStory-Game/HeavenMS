@@ -269,6 +269,14 @@
                     <int name="prev" value="0"/>
                     <int name="next" value="2"/>
                 </imgdir>
+                <imgdir name="2">
+                    <int name="x1" value="49"/>
+                    <int name="y1" value="98"/>
+                    <int name="x2" value="439"/>
+                    <int name="y2" value="98"/>
+                    <int name="prev" value="1"/>
+                    <int name="next" value="0"/>
+                </imgdir>
             </imgdir>
             <imgdir name="1">
                 <imgdir name="2">
@@ -292,6 +300,15 @@
             <int name="y" value="19"/>
             <int name="tm" value="999999999"/>
             <string name="tn" value=""/>
+        </imgdir>
+        <imgdir name="1">
+            <int name="x" value="-306"/>
+            <int name="y" value="97"/>
+            <int name="pt" value="8"/>
+            <int name="tm" value="999999999"/>
+            <string name="tn" value=""/>
+            <string name="pn" value="portal"/>
+            <string name="script" value="jail_out"/>
         </imgdir>
     </imgdir>
 </imgdir>

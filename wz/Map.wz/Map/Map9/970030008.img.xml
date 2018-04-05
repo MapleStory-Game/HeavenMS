@@ -951,6 +951,7 @@
             <int name="y" value="2202"/>
             <int name="tm" value="970030000"/>
             <string name="tn" value="out00"/>
+            <string name="script" value="raid_rest"/>
         </imgdir>
     </imgdir>
 </imgdir>

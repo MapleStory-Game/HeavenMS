@@ -2804,6 +2804,7 @@
             <int name="y" value="161"/>
             <int name="tm" value="990000100"/>
             <string name="tn" value="st00"/>
+            <string name="script" value="guildwaitingenter"/>
         </imgdir>
     </imgdir>
 </imgdir>
