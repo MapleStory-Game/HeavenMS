@@ -57,7 +57,10 @@ function end(mode, type, selection) {
 			
 			qm.gainItem(1142130, true);
 			qm.changeJobById(2110);
-                        
+                        qm.teachSkill(21100002, 0, 30, -1); // final charge
+                        qm.teachSkill(21100004, 0, 30, -1); // 斗气爆裂
+                        qm.teachSkill(21100005, 0, 30, -1); // 连环吸血
+                        qm.teachSkill(21100000, 0, 30, -1); // 精准矛
 			qm.completeQuest();
 		}
                 

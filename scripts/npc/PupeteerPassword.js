@@ -18,6 +18,12 @@ function action(mode, type, selection){
 
 
 	if(status == 0){
+    if(cm.isQuestStarted(21728)) {
+      cm.playerMessage(5, "不知道密码进个J8。");
+      cm.warp(105040300);
+      cm.completeQuest(21728);
+      cm.dispose();
+    } else
 		cm.sendGetText("一个可疑的声音从洞中传来. #b暗号（123456）#k!");
 	}
 	else if(status == 1){
@@ -28,6 +34,7 @@ function action(mode, type, selection){
 				cm.warp(910510001, 1);
 			else
                                 cm.playerMessage(5, "虽然你说对了，但是一股神秘的力量使你无法进入。");
+                                
 
 			cm.dispose();
 		}
