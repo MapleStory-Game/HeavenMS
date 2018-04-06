@@ -511,7 +511,25 @@ public class Commands {
                         
                         player.showHint(showMsg, 300);
                     break;
-                     
+                     case "chongzhi":
+                        MapleItemInformationProvider ii = MapleItemInformationProvider.getInstance();
+                        for (Item torecharge : c.getPlayer().getInventory(MapleInventoryType.USE).list()) {
+                                if (ItemConstants.isThrowingStar(torecharge.getItemId())){
+                                        torecharge.setQuantity(ii.getSlotMax(c, torecharge.getItemId()));
+                                        c.getPlayer().forceUpdateItem(torecharge);
+                                } else if (ItemConstants.isArrow(torecharge.getItemId())){
+                                        torecharge.setQuantity(ii.getSlotMax(c, torecharge.getItemId()));
+                                        c.getPlayer().forceUpdateItem(torecharge);
+                                } else if (ItemConstants.isBullet(torecharge.getItemId())){
+                                        torecharge.setQuantity(ii.getSlotMax(c, torecharge.getItemId()));
+                                        c.getPlayer().forceUpdateItem(torecharge);
+                                } else if (ItemConstants.isConsumable(torecharge.getItemId())){
+                                        torecharge.setQuantity(ii.getSlotMax(c, torecharge.getItemId()));
+                                        c.getPlayer().forceUpdateItem(torecharge);
+                                }
+                        }
+                        player.dropMessage(5, "充值完毕.");
+                                break;
                 case "rates":
                         String showMsg_ = "#e服务器被驴#n" + "\r\n\r\n";
                         showMsg_ += "经验倍率: #e#b" + player.getExpRate() + "x#k#n" + "\r\n";
@@ -619,28 +637,7 @@ public class Commands {
 			} else {
 				player.dropMessage(5, "That map does not exist.");
 			}
-                                break;
-								
-                case "recharge":
-                        MapleItemInformationProvider ii = MapleItemInformationProvider.getInstance();
-                        for (Item torecharge : c.getPlayer().getInventory(MapleInventoryType.USE).list()) {
-                                if (ItemConstants.isThrowingStar(torecharge.getItemId())){
-                                        torecharge.setQuantity(ii.getSlotMax(c, torecharge.getItemId()));
-                                        c.getPlayer().forceUpdateItem(torecharge);
-                                } else if (ItemConstants.isArrow(torecharge.getItemId())){
-                                        torecharge.setQuantity(ii.getSlotMax(c, torecharge.getItemId()));
-                                        c.getPlayer().forceUpdateItem(torecharge);
-                                } else if (ItemConstants.isBullet(torecharge.getItemId())){
-                                        torecharge.setQuantity(ii.getSlotMax(c, torecharge.getItemId()));
-                                        c.getPlayer().forceUpdateItem(torecharge);
-                                } else if (ItemConstants.isConsumable(torecharge.getItemId())){
-                                        torecharge.setQuantity(ii.getSlotMax(c, torecharge.getItemId()));
-                                        c.getPlayer().forceUpdateItem(torecharge);
-                                }
-                        }
-                        player.dropMessage(5, "USE Recharged.");
-                                break;
-								
+                                break;						
                 case "whereami":
 			player.yellowMessage("Map ID: " + player.getMap().getId());
 			player.yellowMessage("Players on this map:");

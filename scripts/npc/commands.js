@@ -211,6 +211,7 @@ function writeSolaxiaCommandsLv0() {    //Common
         addCommand("ranks", "查看排行");
         addCommand("mob", "查看当前地图怪物ID和血量");
         addCommand("shanghai", "查看输出伤害");
+        addCommand("chongzhi", "充值消耗品");
 }
 
 function writeSolaxiaCommands() {
