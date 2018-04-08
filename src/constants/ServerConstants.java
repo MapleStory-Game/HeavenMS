@@ -26,7 +26,7 @@ public class ServerConstants {
     public static final long RANKING_INTERVAL = 60 * 60 * 1000;	//60 minutes, 3600000.
     public static final long  COUPON_INTERVAL = 60 * 60 * 1000;	//60 minutes, 3600000.
     
-    public static final boolean ENABLE_PIC = false;             //开启/关闭PIC
+    public static final boolean ENABLE_PIC = true;             //开启/关闭PIC
     public static final boolean ENABLE_PIN = false;             //开启/关闭PIN
     
     public static final boolean AUTOMATIC_REGISTER = true;      //自动注册

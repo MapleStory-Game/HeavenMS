@@ -16,8 +16,8 @@ function start(mode, type, selection) {
 			qm.sendNext("恭喜你当前等级已经到达#b50#k级。");
 			}
 		} else if (status == 1) { //奖励双倍经验值卡5 - 每天		
-			qm.sendOk("恭喜你获得系统奖励！\r\n\r\n#fUI/UIWindow.img/QuestIcon/4/0#\r\n#v5211018# 1张");
-			qm.gainItem(5211018, 1);
+			qm.sendOk("恭喜你获得系统奖励！\r\n\r\n#fUI/UIWindow.img/QuestIcon/4/0#\r\n#v5220000# 20张");
+			qm.gainItem(5220000, 1);
 			qm.forceCompleteQuest(4767);			
 			qm.dispose();
 		} 

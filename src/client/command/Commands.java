@@ -523,10 +523,10 @@ public class Commands {
                                 } else if (ItemConstants.isBullet(torecharge.getItemId())){
                                         torecharge.setQuantity(ii.getSlotMax(c, torecharge.getItemId()));
                                         c.getPlayer().forceUpdateItem(torecharge);
-                                } else if (ItemConstants.isConsumable(torecharge.getItemId())){
+                                }/* else if (ItemConstants.isConsumable(torecharge.getItemId())){
                                         torecharge.setQuantity(ii.getSlotMax(c, torecharge.getItemId()));
                                         c.getPlayer().forceUpdateItem(torecharge);
-                                }
+                                }*/
                         }
                         player.dropMessage(5, "充值完毕.");
                                 break;
