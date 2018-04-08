@@ -406,7 +406,8 @@ public class MapleMonster extends AbstractLoadedMapleLife {
                         //NO EXP WILL BE GIVEN for those who are underleveled!
                         giveExpToCharacter(mc, xp, isKiller, 1);
                     } else {
-                        underleveled.add(mc);
+                        //underleveled.add(mc);
+                        giveExpToCharacter(mc, xp, isKiller, 1);
                     }
                 }
             }
@@ -416,9 +417,9 @@ public class MapleMonster extends AbstractLoadedMapleLife {
             distributeExperienceToParty(party.getKey(), party.getValue(), killerId, underleveled, minThresholdLevel);
         }
         
-        for(MapleCharacter mc : underleveled) {
-            mc.showUnderleveledInfo(this);
-        }
+        /*for(MapleCharacter mc : underleveled) {
+        mc.showUnderleveledInfo(this);
+        }*/
     }
 
     public void giveExpToCharacter(MapleCharacter attacker, int exp, boolean isKiller, int numExpSharers) {
